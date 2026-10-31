@@ -60,7 +60,7 @@
    "maj": 0,
    "oth": 1,
    "auc": 0,
-   "rep": "Evap leak (P0442) fixed by Bentley in Oct 2026.",
+   "rep": "Evap leak code (P0442) cleared, not traced: tank-top parts unchecked. Cracked filler neck cover and 4 wheels repaired.",
    "tl": [
     [
      "2015",
@@ -90,7 +90,7 @@
     [
      "Oct 2026",
      "r",
-     "<b>Evap leak code fixed</b> by Bentley"
+     "<b>Evap leak code cleared, not traced.</b> Filler neck passed smoke test; canister, purge valve and leak pump sit on the tank and weren't checked. Light stayed off 4 drive cycles. Filler neck cover and 4 wheels repaired"
     ]
    ],
    "verdict": "Nothing broke on paper, but nothing was serviced either. Clean or neglected: only a PPI tells you.",
