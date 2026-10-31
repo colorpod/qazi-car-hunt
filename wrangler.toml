@@ -3,7 +3,6 @@ main = "worker.js"
 compatibility_date = "2026-04-01"
 workers_dev = true
 
-# Secret: ACCESS_KEY (wrangler secret put ACCESS_KEY). The unlock link is /k/<ACCESS_KEY>.
 
 [[rules]]
 type = "Text"

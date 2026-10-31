@@ -2,7 +2,7 @@
 
 Qazi's car searches, each run through its full CARFAX. One Cloudflare Worker serves one page: searches grouped by make, and each search expands into its report (repair chart, what changed, ranked car cards with service timelines).
 
-- Live: https://qazi-car-hunt.waqasqazi.workers.dev (unlock once per device with the `/k/<ACCESS_KEY>` link; without the cookie everything 404s, and the page is noindex)
+- Live and public: https://qazi-car-hunt.waqasqazi.workers.dev
 - Stack: `worker.js` + `app.html` (inline CSS/JS) + `searches/*.json`. No build step.
 
 ## Add a search
