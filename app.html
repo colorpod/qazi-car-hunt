@@ -78,6 +78,10 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(36px,7vw,52px);lin
 .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;flex-direction:column;gap:12px}
 .sbody .card{background:var(--bg)}
 .card.pick{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.card.sold{opacity:.62}
+.row .nm.soldnm{text-decoration:line-through;color:var(--muted)}
+.card.sold .rank{font-size:15px;letter-spacing:.06em;color:var(--bad);padding-top:6px}
+.soldtag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--bad);background:var(--bad-bg);border-radius:6px;padding:2px 7px;margin-top:5px}
 .hd{display:flex;gap:14px;align-items:flex-start}
 .rank{font-family:var(--display);font-weight:700;font-size:40px;line-height:.9;color:var(--accent);min-width:34px}
 .ttl{flex:1;min-width:0}
@@ -133,12 +137,12 @@ function report(s){
   const cars=s.cars;
   const rows=cars.map(c=>c.maj===null
     ?`<div class="row"><span class="nm">${esc(shortName(c.name))}</span><div class="track"></div><span class="v">n/a</span></div>`
-    :`<div class="row" data-r="${c.r}" tabindex="0" role="button" aria-label="${esc(c.name)}: ${c.maj} major, ${c.oth} other"><span class="nm">${esc(shortName(c.name))}</span><div class="track"><div class="seg maj" style="width:${c.maj/MAX*100}%"></div><div class="seg oth" style="width:${c.oth/MAX*100}%"></div></div><span class="v">${c.maj+c.oth}</span></div>`).join("");
+    :`<div class="row" data-r="${c.r}" tabindex="0" role="button" aria-label="${esc(c.name)}: ${c.maj} major, ${c.oth} other"><span class="nm${c.sold?' soldnm':''}">${esc(shortName(c.name))}</span><div class="track"><div class="seg maj" style="width:${c.maj/MAX*100}%"></div><div class="seg oth" style="width:${c.oth/MAX*100}%"></div></div><span class="v">${c.maj+c.oth}</span></div>`).join("");
   const cards=cars.map(c=>{
     const mvc=c.mv.startsWith("up")?"up":c.mv.startsWith("down")?"dn":"";
     const mvt=c.mv==="same"?"Same rank as before":(mvc==="up"?"▲ Up ":"▼ Down ")+c.mv.split(" ")[1];
-    return `<article class="card ${c.pick?'pick':''}">
-     <div class="hd"><div class="rank">${c.r}</div><div class="ttl"><h5>${esc(c.name)}</h5><div class="sub">${esc(c.car)} · ${esc(c.loc)}</div><div class="move ${mvc}">${mvt}</div></div><div class="grade ${c.gc}">${esc(c.g)}</div></div>
+    return `<article class="card ${c.pick?'pick':''} ${c.sold?'sold':''}">
+     <div class="hd"><div class="rank">${c.sold?'SOLD':c.r}</div><div class="ttl"><h5>${esc(c.name)}</h5><div class="sub">${esc(c.car)} · ${esc(c.loc)}</div>${c.sold?`<div class="soldtag">SOLD ${esc(c.sold)}</div>`:`<div class="move ${mvc}">${mvt}</div>`}</div><div class="grade ${c.gc}">${esc(c.g)}</div></div>
      <div class="nums">
        <div class="n"><b>${fmt(c.price)}</b><span>ASKING</span></div>
        <div class="n"><b>${esc(c.mi)}</b><span>MILES</span></div>
@@ -180,11 +184,12 @@ Object.keys(byMake).sort().forEach(make=>{
   const sec=document.createElement("section");sec.className="make";
   sec.innerHTML=`<h2>${esc(make)}</h2>`;
   byMake[make].forEach(s=>{
-    const top=s.cars.find(c=>c.pick)||s.cars[0];
-    const prices=s.cars.map(c=>c.price);
+    const live=s.cars.filter(c=>!c.sold);
+    const top=live.find(c=>c.pick)||live[0]||s.cars[0];
+    const prices=live.map(c=>c.price);
     const box=document.createElement("article");box.className="search";box.id=s.id;
     box.innerHTML=`<button class="shead" aria-expanded="false"><div><h3>${esc(s.model)}</h3><div class="sub">${esc(s.scope)} · ${dateLabel(s.date)}</div>
-      <div class="facts"><span class="chip">${s.cars.length} cars</span><span class="chip">${fmt(Math.min(...prices))} to ${fmt(Math.max(...prices))}</span><span class="chip g">Pick: ${esc(top.name)} ${esc(top.g)}</span></div></div><span class="chev" aria-hidden="true">▾</span></button>
+      <div class="facts"><span class="chip">${live.length} for sale${s.cars.length>live.length?` · ${s.cars.length-live.length} sold`:''}</span><span class="chip">${fmt(Math.min(...prices))} to ${fmt(Math.max(...prices))}</span><span class="chip g">Pick: ${esc(top.name)} ${esc(top.g)}</span></div></div><span class="chev" aria-hidden="true">▾</span></button>
       <div class="sbody"></div>`;
     const head=box.querySelector(".shead"),body=box.querySelector(".sbody");
     const toggle=(open)=>{

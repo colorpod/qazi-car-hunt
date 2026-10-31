@@ -12,8 +12,12 @@
    ""
   ],
   [
-   "1 car with nothing replaced",
-   "g"
+   "McLaren Chicago sold Oct 31",
+   "b"
+  ],
+  [
+   "0 clean cars still for sale",
+   "b"
   ],
   [
    "6 cars with an engine, gearbox or electrical repair",
@@ -24,77 +28,25 @@
    "w"
   ]
  ],
- "takeaway": "McLaren Chicago is the only clean car. Cascadia, the cheapest, carries a 3-year electrical trail that ends in a no-start.",
+ "takeaway": "McLaren Chicago, the only clean car, sold Oct 31. Bentley is now the best history left; Marino is the best price at $138,000 out the door.",
  "shift": [
   [
-   "McLaren Chicago to #1",
-   "2 owners, zero repairs, McLaren dealer serviced"
+   "McLaren Chicago sold",
+   "Deal made earlier in the week, Jake confirmed Oct 31"
   ],
   [
-   "Cascadia to #5",
-   "Battery, no-start, electrical checks, 2 auctions"
+   "Bentley to #1",
+   "No major repairs, but no service in 11 years: PPI decides"
   ],
   [
-   "Charlotte to #7",
-   "Transmission replaced last month"
+   "Marino at $138k",
+   "Out the door with transport, month-end counter"
   ]
  ],
  "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars has no public CARFAX.",
  "cars": [
   {
    "r": 1,
-   "mv": "up 1",
-   "g": "A",
-   "gc": "a",
-   "pick": true,
-   "name": "McLaren Chicago",
-   "car": "2015 · Tarocco Orange / Carbon Black",
-   "loc": "Hinsdale, IL",
-   "price": 160413,
-   "mi": "11,619",
-   "own": "2",
-   "days": "63",
-   "maj": 0,
-   "oth": 0,
-   "auc": 0,
-   "rep": "None. Only oil, brake fluid, filters, wipers and inspections.",
-   "tl": [
-    [
-     "2014",
-     "s",
-     "<b>Sold new</b> by Lake Forest Sportscars, Indiana owner"
-    ],
-    [
-     "2018 · 3.3k",
-     "w",
-     "<b>First service on record</b>, 4 years after delivery"
-    ],
-    [
-     "2019 · 3.4k",
-     "m",
-     "Owner 2 (Missouri). McLaren Chicago inspection, brakes, fluids"
-    ],
-    [
-     "2021-23",
-     "m",
-     "Yearly McLaren Chicago services, 5.6k to 8.9k mi"
-    ],
-    [
-     "2023-26",
-     "w",
-     "<b>No records for 2¾ years</b>, about 2,700 mi"
-    ],
-    [
-     "Sep 2026",
-     "m",
-     "Trade-in. Dealer oil service and inspection for sale"
-    ]
-   ],
-   "verdict": "The only car with nothing replaced. Ask for the 2014-2018 and 2023-2026 records, then a PPI.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/789612775"
-  },
-  {
-   "r": 2,
    "mv": "up 1",
    "g": "B",
    "gc": "b",
@@ -142,10 +94,11 @@
     ]
    ],
    "verdict": "Nothing broke on paper, but nothing was serviced either. Clean or neglected: only a PPI tells you.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/793443631"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/793443631",
+   "pick": true
   },
   {
-   "r": 3,
+   "r": 2,
    "mv": "up 1",
    "g": "B-",
    "gc": "b",
@@ -193,10 +146,11 @@
     ]
    ],
    "verdict": "Serviced often, but it had an engine oil-leak repair and two owners left inside 16 months. Stays evidence only.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/786277312"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/786277312",
+   "pick": false
   },
   {
-   "r": 4,
+   "r": 3,
    "mv": "up 1",
    "g": "C",
    "gc": "c",
@@ -249,11 +203,12 @@
     ]
    ],
    "verdict": "You called it. Fixes from year one, then the engine mounts done twice in 30 miles. Pass.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/794960435"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/794960435",
+   "pick": false
   },
   {
-   "r": 5,
-   "mv": "down 4",
+   "r": 4,
+   "mv": "up 1",
    "g": "C",
    "gc": "c",
    "name": "Cascadia Collection",
@@ -320,10 +275,11 @@
     ]
    ],
    "verdict": "Cheapest for a reason. Price evidence only, unless the Fields invoices and a McLaren PPI clear the electrical trail.",
-   "url": "https://www.cascadiacollection.com/inventory/mclaren/650s/89/"
+   "url": "https://www.cascadiacollection.com/inventory/mclaren/650s/89/",
+   "pick": false
   },
   {
-   "r": 6,
+   "r": 5,
    "mv": "up 1",
    "g": "C-",
    "gc": "c",
@@ -376,11 +332,12 @@
     ]
    ],
    "verdict": "A turbo at 11k and 3 years with no service. Pass.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/779982733"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/779982733",
+   "pick": false
   },
   {
-   "r": 7,
-   "mv": "down 1",
+   "r": 6,
+   "mv": "up 1",
    "g": "C-",
    "gc": "c",
    "name": "McLaren of Charlotte",
@@ -432,11 +389,12 @@
     ]
    ],
    "verdict": "The last buyer brought it back and the gearbox got replaced. Pass unless they show the invoice and warranty it.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/787799980"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/787799980",
+   "pick": false
   },
   {
-   "r": 8,
-   "mv": "same",
+   "r": 7,
+   "mv": "up 1",
    "g": "D",
    "gc": "c",
    "name": "Arizona dealer",
@@ -498,11 +456,12 @@
     ]
    ],
    "verdict": "13 repairs and two auctions. Closest thing to a lemon on the board. Pass.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/794086406"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/794086406",
+   "pick": false
   },
   {
-   "r": 9,
-   "mv": "same",
+   "r": 8,
+   "mv": "up 1",
    "g": "?",
    "gc": "",
    "name": "Chicago Motor Cars",
@@ -524,7 +483,66 @@
     ]
    ],
    "verdict": "Collector mileage at a collector price. Not worth chasing the report.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/780067274"
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/780067274",
+   "pick": false
+  },
+  {
+   "r": 9,
+   "mv": "same",
+   "g": "A",
+   "gc": "a",
+   "pick": false,
+   "name": "McLaren Chicago",
+   "car": "2015 · Tarocco Orange / Carbon Black",
+   "loc": "Hinsdale, IL",
+   "price": 160413,
+   "mi": "11,619",
+   "own": "2",
+   "days": "63",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "None. Only oil, brake fluid, filters, wipers and inspections.",
+   "tl": [
+    [
+     "2014",
+     "s",
+     "<b>Sold new</b> by Lake Forest Sportscars, Indiana owner"
+    ],
+    [
+     "2018 · 3.3k",
+     "w",
+     "<b>First service on record</b>, 4 years after delivery"
+    ],
+    [
+     "2019 · 3.4k",
+     "m",
+     "Owner 2 (Missouri). McLaren Chicago inspection, brakes, fluids"
+    ],
+    [
+     "2021-23",
+     "m",
+     "Yearly McLaren Chicago services, 5.6k to 8.9k mi"
+    ],
+    [
+     "2023-26",
+     "w",
+     "<b>No records for 2¾ years</b>, about 2,700 mi"
+    ],
+    [
+     "Sep 2026",
+     "m",
+     "Trade-in. Dealer oil service and inspection for sale"
+    ],
+    [
+     "Oct 2026",
+     "s",
+     "<b>Sold</b> to another buyer (Jake, Oct 31)"
+    ]
+   ],
+   "verdict": "<b>Sold.</b> Jake says they made a deal earlier in the week and will tell us if it falls through. Still the only car with nothing replaced.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/789612775",
+   "sold": "Oct 31"
   }
  ]
 }
