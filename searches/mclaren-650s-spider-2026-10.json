@@ -1,0 +1,530 @@
+{
+ "id": "mclaren-650s-spider-2026-10",
+ "make": "McLaren",
+ "model": "650S Spider",
+ "date": "2026-10-31",
+ "scope": "Under 20k miles · clean title · Autotrader 92618",
+ "title": "What Each Car Has Been Through",
+ "lead": "Every service line on 8 CARFAX reports, read one by one. Ranked by how the car has lived, not by price.",
+ "facts": [
+  [
+   "8 of 9 reports read",
+   ""
+  ],
+  [
+   "1 car with nothing replaced",
+   "g"
+  ],
+  [
+   "6 cars with an engine, gearbox or electrical repair",
+   "b"
+  ],
+  [
+   "3 cars sold at auction",
+   "w"
+  ]
+ ],
+ "takeaway": "McLaren Chicago is the only clean car. Cascadia, the cheapest, carries a 3-year electrical trail that ends in a no-start.",
+ "shift": [
+  [
+   "McLaren Chicago to #1",
+   "2 owners, zero repairs, McLaren dealer serviced"
+  ],
+  [
+   "Cascadia to #5",
+   "Battery, no-start, electrical checks, 2 auctions"
+  ],
+  [
+   "Charlotte to #7",
+   "Transmission replaced last month"
+  ]
+ ],
+ "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars has no public CARFAX.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "up 1",
+   "g": "A",
+   "gc": "a",
+   "pick": true,
+   "name": "McLaren Chicago",
+   "car": "2015 · Tarocco Orange / Carbon Black",
+   "loc": "Hinsdale, IL",
+   "price": 160413,
+   "mi": "11,619",
+   "own": "2",
+   "days": "63",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "None. Only oil, brake fluid, filters, wipers and inspections.",
+   "tl": [
+    [
+     "2014",
+     "s",
+     "<b>Sold new</b> by Lake Forest Sportscars, Indiana owner"
+    ],
+    [
+     "2018 · 3.3k",
+     "w",
+     "<b>First service on record</b>, 4 years after delivery"
+    ],
+    [
+     "2019 · 3.4k",
+     "m",
+     "Owner 2 (Missouri). McLaren Chicago inspection, brakes, fluids"
+    ],
+    [
+     "2021-23",
+     "m",
+     "Yearly McLaren Chicago services, 5.6k to 8.9k mi"
+    ],
+    [
+     "2023-26",
+     "w",
+     "<b>No records for 2¾ years</b>, about 2,700 mi"
+    ],
+    [
+     "Sep 2026",
+     "m",
+     "Trade-in. Dealer oil service and inspection for sale"
+    ]
+   ],
+   "verdict": "The only car with nothing replaced. Ask for the 2014-2018 and 2023-2026 records, then a PPI.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/789612775"
+  },
+  {
+   "r": 2,
+   "mv": "up 1",
+   "g": "B",
+   "gc": "b",
+   "name": "Bentley Jacksonville",
+   "car": "2015 · Volcano Red / black, red stitching",
+   "loc": "Jacksonville, FL",
+   "price": 159094,
+   "mi": "6,768",
+   "own": "2",
+   "days": "22",
+   "maj": 0,
+   "oth": 1,
+   "auc": 0,
+   "rep": "Evap leak (P0442) fixed by Bentley in Oct 2026.",
+   "tl": [
+    [
+     "2015",
+     "s",
+     "Owner 1, Texas"
+    ],
+    [
+     "2015-22",
+     "w",
+     "<b>Zero service records</b> in 6½ years, 3,000 mi"
+    ],
+    [
+     "2022",
+     "s",
+     "Owner 2, Texas"
+    ],
+    [
+     "2022-26",
+     "w",
+     "<b>Zero service records</b> again"
+    ],
+    [
+     "Aug 2026",
+     "m",
+     "First service on record, Pegasus Exotic (independent)"
+    ],
+    [
+     "Oct 2026",
+     "r",
+     "<b>Evap leak code fixed</b> by Bentley"
+    ]
+   ],
+   "verdict": "Nothing broke on paper, but nothing was serviced either. Clean or neglected: only a PPI tells you.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/793443631"
+  },
+  {
+   "r": 3,
+   "mv": "up 1",
+   "g": "B-",
+   "gc": "b",
+   "name": "Marino Performance",
+   "car": "2015 · Titanium Silver / Carbon Black",
+   "loc": "West Palm Beach, FL",
+   "price": 143695,
+   "mi": "14,817",
+   "own": "4",
+   "days": "100",
+   "maj": 1,
+   "oth": 3,
+   "auc": 0,
+   "rep": "Engine front cover gasket + oil pressure sender, airbag assembly, wheel, rear brake pads on a new car.",
+   "tl": [
+    [
+     "2015",
+     "r",
+     "Dealer demo. <b>Rear brake pads and a wheel replaced</b> before the first sale"
+    ],
+    [
+     "2016",
+     "s",
+     "Owner 2, Florida, about 1,800 mi a year"
+    ],
+    [
+     "2018",
+     "r",
+     "<b>Right airbag assembly replaced</b>; extended warranty bought twice"
+    ],
+    [
+     "2022-23",
+     "r",
+     "<b>Engine front cover gasket and oil pressure sender replaced</b> (oil leak), ~11.7k mi"
+    ],
+    [
+     "2025",
+     "s",
+     "Owner 3 keeps it 7 months"
+    ],
+    [
+     "2025-26",
+     "s",
+     "Owner 4 leases it 9 months, back at Marino"
+    ]
+   ],
+   "verdict": "Serviced often, but it had an engine oil-leak repair and two owners left inside 16 months. Stays evidence only.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/786277312"
+  },
+  {
+   "r": 4,
+   "mv": "up 1",
+   "g": "C",
+   "gc": "c",
+   "name": "Exotic Knights",
+   "car": "2016 · Gray / Black-Red",
+   "loc": "Orlando, FL",
+   "price": 161389,
+   "mi": "13,988",
+   "own": "3",
+   "days": "1",
+   "maj": 2,
+   "oth": 3,
+   "auc": 0,
+   "rep": "Door lock at 1k mi, new keys, engine mounts twice, wheel bearings, 3 tire sets by 11k mi.",
+   "tl": [
+    [
+     "2016 · 1k",
+     "r",
+     "<b>Door lock replaced</b>, A/C checked, inside the first 1,000 mi"
+    ],
+    [
+     "2019 · 4.7k",
+     "m",
+     "Tires replaced"
+    ],
+    [
+     "2022 · 6.9k",
+     "m",
+     "Tires replaced again before resale"
+    ],
+    [
+     "2023 · 11.2k",
+     "r",
+     "<b>New keys cut and programmed</b>, more tires"
+    ],
+    [
+     "Oct-Nov 2023",
+     "s",
+     "<b>4 dealers in 4 weeks</b> (Denver, Walser, Wichita, Charlotte), duplicate title"
+    ],
+    [
+     "Sep 2024",
+     "r",
+     "<b>Engine mounts replaced</b> at McLaren Charlotte"
+    ],
+    [
+     "Oct 2024",
+     "r",
+     "<b>Engine mounts replaced again</b> 30 mi later, wheel bearings serviced"
+    ]
+   ],
+   "verdict": "You called it. Fixes from year one, then the engine mounts done twice in 30 miles. Pass.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/794960435"
+  },
+  {
+   "r": 5,
+   "mv": "down 4",
+   "g": "C",
+   "gc": "c",
+   "name": "Cascadia Collection",
+   "car": "2015 · Pearl White / Arabica Brown",
+   "loc": "Enumclaw, WA",
+   "price": 130050,
+   "mi": "14,267",
+   "own": "4",
+   "days": "22",
+   "maj": 1,
+   "oth": 5,
+   "auc": 2,
+   "rep": "Electrical saga (computer, battery, intercooler, no-start, body electrical twice), wheel, windshield, accumulators.",
+   "tl": [
+    [
+     "2015",
+     "s",
+     "McLaren Philadelphia demo, then a California owner"
+    ],
+    [
+     "Jul 2020",
+     "s",
+     "<b>Sold at auction</b> (1st)"
+    ],
+    [
+     "Oct 2022",
+     "r",
+     "<b>Wheel replaced</b>, engine oil pressure checked"
+    ],
+    [
+     "Jan 2023",
+     "r",
+     "<b>Engine computer checked</b>, windshield repaired"
+    ],
+    [
+     "Mar 2023",
+     "w",
+     "Transmission fluid changed twice in 12 days"
+    ],
+    [
+     "May 2024",
+     "r",
+     "<b>Battery replaced</b>, drivability checked"
+    ],
+    [
+     "Jan 2026",
+     "r",
+     "<b>Electrical system checked</b>, intercooler serviced"
+    ],
+    [
+     "Apr 2026",
+     "r",
+     "<b>No-start / hard-start</b> at Need4Built"
+    ],
+    [
+     "Jul 2026",
+     "r",
+     "<b>Electrical, cooling, engine, gearbox checked</b>; electrical again 2 weeks later"
+    ],
+    [
+     "Oct 2026",
+     "s",
+     "Owner 4 dumps it at <b>auction</b> (2nd) after 5½ months"
+    ]
+   ],
+   "verdict": "Cheapest for a reason. Price evidence only, unless the Fields invoices and a McLaren PPI clear the electrical trail.",
+   "url": "https://www.cascadiacollection.com/inventory/mclaren/650s/89/"
+  },
+  {
+   "r": 6,
+   "mv": "up 1",
+   "g": "C-",
+   "gc": "c",
+   "name": "Tampa Auto Gallery",
+   "car": "2015 · Orange",
+   "loc": "Tampa, FL",
+   "price": 145426,
+   "mi": "13,460",
+   "own": "5",
+   "days": "103",
+   "maj": 1,
+   "oth": 2,
+   "auc": 1,
+   "rep": "Turbocharger at ~11.3k mi, all 4 tires at 464 mi, wheel repaired.",
+   "tl": [
+    [
+     "Nov 2014",
+     "r",
+     "<b>All 4 tires replaced at 464 mi</b>"
+    ],
+    [
+     "2015",
+     "s",
+     "Corporate first owner, California"
+    ],
+    [
+     "2018 · 4.7k",
+     "m",
+     "Tires replaced again"
+    ],
+    [
+     "Jul 2023",
+     "s",
+     "<b>Sold at auction</b>"
+    ],
+    [
+     "Sep 2023",
+     "r",
+     "<b>Turbocharger replaced/repaired</b>, ~11.3k mi"
+    ],
+    [
+     "Nov 2023",
+     "r",
+     "<b>Wheel repaired</b>"
+    ],
+    [
+     "2024-26",
+     "w",
+     "<b>Two owners, zero service records</b> for 3 years"
+    ]
+   ],
+   "verdict": "A turbo at 11k and 3 years with no service. Pass.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/779982733"
+  },
+  {
+   "r": 7,
+   "mv": "down 1",
+   "g": "C-",
+   "gc": "c",
+   "name": "McLaren of Charlotte",
+   "car": "2015 · White / Black",
+   "loc": "Charlotte, NC",
+   "price": 153076,
+   "mi": "18,703",
+   "own": "3",
+   "days": "83",
+   "maj": 1,
+   "oth": 1,
+   "auc": 0,
+   "rep": "Transmission replaced Sep 2026, right airbag assembly 2019.",
+   "tl": [
+    [
+     "2015",
+     "s",
+     "Commercial first owner, McLaren Boston"
+    ],
+    [
+     "2018 · 3.8k",
+     "w",
+     "Battery and charging system checked"
+    ],
+    [
+     "2019 · 4.2k",
+     "r",
+     "<b>Right airbag assembly replaced</b> (same part as Marino: likely a factory campaign)"
+    ],
+    [
+     "2020",
+     "w",
+     "Engine and powertrain computer checked"
+    ],
+    [
+     "Jan 2026",
+     "s",
+     "Sold by McLaren Charlotte"
+    ],
+    [
+     "Aug 2026",
+     "s",
+     "<b>Back on their lot</b> 7 months and 600 mi later"
+    ],
+    [
+     "Sep 2026",
+     "r",
+     "<b>Transmission replaced</b> at 18,694 mi"
+    ]
+   ],
+   "verdict": "The last buyer brought it back and the gearbox got replaced. Pass unless they show the invoice and warranty it.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/787799980"
+  },
+  {
+   "r": 8,
+   "mv": "same",
+   "g": "D",
+   "gc": "c",
+   "name": "Arizona dealer",
+   "car": "2016 · White / Carbon Black",
+   "loc": "Chapman BMW, Phoenix",
+   "price": 174580,
+   "mi": "13,591",
+   "own": "5",
+   "days": "10",
+   "maj": 3,
+   "oth": 10,
+   "auc": 2,
+   "rep": "Knock sensors, gearbox output shaft seal, fuel tank out and back, clockspring, battery, keys, switch, pump, wheel, seat, console, trim.",
+   "tl": [
+    [
+     "2015-16",
+     "w",
+     "<b>17 dealer visits</b> in 18 months on a lease with under 1,100 mi"
+    ],
+    [
+     "2018",
+     "r",
+     "<b>Battery replaced</b>"
+    ],
+    [
+     "2019",
+     "r",
+     "<b>Knock sensors and key fobs replaced</b>"
+    ],
+    [
+     "2019-20",
+     "s",
+     "<b>Sold at auction twice</b>"
+    ],
+    [
+     "2021",
+     "r",
+     "<b>Brake light switch</b>, wheel repaired"
+    ],
+    [
+     "2022",
+     "r",
+     "<b>Washer pump</b>, keys reprogrammed"
+    ],
+    [
+     "2023",
+     "r",
+     "<b>Fuel tank removed and refitted</b>, 2 tire sets in 7 weeks, seat repaired, airbag clockspring"
+    ],
+    [
+     "2024",
+     "r",
+     "<b>Gearbox output shaft seal replaced</b> (leak), console and trim"
+    ],
+    [
+     "2024-26",
+     "s",
+     "Two duplicate titles; owner 5 sold it within 2 months"
+    ]
+   ],
+   "verdict": "13 repairs and two auctions. Closest thing to a lemon on the board. Pass.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/794086406"
+  },
+  {
+   "r": 9,
+   "mv": "same",
+   "g": "?",
+   "gc": "",
+   "name": "Chicago Motor Cars",
+   "car": "2016 · Silver / Carbon Black",
+   "loc": "West Chicago, IL",
+   "price": 180212,
+   "mi": "1,785",
+   "own": "?",
+   "days": "?",
+   "maj": null,
+   "oth": null,
+   "auc": null,
+   "rep": "No public CARFAX: not on carfax.com, and Autotrader offers only a paid report.",
+   "tl": [
+    [
+     "Now",
+     "w",
+     "<b>History unknown</b>. 1,785 mi, $50k over the field"
+    ]
+   ],
+   "verdict": "Collector mileage at a collector price. Not worth chasing the report.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/780067274"
+  }
+ ]
+}

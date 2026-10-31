@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#0f1114">
+<title>Qazi Car Hunt</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23e2591b'/%3E%3Cpath d='M14 38l5-11c1-2 3-3 5-3h16c2 0 4 1 5 3l5 11v8h-6v-4H20v4h-6z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: searches grouped by make; each search row expands into its full CARFAX report (chart, shifts, ranked car cards with timelines). Phone first. */
+:root{
+  --bg:#f3f4f6; --panel:#ffffff; --ink:#14161a; --muted:#5b6170; --line:#dde0e6;
+  --accent:#e2591b; --good:#1f8a4c; --warn:#b7791f; --bad:#c2372f;
+  --good-bg:#e5f4ea; --warn-bg:#fbf1dc; --bad-bg:#fbe6e4; --chip:#eef0f4;
+  --display:"Barlow Condensed","Arial Narrow",sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1114; --panel:#181b20; --ink:#eef0f3; --muted:#9aa1ad; --line:#2a2f37;
+  --accent:#ff7a3d; --good:#4cc97f; --warn:#e7b04c; --bad:#ff6b5f;
+  --good-bg:#16301f; --warn-bg:#33290f; --bad-bg:#3a1714; --chip:#22262d; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1114; --panel:#181b20; --ink:#eef0f3; --muted:#9aa1ad; --line:#2a2f37;
+  --accent:#ff7a3d; --good:#4cc97f; --warn:#e7b04c; --bad:#ff6b5f;
+  --good-bg:#16301f; --warn-bg:#33290f; --bad-bg:#3a1714; --chip:#22262d; color-scheme:dark}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45}
+.wrap{max-width:860px;margin:0 auto;padding-block:max(28px,env(safe-area-inset-top,0px)) 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:22px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(36px,7vw,52px);line-height:1;margin:0;letter-spacing:.01em}
+.lead{margin:6px 0 0;color:var(--muted);max-width:62ch}
+.label{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.facts{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font-size:12.5px;padding:4px 10px;border-radius:999px;background:var(--chip);color:var(--ink);white-space:nowrap}
+.chip.g{background:var(--good-bg);color:var(--good)} .chip.w{background:var(--warn-bg);color:var(--warn)} .chip.b{background:var(--bad-bg);color:var(--bad)}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px}
+/* index */
+.make{display:flex;flex-direction:column;gap:10px}
+.make h2{font-family:var(--display);font-weight:700;font-size:28px;margin:0;line-height:1}
+.search{background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.search.open{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.shead{all:unset;box-sizing:border-box;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;width:100%;padding:16px 18px;cursor:pointer}
+.shead:focus-visible{outline:2px solid var(--accent);outline-offset:-2px;border-radius:14px}
+.shead h3{font-family:var(--display);font-weight:600;font-size:24px;line-height:1.05;margin:0}
+.shead .sub{color:var(--muted);font-size:13px;margin-top:3px}
+.shead .facts{margin-top:10px}
+.chev{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--chip);color:var(--accent);font-size:18px;transition:transform .2s}
+.search.open .chev{transform:rotate(180deg)}
+.sbody{display:none;padding:4px 18px 22px;flex-direction:column;gap:22px;border-top:1px solid var(--line)}
+.search.open .sbody{display:flex}
+.sbody > header{padding-top:16px}
+.sbody h4{font-family:var(--display);font-weight:700;font-size:clamp(30px,6vw,42px);line-height:1;margin:0}
+/* health chart */
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12.5px;color:var(--muted);margin-top:10px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.chart{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.row{display:grid;grid-template-columns:104px 1fr 44px;gap:10px;align-items:center;font-size:13px}
+.row .nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.track{position:relative;height:18px;background:var(--chip);border-radius:4px;display:flex;overflow:hidden}
+.row[data-r]{cursor:pointer}
+.seg{height:100%} .seg.maj{background:var(--bad)} .seg.oth{background:var(--warn)}
+.row .v{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;font-size:12.5px}
+.axis{display:grid;grid-template-columns:104px 1fr 44px;gap:10px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.axis .ticks{display:flex;justify-content:space-between}
+.axis .xl{grid-column:2;text-align:center;font-family:var(--body);font-size:11.5px;margin-top:2px}
+.tip{min-height:20px;font-size:13px;margin-top:8px}
+.take{margin:10px 0 0;font-size:13.5px}
+.shift{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:10px}
+.sh{background:var(--chip);border-radius:10px;padding:10px 12px}
+.sh b{display:block;font-family:var(--display);font-size:20px;line-height:1.1}
+.sh span{font-size:12.5px;color:var(--muted)}
+/* cards */
+.cards{display:flex;flex-direction:column;gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;flex-direction:column;gap:12px}
+.sbody .card{background:var(--bg)}
+.card.pick{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.hd{display:flex;gap:14px;align-items:flex-start}
+.rank{font-family:var(--display);font-weight:700;font-size:40px;line-height:.9;color:var(--accent);min-width:34px}
+.ttl{flex:1;min-width:0}
+.ttl h5{font-family:var(--display);font-weight:600;font-size:23px;line-height:1.05;margin:0}
+.ttl .sub{color:var(--muted);font-size:13px;margin-top:3px}
+.move{font-size:11.5px;font-weight:600;margin-top:4px;color:var(--muted)}
+.move.up{color:var(--good)} .move.dn{color:var(--bad)}
+.grade{font-family:var(--display);font-weight:700;font-size:26px;line-height:1;padding:4px 10px;border-radius:8px;background:var(--chip)}
+.grade.a{background:var(--good-bg);color:var(--good)} .grade.b{background:var(--warn-bg);color:var(--warn)} .grade.c{background:var(--bad-bg);color:var(--bad)}
+.nums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+.n{background:var(--chip);border-radius:8px;padding:7px 9px;min-width:0}
+.n b{display:block;font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:14px;font-weight:500}
+.n span{font-size:11px;color:var(--muted);letter-spacing:.04em}
+.n.b b{color:var(--bad)} .n.g b{color:var(--good)}
+.tl{list-style:none;margin:0;padding:0}
+.tl li{display:grid;grid-template-columns:76px 14px 1fr;gap:10px;font-size:13.5px;padding-bottom:9px}
+.tl .when{font-family:var(--mono);font-size:11.5px;color:var(--muted);text-align:right;padding-top:2px;line-height:1.3}
+.tl .dot{position:relative}
+.tl .dot::before{content:"";position:absolute;left:6px;top:0;bottom:-9px;width:2px;background:var(--line)}
+.tl li:last-child .dot::before{display:none}
+.tl .dot::after{content:"";position:absolute;left:2px;top:4px;width:10px;height:10px;border-radius:50%;background:var(--muted);box-shadow:0 0 0 3px var(--bg)}
+.tl .r .dot::after{background:var(--bad)} .tl .m .dot::after{background:var(--good)} .tl .s .dot::after{background:var(--accent)} .tl .w .dot::after{background:var(--warn)}
+.tl .what b{font-weight:600} .tl .r .what b{color:var(--bad)}
+.verdict{font-size:14px;border-top:1px solid var(--line);padding-top:9px}
+.verdict b{color:var(--accent)}
+a.btn{align-self:flex-start;font-size:13px;font-weight:600;color:var(--accent);text-decoration:none;border:1px solid var(--accent);border-radius:999px;padding:5px 12px}
+a.btn:hover,a.btn:focus-visible{background:var(--accent);color:var(--panel);outline:none}
+.foot{font-size:12.5px;color:var(--muted);margin:0}
+.empty{color:var(--muted)}
+@media (max-width:520px){.nums{grid-template-columns:repeat(2,minmax(0,1fr))}.row,.axis{grid-template-columns:84px 1fr 38px}.shift{grid-template-columns:1fr}.tl li{grid-template-columns:62px 14px 1fr}.sbody{padding:4px 14px 18px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="label">Walt · car searches</div>
+    <h1>Qazi Car Hunt</h1>
+    <p class="lead">Every car you send me, run through its full CARFAX. Tap a search to open its report.</p>
+  </header>
+  <main id="makes"></main>
+</div>
+<script>
+const SEARCHES=/*__SEARCHES__*/[];
+const fmt=n=>"$"+n.toLocaleString("en-US");
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const MAX=16;
+function shortName(n){return n.replace(" Collection","").replace(" Performance","").replace(" Auto Gallery","").replace("McLaren of ","").replace(" Jacksonville","").replace(" dealer","").replace(" Motor Cars"," Motor");}
+function dateLabel(d){return new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});}
+function report(s){
+  const cars=s.cars;
+  const rows=cars.map(c=>c.maj===null
+    ?`<div class="row"><span class="nm">${esc(shortName(c.name))}</span><div class="track"></div><span class="v">n/a</span></div>`
+    :`<div class="row" data-r="${c.r}" tabindex="0" role="button" aria-label="${esc(c.name)}: ${c.maj} major, ${c.oth} other"><span class="nm">${esc(shortName(c.name))}</span><div class="track"><div class="seg maj" style="width:${c.maj/MAX*100}%"></div><div class="seg oth" style="width:${c.oth/MAX*100}%"></div></div><span class="v">${c.maj+c.oth}</span></div>`).join("");
+  const cards=cars.map(c=>{
+    const mvc=c.mv.startsWith("up")?"up":c.mv.startsWith("down")?"dn":"";
+    const mvt=c.mv==="same"?"Same rank as before":(mvc==="up"?"▲ Up ":"▼ Down ")+c.mv.split(" ")[1];
+    return `<article class="card ${c.pick?'pick':''}">
+     <div class="hd"><div class="rank">${c.r}</div><div class="ttl"><h5>${esc(c.name)}</h5><div class="sub">${esc(c.car)} · ${esc(c.loc)}</div><div class="move ${mvc}">${mvt}</div></div><div class="grade ${c.gc}">${esc(c.g)}</div></div>
+     <div class="nums">
+       <div class="n"><b>${fmt(c.price)}</b><span>ASKING</span></div>
+       <div class="n"><b>${esc(c.mi)}</b><span>MILES</span></div>
+       <div class="n ${c.maj?'b':(c.maj===0?'g':'')}"><b>${c.maj===null?'?':c.maj+' / '+c.oth}</b><span>MAJOR / OTHER</span></div>
+       <div class="n ${c.auc?'b':''}"><b>${esc(c.own)} · ${c.auc===null?'?':c.auc}</b><span>OWNERS · AUCTIONS</span></div>
+     </div>
+     <ol class="tl">${c.tl.map(([w,k,t])=>`<li class="${k}"><span class="when">${esc(w)}</span><span class="dot"></span><span class="what">${t}</span></li>`).join("")}</ol>
+     <div class="verdict"><b>Verdict:</b> ${c.verdict}</div>
+     <a class="btn" href="${esc(c.url)}" target="_blank" rel="noopener">Open listing</a>
+    </article>`;}).join("");
+  return `<header><div class="label">${esc(s.make)} ${esc(s.model)} · full CARFAX read · ${dateLabel(s.date)}</div><h4>${esc(s.title)}</h4><p class="lead">${esc(s.lead)}</p></header>
+   <div class="facts">${s.facts.map(([t,k])=>`<span class="chip ${k}">${esc(t)}</span>`).join("")}</div>
+   <section class="panel">
+     <div class="label">Parts replaced or repaired, beyond routine maintenance</div>
+     <div class="legend"><span><i style="background:var(--bad)"></i>Major: engine, gearbox, electrical</span><span><i style="background:var(--warn)"></i>Other: wheels, keys, trim, airbag parts, early tires</span></div>
+     <div class="chart">${rows}</div>
+     <div class="axis" style="margin-top:6px"><span></span><div class="ticks"><span>0</span><span>4</span><span>8</span><span>12</span><span>16</span></div><span></span><span class="xl">Number of repairs on CARFAX</span></div>
+     <div class="tip">Tap a bar to see that car's repairs.</div>
+     <p class="take"><b>Takeaway:</b> ${esc(s.takeaway)}</p>
+   </section>
+   ${s.shift&&s.shift.length?`<section class="panel"><div class="label">What the deep read changes</div><div class="shift">${s.shift.map(([b,t])=>`<div class="sh"><b>${esc(b)}</b><span>${esc(t)}</span></div>`).join("")}</div></section>`:""}
+   <div class="legend" style="margin-top:-8px"><span><i style="background:var(--bad);border-radius:50%"></i>Repair</span><span><i style="background:var(--warn);border-radius:50%"></i>Gap or check</span><span><i style="background:var(--good);border-radius:50%"></i>Routine service</span><span><i style="background:var(--accent);border-radius:50%"></i>Owner change or sale</span></div>
+   <section class="cards">${cards}</section>
+   <p class="foot">Sources: ${esc(s.sources)}</p>`;
+}
+function wire(el,s){
+  const tip=el.querySelector(".tip");
+  el.querySelectorAll(".row[data-r]").forEach(row=>{
+    const c=s.cars.find(x=>x.r==row.dataset.r);
+    const show=()=>{tip.innerHTML=`<b>${esc(c.name)}:</b> ${c.maj} major, ${c.oth} other. ${esc(c.rep)}`;};
+    row.addEventListener("click",show);row.addEventListener("mouseenter",show);row.addEventListener("focus",show);
+  });
+}
+const root=document.getElementById("makes");
+if(!SEARCHES.length){root.innerHTML='<p class="empty">No searches yet.</p>';}
+const byMake={};
+[...SEARCHES].sort((a,b)=>b.date.localeCompare(a.date)).forEach(s=>(byMake[s.make]=byMake[s.make]||[]).push(s));
+Object.keys(byMake).sort().forEach(make=>{
+  const sec=document.createElement("section");sec.className="make";
+  sec.innerHTML=`<h2>${esc(make)}</h2>`;
+  byMake[make].forEach(s=>{
+    const top=s.cars.find(c=>c.pick)||s.cars[0];
+    const prices=s.cars.map(c=>c.price);
+    const box=document.createElement("article");box.className="search";box.id=s.id;
+    box.innerHTML=`<button class="shead" aria-expanded="false"><div><h3>${esc(s.model)}</h3><div class="sub">${esc(s.scope)} · ${dateLabel(s.date)}</div>
+      <div class="facts"><span class="chip">${s.cars.length} cars</span><span class="chip">${fmt(Math.min(...prices))} to ${fmt(Math.max(...prices))}</span><span class="chip g">Pick: ${esc(top.name)} ${esc(top.g)}</span></div></div><span class="chev" aria-hidden="true">▾</span></button>
+      <div class="sbody"></div>`;
+    const head=box.querySelector(".shead"),body=box.querySelector(".sbody");
+    const toggle=(open)=>{
+      if(open&&!body.dataset.done){body.innerHTML=report(s);wire(body,s);body.dataset.done=1;}
+      box.classList.toggle("open",open);head.setAttribute("aria-expanded",open);
+      if(open)history.replaceState(null,"","#"+s.id);else if(location.hash==="#"+s.id)history.replaceState(null,"",location.pathname);
+    };
+    head.addEventListener("click",()=>toggle(!box.classList.contains("open")));
+    sec.appendChild(box);
+    if(location.hash==="#"+s.id)setTimeout(()=>{toggle(true);box.scrollIntoView();},0);
+  });
+  root.appendChild(sec);
+});
+</script>
+</body>
+</html>
