@@ -465,25 +465,35 @@
    "g": "?",
    "gc": "",
    "name": "Chicago Motor Cars",
-   "car": "2016 · Silver / Carbon Black",
+   "car": "2016 · Supernova Silver / Carbon Black, loaded carbon, lift, sport exhaust",
    "loc": "West Chicago, IL",
-   "price": 180212,
+   "price": 170212,
    "mi": "1,785",
    "own": "?",
    "days": "?",
    "maj": null,
    "oth": null,
    "auc": null,
-   "rep": "No public CARFAX: not on carfax.com, and Autotrader offers only a paid report.",
+   "rep": "No public CARFAX (dealer link is the paid report). Price cut from $179,800 to $169,800.",
    "tl": [
+    [
+     "2016",
+     "s",
+     "Built with Tech Pack, sport exhaust, front lift, carbon air brake, sills, mirrors and spoiler"
+    ],
     [
      "Now",
      "w",
-     "<b>History unknown</b>. 1,785 mi, $50k over the field"
+     "<b>History unknown</b>. 1,785 mi; CARFAX only as a paid report"
+    ],
+    [
+     "Oct 2026",
+     "m",
+     "<b>Price cut $10,000</b>, $179,800 to $169,800 (+$412 fees)"
     ]
    ],
-   "verdict": "Collector mileage at a collector price. Not worth chasing the report.",
-   "url": "https://www.autotrader.com/cars-for-sale/vehicle/780067274",
+   "verdict": "The spec Qazi wants (exterior carbon, lift, exhaust) at 1,785 miles. Worth a real look: get the CARFAX and service records from the dealer, then push from the $10k cut.",
+   "url": "https://www.chicagomotorcars.com/2016-mclaren-650s-spider-1700-miles-axle-lifter-advanced-tec-pkg-sport-exhaust-tons-of-carbon-fiber-c-13575/",
    "pick": false
   },
   {
