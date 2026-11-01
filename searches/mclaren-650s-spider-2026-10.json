@@ -43,7 +43,7 @@
    "Out the door with transport, month-end counter"
   ]
  ],
- "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars has no public CARFAX.",
+ "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars has no public CARFAX. Days listed from CarGurus (Nov 1). MSRP from the original window sticker or the dealer's listing.",
  "cars": [
   {
    "r": 1,
@@ -56,7 +56,6 @@
    "price": 159094,
    "mi": "6,768",
    "own": "2",
-   "days": "22",
    "maj": 0,
    "oth": 1,
    "auc": 0,
@@ -95,7 +94,13 @@
    ],
    "verdict": "Nothing broke on paper, but nothing was serviced either. Clean or neglected: only a PPI tells you.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/793443631",
-   "pick": true
+   "pick": true,
+   "vin": "SBM11FAA9FW005075",
+   "listed": "2026-10-14",
+   "msrp": 322735,
+   "msrpSrc": "$280,225 base + $42,510 options on the original sticker",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/TCYXdaPoor7xhq_je3LQwM3NOQWL7MhtTCdrQ5UbCOiwZT2F4mLFKqcMAK36wapb33LidATAAyeYKxRUwTB2gE_I_DW3gbhvbD0",
+   "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/435/5218/2170691655/msrp/2170691655.20261013.141021-msrp-01.pdf"
   },
   {
    "r": 2,
@@ -108,7 +113,6 @@
    "price": 143695,
    "mi": "14,817",
    "own": "4",
-   "days": "100",
    "maj": 1,
    "oth": 3,
    "auc": 0,
@@ -147,7 +151,13 @@
    ],
    "verdict": "Serviced often, but it had an engine oil-leak repair and two owners left inside 16 months. Stays evidence only.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/786277312",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAA6FW004286",
+   "listed": "2026-07-23",
+   "msrp": 301915,
+   "msrpSrc": "Dealer listing: original MSRP $301,915",
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/KsXuYrt_rMUgXUTmikmUgAMMzzBudLxFJVOtao_DgbVU0R4Uub9GlZz2r2a4nxSxTs9wRTbZuchey3l9NYzEyVCUH7rmOcPccSwQYQ1x",
+   "sticker": null
   },
   {
    "r": 3,
@@ -160,7 +170,6 @@
    "price": 161389,
    "mi": "13,988",
    "own": "3",
-   "days": "1",
    "maj": 2,
    "oth": 3,
    "auc": 0,
@@ -204,7 +213,12 @@
    ],
    "verdict": "You called it. Fixes from year one, then the engine mounts done twice in 30 miles. Pass.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/794960435",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAA1GW005928",
+   "listed": "2026-10-14",
+   "msrp": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/QXH73JtDxrwg2XBuk70YrMSFaUhavgF_mHC8aIpKFaNSuKINL_h1ZuniskTTkW8UyTqReqsGr5RpFFORG0za29RZ7CQbwCivr_IIwSv7",
+   "sticker": null
   },
   {
    "r": 4,
@@ -217,7 +231,6 @@
    "price": 130050,
    "mi": "14,267",
    "own": "4",
-   "days": "22",
    "maj": 1,
    "oth": 5,
    "auc": 2,
@@ -276,7 +289,13 @@
    ],
    "verdict": "Cheapest for a reason. Price evidence only, unless the Fields invoices and a McLaren PPI clear the electrical trail.",
    "url": "https://www.cascadiacollection.com/inventory/mclaren/650s/89/",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAA2FW004401",
+   "listed": "2026-10-14",
+   "msrp": 316985,
+   "msrpSrc": "Dealer listing: original MSRP $316,985, $34,000+ in options",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/dFFGOf3gfW72lF9r4_0vzuEGvk4y1pKTS-BG4PCZCqP70qQRT_r5OvoJO_A3f1EEBV98rC0nN386HD-90T4T93pOGTMBzuA2gso",
+   "sticker": null
   },
   {
    "r": 5,
@@ -289,7 +308,6 @@
    "price": 145426,
    "mi": "13,460",
    "own": "5",
-   "days": "103",
    "maj": 1,
    "oth": 2,
    "auc": 1,
@@ -333,7 +351,12 @@
    ],
    "verdict": "A turbo at 11k and 3 years with no service. Pass.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/779982733",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAAXFW004520",
+   "listed": "2026-05-10",
+   "msrp": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/vZNgyrD48GvZG-vjR4JDG5Vj3i9H7ui8gGAvMrOD2dyy7HLm42IUqeDcJd3J2XnhbFjdagDidj5gRt3fg7--w9GHO_SpSuJoWeU6Cs5k",
+   "sticker": null
   },
   {
    "r": 6,
@@ -346,7 +369,6 @@
    "price": 153076,
    "mi": "18,703",
    "own": "3",
-   "days": "83",
    "maj": 1,
    "oth": 1,
    "auc": 0,
@@ -390,7 +412,12 @@
    ],
    "verdict": "The last buyer brought it back and the gearbox got replaced. Pass unless they show the invoice and warranty it.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/787799980",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAA9FW005268",
+   "listed": "2026-08-09",
+   "msrp": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/s6AII9HDNR3ez30y48g0KrZ7-KDklHfzpx77Xz9M-uZolBvlUZighI7hlYV_hRkz_LNjrYsXRtFJWhYdiwFDaX_jWXu2LURTkDeDjF4d",
+   "sticker": null
   },
   {
    "r": 7,
@@ -403,7 +430,6 @@
    "price": 174580,
    "mi": "13,591",
    "own": "5",
-   "days": "10",
    "maj": 3,
    "oth": 10,
    "auc": 2,
@@ -457,7 +483,12 @@
    ],
    "verdict": "13 repairs and two auctions. Closest thing to a lemon on the board. Pass.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/794086406",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAA4GW005776",
+   "listed": "2026-10-21",
+   "msrp": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/Lu-B3MG_mQ1Yq8VMrR3u9u9lH7ntAMj2J5e9Ojo3W-3VP6lYmTAz-YJRz5PSi3IeEqXjtDh2J2WDmPYNLwwT72wClgk-LzB2-mYf7TRX",
+   "sticker": null
   },
   {
    "r": 8,
@@ -470,7 +501,6 @@
    "price": 170212,
    "mi": "1,785",
    "own": "?",
-   "days": "?",
    "maj": null,
    "oth": null,
    "auc": null,
@@ -494,7 +524,12 @@
    ],
    "verdict": "The spec Qazi wants (exterior carbon, lift, exhaust) at 1,785 miles. Worth a real look: get the CARFAX and service records from the dealer, then push from the $10k cut.",
    "url": "https://www.chicagomotorcars.com/2016-mclaren-650s-spider-1700-miles-axle-lifter-advanced-tec-pkg-sport-exhaust-tons-of-carbon-fiber-c-13575/",
-   "pick": false
+   "pick": false,
+   "vin": "SBM11FAA6GW006265",
+   "listed": null,
+   "msrp": null,
+   "carfax": null,
+   "sticker": null
   },
   {
    "r": 9,
@@ -508,7 +543,6 @@
    "price": 160413,
    "mi": "11,619",
    "own": "2",
-   "days": "63",
    "maj": 0,
    "oth": 0,
    "auc": 0,
@@ -552,7 +586,13 @@
    ],
    "verdict": "<b>Sold.</b> Jake says they made a deal earlier in the week and will tell us if it falls through. Still the only car with nothing replaced.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/789612775",
-   "sold": "Oct 31"
+   "sold": "Oct 31",
+   "vin": "SBM11FAA9FW003827",
+   "listed": "2026-08-29",
+   "msrp": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/rMXdhDO80u8YkeP9ijU_r-_GI5Evz09huaNpJ5iepILI47YlsbKYWLNabjIfv3RUKupTshZo7tWFGh5-_0AFN4DPUHch3PPIBHAKmerX",
+   "sticker": null,
+   "soldOn": "2026-10-31"
   }
  ]
 }
