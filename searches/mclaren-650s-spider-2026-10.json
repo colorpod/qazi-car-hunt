@@ -105,6 +105,11 @@
     "tone": "g",
     "scores": [
      [
+      "Yelp",
+      "1.0 · 1",
+      "https://www.yelp.com/biz/bentley-jacksonville-jacksonville"
+     ],
+     [
       "DealerRater",
       "4.7 · 334",
       "https://www.dealerrater.com/dealer/Bentley-Jacksonville-review-117801/"
@@ -118,10 +123,15 @@
       "BBB",
       "Not rated",
       "https://www.bbb.org/us/fl/jacksonville/profile/new-car-dealers/bentley-jacksonville-0403-236015511"
+     ],
+     [
+      "Google",
+      "4.7 · 187",
+      "https://www.google.com/search?q=Bentley+Jacksonville+reviews"
      ]
     ],
     "good": "Buyers call it direct and no-games; salesman Greg Webb gets named often.",
-    "bad": "Dec 2024 service review: used car came with no second key and needed $14k of work."
+    "bad": "Dec 2024 service review: used car came with no second key and needed $14k of work. Its one Yelp review is a Lamborghini Urus deposit dispute."
    }
   },
   {
@@ -184,6 +194,11 @@
     "tone": "w",
     "scores": [
      [
+      "Yelp",
+      "4.4 · 39",
+      "https://www.yelp.com/biz/marino-performance-motors-west-palm-beach"
+     ],
+     [
       "Cars.com",
       "3.6 · 21",
       "https://www.cars.com/dealers/202110/marino-performance-motors/"
@@ -192,6 +207,11 @@
       "BBB",
       "A+ · accredited 2014",
       "https://www.bbb.org/us/fl/west-palm-beach/profile/used-car-dealers/marino-performance-motors-0633-90063378"
+     ],
+     [
+      "Google",
+      "4.7 · 165",
+      "https://www.google.com/search?q=Marino+Performance+Motors+West+Palm+Beach+reviews"
      ]
     ],
     "good": "BBB A+ and accredited for 12 years. Now owned by Marshall Goldman, same staff.",
@@ -262,6 +282,11 @@
     "tone": "b",
     "scores": [
      [
+      "Yelp",
+      "1.0 · 1",
+      "https://www.yelp.com/biz/exotic-knights-orlando-2"
+     ],
+     [
       "Cars.com",
       "13 reviews, too few for a score",
       "https://www.cars.com/dealers/5393052/exotic-knights/"
@@ -270,10 +295,15 @@
       "DealerRater",
       "No score",
       "https://www.dealerrater.com/dealer/Exotic-Knights-review-117593/"
+     ],
+     [
+      "Google",
+      "4.9 · 581",
+      "https://www.google.com/search?q=Exotic+Knights+Orlando+reviews"
      ]
     ],
     "good": "Little independent feedback either way.",
-    "bad": "A Cars.com buyer says they priced a totaled, rebuilt car near clean money and called it a scam. CarEdge says they ignored 3 requests for an out-the-door price."
+    "bad": "A Cars.com buyer says they priced a totaled, rebuilt car near clean money and called it a scam. CarEdge says they ignored 3 requests for an out-the-door price. Its one Yelp review: \"Don't expect quality or integrity from William or Austin.\""
    }
   },
   {
@@ -356,6 +386,11 @@
     "tone": "",
     "scores": [
      [
+      "Yelp",
+      "Not listed",
+      ""
+     ],
+     [
       "DealerRater",
       "Not listed",
       ""
@@ -369,10 +404,15 @@
       "BBB",
       "Not listed",
       ""
+     ],
+     [
+      "Google",
+      "5.0 · 17",
+      "https://www.google.com/search?q=Cascadia+Collection+Enumclaw+reviews"
      ]
     ],
     "good": "",
-    "bad": "No independent reviews anywhere. Treat it as unknown and lean on the CARFAX and an inspection."
+    "bad": "Only reviews are 17 on Google (5.0); nothing on Yelp, DealerRater, Cars.com or BBB. Lean on the CARFAX and an inspection."
    }
   },
   {
@@ -439,6 +479,11 @@
     "tone": "w",
     "scores": [
      [
+      "Yelp",
+      "No reviews",
+      "https://www.yelp.com/biz/tampa-auto-gallery-greater-northdale"
+     ],
+     [
       "Cars.com",
       "10 reviews, too few for a score",
       "https://www.cars.com/dealers/6063339/tampa-auto-gallery-sales-leasing/"
@@ -447,6 +492,11 @@
       "BBB",
       "A+ · accredited Apr 2026",
       "https://www.bbb.org/us/fl/tampa/profile/used-car-dealers/tampa-auto-gallery-sales-leasing-llc-0653-90440090"
+     ],
+     [
+      "Google",
+      "4.9 · 270",
+      "https://www.google.com/search?q=Tampa+Auto+Gallery+Sales+%26+Leasing+reviews"
      ]
     ],
     "good": "BBB A+, though only 3 years in business.",
@@ -517,6 +567,11 @@
     "tone": "w",
     "scores": [
      [
+      "Yelp",
+      "3.0 · 24",
+      "https://www.yelp.com/biz/mclaren-charlotte-charlotte-2"
+     ],
+     [
       "Cars.com",
       "5.0 · 195",
       "https://www.cars.com/dealers/5384991/mclaren-charlotte/"
@@ -530,10 +585,15 @@
       "BBB",
       "A+ · accredited",
       "https://www.bbb.org/us/nc/charlotte/profile/car-dealers/mclaren-charlotte-0473-744812"
+     ],
+     [
+      "Google",
+      "5.0 · 1,331",
+      "https://www.google.com/search?q=McLaren+Charlotte+reviews"
      ]
     ],
     "good": "Highest-volume McLaren store in North America; Cars.com buyers rave.",
-    "bad": "Two DealerRater buyers found damage after purchase: a 750S sold as no-accident, and a Ford GT whose issues only a $500 inspection caught."
+    "bad": "Two DealerRater buyers found damage after purchase: a 750S sold as no-accident, and a Ford GT whose issues only a $500 inspection caught. Yelp is only 3.0 from 24 reviews."
    }
   },
   {
@@ -610,6 +670,11 @@
     "tone": "w",
     "scores": [
      [
+      "Yelp",
+      "4.2 · 820",
+      "https://www.yelp.com/biz/chapman-bmw-on-camelback-phoenix-4"
+     ],
+     [
       "DealerRater",
       "4.4 · 1,381",
       "https://www.dealerrater.com/dealer/Chapman-BMW-On-Camelback-review-380/"
@@ -623,6 +688,11 @@
       "BBB",
       "A+",
       "https://www.bbb.org/us/az/phoenix/profile/new-car-dealers/chapman-bmw-on-camelback-1126-2773"
+     ],
+     [
+      "Google",
+      "4.6 · 2,691",
+      "https://www.google.com/search?q=Chapman+BMW+on+Camelback+reviews"
      ]
     ],
     "good": "Big BMW store with lots of reviews; service team and named salespeople get praise.",
@@ -673,6 +743,11 @@
     "tone": "b",
     "scores": [
      [
+      "Yelp",
+      "2.8 · 90",
+      "https://www.yelp.com/biz/chicago-motor-cars-west-chicago"
+     ],
+     [
       "BBB",
       "D- · 3 complaints ignored",
       "https://www.bbb.org/us/il/west-chicago/profile/used-car-dealers/chicago-motor-cars-0654-88013393"
@@ -686,10 +761,15 @@
       "DealerRater",
       "4.7 · 626",
       "https://www.dealerrater.com/dealer/Chicago-Motor-Cars-review-31085/"
+     ],
+     [
+      "Google",
+      "4.6 · 517",
+      "https://www.google.com/search?q=Chicago+Motor+Cars+West+Chicago+reviews"
      ]
     ],
     "good": "Hundreds of happy buyers; Jackson Jolicoeur and Sam Salameh get named a lot.",
-    "bad": "BBB D- for ignoring 3 complaints. Buyers report an undisclosed major accident on a Porsche (Feb 2025) and an agreed Ford GT deal they sold out from under the buyer (Oct 2025)."
+    "bad": "BBB D- for ignoring 3 complaints. Buyers report an undisclosed major accident on a Porsche (Feb 2025) and an agreed Ford GT deal they sold out from under the buyer (Oct 2025). Yelp 2.8 from 90 reviews."
    }
   },
   {
@@ -758,6 +838,11 @@
     "tone": "",
     "scores": [
      [
+      "Yelp",
+      "4.2 · 10",
+      "https://www.yelp.com/biz/mclaren-chicago-chicago-4"
+     ],
+     [
       "Cars.com",
       "4 reviews",
       "https://www.cars.com/dealers/5375802/mclaren-chicago/"
@@ -766,6 +851,11 @@
       "BBB",
       "A+",
       "https://www.bbb.org/us/il/chicago/profile/new-car-dealers/mclaren-chicago-0654-1000043954"
+     ],
+     [
+      "Google",
+      "4.6 · 185",
+      "https://www.google.com/search?q=McLaren+Chicago+reviews"
      ]
     ],
     "good": "Factory McLaren store, BBB A+.",

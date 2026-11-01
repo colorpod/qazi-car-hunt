@@ -111,7 +111,7 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(36px,7vw,52px);lin
 .rev .sc a,.rev .sc span{font-size:12px;border-radius:6px;padding:3px 8px;background:var(--chip);color:var(--ink);text-decoration:none;white-space:nowrap}
 .rev .sc a b,.rev .sc span b{font-weight:600;margin-right:4px}
 .rev .sc a:hover,.rev .sc a:focus-visible{outline:1px solid var(--accent)}
-.rev.b .sc a:first-child{background:var(--bad-bg);color:var(--bad)} .rev.g .sc a:first-child{background:var(--good-bg);color:var(--good)}
+.rev .sc .lo{background:var(--bad-bg);color:var(--bad)} .rev .sc .hi{background:var(--good-bg);color:var(--good)} .rev .sc .gg{opacity:.7}
 .rev p{margin:0;font-size:13.5px} .rev p b{font-weight:600} .rev p.bad b{color:var(--bad)} .rev p.good b{color:var(--good)}
 @media (max-width:420px){.rev .sc a,.rev .sc span{white-space:normal}}
 .verdict{font-size:14px;border-top:1px solid var(--line);padding-top:9px}
@@ -143,6 +143,7 @@ const fmt=n=>"$"+n.toLocaleString("en-US");
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const MAX=16;
 function shortName(n){return n.replace(" Collection","").replace(" Performance","").replace(" Auto Gallery","").replace("McLaren of ","").replace(" Jacksonville","").replace(" dealer","").replace(" Motor Cars"," Motor");}
+function scoreClass(s,v){if(s==="Google")return "gg";if(s==="BBB")return /^A/.test(v)?"hi":/^[DF]/.test(v)?"lo":"";const n=parseFloat(v);if(isNaN(n))return "";const cnt=parseInt((v.split("·")[1]||"0").replace(/,/g,""));if(n<3.5&&cnt>=5)return "lo";return n>=4.5&&cnt>=20?"hi":"";}
 function daysListed(c){if(!c.listed)return null;const end=c.soldOn?new Date(c.soldOn+"T12:00:00"):new Date();return Math.max(0,Math.round((end-new Date(c.listed+"T12:00:00"))/864e5));}
 function dateLabel(d){return new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});}
 function report(s){
@@ -164,7 +165,7 @@ function report(s){
        <div class="n ${c.msrp?'':'na'}" title="${esc(c.msrpSrc||'No window sticker or MSRP posted')}"><b>${c.msrp?fmt(c.msrp):'Not posted'}</b><span>ORIGINAL MSRP</span></div>
      </div>
      <ol class="tl">${c.tl.map(([w,k,t])=>`<li class="${k}"><span class="when">${esc(w)}</span><span class="dot"></span><span class="what">${t}</span></li>`).join("")}</ol>
-     ${c.rev?`<div class="rev ${c.rev.tone}"><div class="label">What buyers say, outside Google</div><div class="sc">${c.rev.scores.map(([s,v,u])=>u?`<a href="${esc(u)}" target="_blank" rel="noopener"><b>${esc(s)}</b>${esc(v)}</a>`:`<span><b>${esc(s)}</b>${esc(v)}</span>`).join("")}</div>${c.rev.good?`<p class="good"><b>Good:</b> ${esc(c.rev.good)}</p>`:""}${c.rev.bad?`<p class="bad"><b>Watch:</b> ${esc(c.rev.bad)}</p>`:""}</div>`:""}
+     ${c.rev?`<div class="rev ${c.rev.tone}"><div class="label">What buyers say · Yelp first, Google last</div><div class="sc">${c.rev.scores.map(([s,v,u])=>{const k=scoreClass(s,v);return u?`<a class="${k}" href="${esc(u)}" target="_blank" rel="noopener"><b>${esc(s)}</b>${esc(v)}</a>`:`<span class="${k}"><b>${esc(s)}</b>${esc(v)}</span>`}).join("")}</div>${c.rev.good?`<p class="good"><b>Good:</b> ${esc(c.rev.good)}</p>`:""}${c.rev.bad?`<p class="bad"><b>Watch:</b> ${esc(c.rev.bad)}</p>`:""}</div>`:""}
      <div class="verdict"><b>Verdict:</b> ${c.verdict}</div>
      <div class="btns"><a class="btn" href="${esc(c.url)}" target="_blank" rel="noopener">Open listing</a>${c.carfax?`<a class="btn" href="${esc(c.carfax)}" target="_blank" rel="noopener noreferrer">CARFAX</a>`:`<span class="btn off">CARFAX not posted</span>`}${c.sticker?`<a class="btn" href="${esc(c.sticker)}" target="_blank" rel="noopener noreferrer">Window sticker</a>`:`<span class="btn off">No sticker posted</span>`}</div>
     </article>`;}).join("");
