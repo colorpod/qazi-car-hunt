@@ -100,7 +100,29 @@
    "msrp": 322735,
    "msrpSrc": "$280,225 base + $42,510 options on the original sticker",
    "carfax": "https://www.carfax.com/vehiclehistory/ar20/TCYXdaPoor7xhq_je3LQwM3NOQWL7MhtTCdrQ5UbCOiwZT2F4mLFKqcMAK36wapb33LidATAAyeYKxRUwTB2gE_I_DW3gbhvbD0",
-   "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/435/5218/2170691655/msrp/2170691655.20261013.141021-msrp-01.pdf"
+   "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/435/5218/2170691655/msrp/2170691655.20261013.141021-msrp-01.pdf",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "DealerRater",
+      "4.7 · 334",
+      "https://www.dealerrater.com/dealer/Bentley-Jacksonville-review-117801/"
+     ],
+     [
+      "Cars.com",
+      "4.7 · 342",
+      "https://www.cars.com/dealers/5394069/bentley-jacksonville/"
+     ],
+     [
+      "BBB",
+      "Not rated",
+      "https://www.bbb.org/us/fl/jacksonville/profile/new-car-dealers/bentley-jacksonville-0403-236015511"
+     ]
+    ],
+    "good": "Buyers call it direct and no-games; salesman Greg Webb gets named often.",
+    "bad": "Dec 2024 service review: used car came with no second key and needed $14k of work."
+   }
   },
   {
    "r": 2,
@@ -157,7 +179,24 @@
    "msrp": 301915,
    "msrpSrc": "Dealer listing: original MSRP $301,915",
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/KsXuYrt_rMUgXUTmikmUgAMMzzBudLxFJVOtao_DgbVU0R4Uub9GlZz2r2a4nxSxTs9wRTbZuchey3l9NYzEyVCUH7rmOcPccSwQYQ1x",
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Cars.com",
+      "3.6 · 21",
+      "https://www.cars.com/dealers/202110/marino-performance-motors/"
+     ],
+     [
+      "BBB",
+      "A+ · accredited 2014",
+      "https://www.bbb.org/us/fl/west-palm-beach/profile/used-car-dealers/marino-performance-motors-0633-90063378"
+     ]
+    ],
+    "good": "BBB A+ and accredited for 12 years. Now owned by Marshall Goldman, same staff.",
+    "bad": "Cars.com score is a mediocre 3.6 from only 21 reviews."
+   }
   },
   {
    "r": 3,
@@ -218,7 +257,24 @@
    "listed": "2026-10-14",
    "msrp": null,
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/QXH73JtDxrwg2XBuk70YrMSFaUhavgF_mHC8aIpKFaNSuKINL_h1ZuniskTTkW8UyTqReqsGr5RpFFORG0za29RZ7CQbwCivr_IIwSv7",
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Cars.com",
+      "13 reviews, too few for a score",
+      "https://www.cars.com/dealers/5393052/exotic-knights/"
+     ],
+     [
+      "DealerRater",
+      "No score",
+      "https://www.dealerrater.com/dealer/Exotic-Knights-review-117593/"
+     ]
+    ],
+    "good": "Little independent feedback either way.",
+    "bad": "A Cars.com buyer says they priced a totaled, rebuilt car near clean money and called it a scam. CarEdge says they ignored 3 requests for an out-the-door price."
+   }
   },
   {
    "r": 4,
@@ -295,7 +351,29 @@
    "msrp": 316985,
    "msrpSrc": "Dealer listing: original MSRP $316,985, $34,000+ in options",
    "carfax": "https://www.carfax.com/vehiclehistory/ar20/dFFGOf3gfW72lF9r4_0vzuEGvk4y1pKTS-BG4PCZCqP70qQRT_r5OvoJO_A3f1EEBV98rC0nN386HD-90T4T93pOGTMBzuA2gso",
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "",
+    "scores": [
+     [
+      "DealerRater",
+      "Not listed",
+      ""
+     ],
+     [
+      "Cars.com",
+      "Not listed",
+      ""
+     ],
+     [
+      "BBB",
+      "Not listed",
+      ""
+     ]
+    ],
+    "good": "",
+    "bad": "No independent reviews anywhere. Treat it as unknown and lean on the CARFAX and an inspection."
+   }
   },
   {
    "r": 5,
@@ -356,7 +434,24 @@
    "listed": "2026-05-10",
    "msrp": null,
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/vZNgyrD48GvZG-vjR4JDG5Vj3i9H7ui8gGAvMrOD2dyy7HLm42IUqeDcJd3J2XnhbFjdagDidj5gRt3fg7--w9GHO_SpSuJoWeU6Cs5k",
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Cars.com",
+      "10 reviews, too few for a score",
+      "https://www.cars.com/dealers/6063339/tampa-auto-gallery-sales-leasing/"
+     ],
+     [
+      "BBB",
+      "A+ · accredited Apr 2026",
+      "https://www.bbb.org/us/fl/tampa/profile/used-car-dealers/tampa-auto-gallery-sales-leasing-llc-0653-90440090"
+     ]
+    ],
+    "good": "BBB A+, though only 3 years in business.",
+    "bad": "Two Cars.com buyers say they never got a reply; one thinks they are a broker without the car. CarEdge could not get an out-the-door price in writing."
+   }
   },
   {
    "r": 6,
@@ -417,7 +512,29 @@
    "listed": "2026-08-09",
    "msrp": null,
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/s6AII9HDNR3ez30y48g0KrZ7-KDklHfzpx77Xz9M-uZolBvlUZighI7hlYV_hRkz_LNjrYsXRtFJWhYdiwFDaX_jWXu2LURTkDeDjF4d",
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Cars.com",
+      "5.0 · 195",
+      "https://www.cars.com/dealers/5384991/mclaren-charlotte/"
+     ],
+     [
+      "DealerRater",
+      "4.3 · 32",
+      "https://www.dealerrater.com/dealer/Mclaren-Charlotte-review-104151/"
+     ],
+     [
+      "BBB",
+      "A+ · accredited",
+      "https://www.bbb.org/us/nc/charlotte/profile/car-dealers/mclaren-charlotte-0473-744812"
+     ]
+    ],
+    "good": "Highest-volume McLaren store in North America; Cars.com buyers rave.",
+    "bad": "Two DealerRater buyers found damage after purchase: a 750S sold as no-accident, and a Ford GT whose issues only a $500 inspection caught."
+   }
   },
   {
    "r": 7,
@@ -488,7 +605,29 @@
    "listed": "2026-10-21",
    "msrp": null,
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/Lu-B3MG_mQ1Yq8VMrR3u9u9lH7ntAMj2J5e9Ojo3W-3VP6lYmTAz-YJRz5PSi3IeEqXjtDh2J2WDmPYNLwwT72wClgk-LzB2-mYf7TRX",
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "DealerRater",
+      "4.4 · 1,381",
+      "https://www.dealerrater.com/dealer/Chapman-BMW-On-Camelback-review-380/"
+     ],
+     [
+      "Cars.com",
+      "4.3 · 1,449",
+      "https://www.cars.com/dealers/107793/chapman-bmw-on-camelback/"
+     ],
+     [
+      "BBB",
+      "A+",
+      "https://www.bbb.org/us/az/phoenix/profile/new-car-dealers/chapman-bmw-on-camelback-1126-2773"
+     ]
+    ],
+    "good": "Big BMW store with lots of reviews; service team and named salespeople get praise.",
+    "bad": "Recurring: 4 hours stuck in finance, pressure on cash buyers, promised discounts walked back. CarEdge: about $890 in add-ons when present."
+   }
   },
   {
    "r": 8,
@@ -529,7 +668,29 @@
    "listed": null,
    "msrp": null,
    "carfax": null,
-   "sticker": null
+   "sticker": null,
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "BBB",
+      "D- · 3 complaints ignored",
+      "https://www.bbb.org/us/il/west-chicago/profile/used-car-dealers/chicago-motor-cars-0654-88013393"
+     ],
+     [
+      "Cars.com",
+      "3.7 · 745",
+      "https://www.cars.com/dealers/158948/chicago-motor-cars/"
+     ],
+     [
+      "DealerRater",
+      "4.7 · 626",
+      "https://www.dealerrater.com/dealer/Chicago-Motor-Cars-review-31085/"
+     ]
+    ],
+    "good": "Hundreds of happy buyers; Jackson Jolicoeur and Sam Salameh get named a lot.",
+    "bad": "BBB D- for ignoring 3 complaints. Buyers report an undisclosed major accident on a Porsche (Feb 2025) and an agreed Ford GT deal they sold out from under the buyer (Oct 2025)."
+   }
   },
   {
    "r": 9,
@@ -592,7 +753,24 @@
    "msrp": null,
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/rMXdhDO80u8YkeP9ijU_r-_GI5Evz09huaNpJ5iepILI47YlsbKYWLNabjIfv3RUKupTshZo7tWFGh5-_0AFN4DPUHch3PPIBHAKmerX",
    "sticker": null,
-   "soldOn": "2026-10-31"
+   "soldOn": "2026-10-31",
+   "rev": {
+    "tone": "",
+    "scores": [
+     [
+      "Cars.com",
+      "4 reviews",
+      "https://www.cars.com/dealers/5375802/mclaren-chicago/"
+     ],
+     [
+      "BBB",
+      "A+",
+      "https://www.bbb.org/us/il/chicago/profile/new-car-dealers/mclaren-chicago-0654-1000043954"
+     ]
+    ],
+    "good": "Factory McLaren store, BBB A+.",
+    "bad": "Too few independent reviews to judge."
+   }
   }
  ]
 }
