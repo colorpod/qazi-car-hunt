@@ -1,2 +1,36 @@
-Chicago Motor Cars, 2016 650S Spider Silver, VIN SBM11FAA6GW006265, 1,785 mi, $180,212
-CARFAX: not public. carfax.com listing 404; Autotrader shows only paid AutoCheck/CARFAX; dealer site search found no listing page. Needs the dealer to send the report.
+Chicago Motor Cars, 2016 650S Spider Supernova Silver, VIN SBM11FAA6GW006265, 1,785 mi, $169,800 + $412 fees = $170,212
+CARFAX: dealer-sent PDF, pulled 11/2/26 by Mike Salerno (finance). Saved qazi-os-2/artifacts/personal-650s-inquiry-20261030/round3/cmc-carfax/
+Car is at CMC's Kansas City store (James runs it).
+
+Summary: 1 owner (personal, Newport Beach, CA, 2017-2026), 17 service records, no accidents/damage, no total loss, no title brands, no open recalls. 207 mi/yr.
+
+09/24/2016  34 mi    Exempt from emissions inspection
+09/30/2016  44 mi    McLaren Philadelphia: PDI, front plate bracket, emissions + safety inspection
+10/27/2016  58 mi    McLaren Philadelphia: serviced
+01/16/2017           McLaren Philadelphia: serviced, battery charged
+01/26/2017  59 mi    McLaren Philadelphia: serviced
+03/24/2017  68 mi    McLaren Philadelphia: vehicle sold
+03/28/2017           McLaren Philadelphia: maintenance inspection, reminder reset
+04/07/2017  135 mi   CA emissions passed; CA DMV odometer (Corona del Mar)
+09/26/2017           CA title, first owner, personal
+11/20/2017  338 mi   McLaren Newport Beach: serviced, tires checked
+12/27/2017           McLaren Newport Beach: serviced
+04/11/2018  515 mi   McLaren Newport Beach: serviced
+07/25/2019  842 mi   McLaren Newport Beach: recommended maintenance, front door adjusted
+06/29/2021           Inspection, alignment checked
+06/30/2021  1,139 mi McLaren Newport Beach: 10,000-mile service, oil + filter
+06/30/2021           Lamborghini Newport Beach (Irvine): oil + filter
+02/28/2023  1,402 mi Lamborghini NB: FUEL FILLER HOSE/PIPE + FILLER NECK REPLACED, fuel tank removed and reinstalled, oil + filter
+07/06/2023  1,487 mi Lamborghini NB: FUEL FILLER DOOR ACTUATOR replaced, skid plate installed
+05/22/2024  1,538 mi Lamborghini NB: maintenance inspection, BATTERY replaced, inside door handle replaced, REAR DIFFERENTIAL REPLACED
+06/12/2024  1,561 mi Lamborghini NB: CHARCOAL/VAPOR CANISTER + EVAP PURGE VALVE replaced, ECU checked, emissions inspection
+06/12/2024  1,580 mi CA emissions passed
+11/18/2025           CA DMV (Omaha, NE): DUPLICATE TITLE issued
+11/19/2025  1,746 mi Lamborghini NB: PDI, maintenance inspection
+04/28/2026  1,785 mi CA emissions passed
+05/09/2026           IL DMV: vehicle purchase reported
+06/01/2026           Online listing, offered for sale
+06/23/2026           IL title #261744091070, dealer took title (silver)
+
+Counts: major 1 (rear differential), other 4 (filler neck/hose with tank out, filler door actuator, evap canister + purge valve, door handle). Auctions 0.
+Watch: rear diff replaced at 1,538 mi (ask why, and for the RO); evap work done (the same system Bentley left untraced, here fixed); duplicate title Nov 2025 before the sale.
