@@ -18,3 +18,7 @@ Qazi's car searches, each run through its full CARFAX. One Cloudflare Worker ser
 ## Grading rule of thumb
 
 Rank by how the car has lived, not by price: repairs beyond routine maintenance (engine, gearbox, electrical count as major), repeat repairs, auctions, duplicate titles, short ownerships, and long gaps with no service.
+
+## Pictures
+
+Any car photo added to the page gets the 3-step zoom (Qazi, Nov 2: default, 150%, 200% = fit to width). Paste `/Users/waqasqazi/Projects/qazi-os-2/artifacts/walt-zoom3/zoom3.html` before `</body>` in `app.html`, deploy, and test a tap at 390 px.
