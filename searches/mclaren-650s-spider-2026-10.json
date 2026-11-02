@@ -47,13 +47,13 @@
  "cars": [
   {
    "r": 1,
-   "mv": "up 7",
+   "mv": "same",
    "g": "B+",
    "gc": "b",
    "name": "Chicago Motor Cars",
    "car": "2016 · Supernova Silver / Carbon Black, loaded carbon, lift, sport exhaust",
    "loc": "West Chicago, IL (car at their Kansas City store)",
-   "price": 170212,
+   "price": 169413,
    "mi": "1,785",
    "own": "1",
    "maj": 1,
@@ -110,9 +110,14 @@
      "Oct 2026",
      "m",
      "<b>Price cut $10,000</b>, $179,800 to $169,800 (+$412 fees)"
+    ],
+    [
+     "Nov 2",
+     "s",
+     "<b>Out the door $169,413</b> ($800 off + $378 doc + $35 tag). Enclosed transport about $2,400 not included. No PPF, ceramic coated, no tint. No rear diff RO; no codes; local PPI OK; walkaround video sent"
     ]
    ],
-   "verdict": "Best-lived car left: one owner, 17 service records, dealer-maintained, 1,785 mi. Ask for the rear diff repair order and why the title was duplicated; 5 months listed gives room to push.",
+   "verdict": "Best-lived car left: one owner, dealer-maintained, 1,785 mi. Dealer offers $169,413 out the door plus about $2,400 shipping (about $171,800 delivered). No repair order for the 2024 rear diff, so a local PPI is the next step; 5 months listed still leaves room.",
    "url": "https://www.chicagomotorcars.com/2016-mclaren-650s-spider-1700-miles-axle-lifter-advanced-tec-pkg-sport-exhaust-tons-of-carbon-fiber-c-13575/",
    "pick": true,
    "vin": "SBM11FAA6GW006265",
