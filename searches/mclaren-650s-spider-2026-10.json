@@ -12,8 +12,8 @@
    ""
   ],
   [
-   "Chicago Motor Cars sold at full ask, Nov 4",
-   "b"
+   "Chicago Motor Cars back on sale at $174,800, Nov 4",
+   "g"
   ],
   [
    "McLaren Chicago sold Oct 31",
@@ -28,26 +28,177 @@
    "w"
   ]
  ],
- "takeaway": "Both best-lived cars are gone: Chicago Motor Cars has a deal at full ask, and McLaren Chicago sold Oct 31. Bentley Jacksonville now ranks first with nothing broken on paper and nothing serviced either, so only a PPI settles it.",
+ "takeaway": "Chicago Motor Cars is back: the pending buyer's financing failed Nov 4, and its ask went up to $174,800. It is still the best-lived car left. The closest sold comp is a 2,800-mile Spider at $155,000 on BaT in May, and the rear diff still has no repair order.",
  "shift": [
   [
-   "Chicago Motor Cars: sold at full ask",
-   "James on our $150,000 offer, Nov 4: \"We currently have a deal on the car at full asking price.\""
+   "Chicago Motor Cars: back on sale at $174,800",
+   "Mike, Nov 4: the pending deal's financing failed; \"would honor the 169k or very very close to it\""
   ],
   [
-   "Rear diff question closed",
-   "Daily Newport Beach emails stopped Nov 4; no repair order ever surfaced"
+   "Rear diff still unexplained",
+   "Chicago has no repair order. Daily Newport Beach emails stopped Nov 4 when the car looked sold; no reply since"
   ],
   [
    "Exotic Knights down $5,000",
    "Now $156,389 on Autotrader, Nov 4"
   ]
  ],
- "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars: the CARFAX PDF the dealer sent Nov 2. Days listed from CarGurus (Nov 1). MSRP from the original window sticker or the dealer's listing. Prices and status rechecked on every listing Nov 4. Chicago Motor Cars' options and original prices from its listing; no original sticker exists on iPacket for the 8 cars without one (checked Nov 4).",
+ "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars: the CARFAX PDF the dealer sent Nov 2. Days listed from CarGurus (Nov 1). MSRP from the original window sticker or the dealer's listing. Prices and status rechecked on every listing Nov 4; Marino's and Charlotte's Autotrader links redirect to an expired page, so their status is unconfirmed. Chicago Motor Cars' options and original prices from its listing; no original sticker exists on iPacket for the 8 cars without one (checked Nov 4).",
  "cars": [
   {
    "r": 1,
-   "mv": "up 1",
+   "mv": "same",
+   "g": "B+",
+   "gc": "b",
+   "name": "Chicago Motor Cars",
+   "car": "2016 · Supernova Silver / Carbon Black, loaded carbon, lift, sport exhaust. Stock 22586",
+   "loc": "Chicago Motor Cars of Kansas City (James Sealey)",
+   "price": 174800,
+   "mi": "1,785",
+   "own": "1",
+   "maj": 1,
+   "oth": 4,
+   "auc": 0,
+   "rep": "Rear differential replaced (May 2024, 1,538 mi). Fuel filler neck and hose (tank out), filler door actuator, evap canister and purge valve. Duplicate title Nov 2025.",
+   "tl": [
+    [
+     "2016",
+     "s",
+     "Delivered new by McLaren Philadelphia: Tech Pack, sport exhaust, front lift, carbon air brake, sills, mirrors, spoiler"
+    ],
+    [
+     "2017",
+     "s",
+     "Owner 1, Newport Beach, CA. Kept 9 years, 207 mi a year"
+    ],
+    [
+     "2017-21",
+     "m",
+     "Dealer-serviced at McLaren Newport Beach 6 times, incl. the 10,000-mile service (Jun 2021)"
+    ],
+    [
+     "Feb 2023",
+     "r",
+     "<b>Fuel filler neck and hose replaced</b>, tank removed and reinstalled (Lamborghini Newport Beach)"
+    ],
+    [
+     "Jul 2023",
+     "r",
+     "Fuel filler door actuator replaced, skid plate added"
+    ],
+    [
+     "May 2024",
+     "r",
+     "<b>Rear differential replaced</b> at 1,538 mi, plus battery and an inside door handle"
+    ],
+    [
+     "Jun 2024",
+     "r",
+     "Evap canister and purge valve replaced, emissions passed"
+    ],
+    [
+     "Nov 2025",
+     "w",
+     "<b>Duplicate title issued</b>, then a pre-delivery inspection"
+    ],
+    [
+     "May 2026",
+     "s",
+     "Sold to Chicago Motor Cars; listed Jun 1, dealer title Jun 23"
+    ],
+    [
+     "Oct 2026",
+     "m",
+     "<b>Price cut $10,000</b>, $179,800 to $169,800 (+$412 fees)"
+    ],
+    [
+     "Nov 2",
+     "s",
+     "<b>Out the door $169,413</b> ($800 off + $378 doc + $35 tag). Enclosed transport about $2,400 not included. No PPF, ceramic coated, no tint. No rear diff RO; no codes; local PPI OK; walkaround video sent"
+    ],
+    [
+     "Options",
+     "m",
+     "Original prices on the listing: Enhanced Tech Pack $9,950, sport exhaust $6,650, Supernova Silver $5,680, Stealth wheels $4,990, carbon air brake $4,420, semi-aniline and Alcantara $3,790, carbon sills $3,720, silver ceramic calipers $1,270, Stone Gray stitch $710, triangles and kit $70. Total $41,250"
+    ],
+    [
+     "Nov 2-3",
+     "w",
+     "Emails to McLaren and Lamborghini Newport Beach service (Javier, Robert, Bill) on the rear diff and fuel work. No reply"
+    ],
+    [
+     "Nov 4",
+     "w",
+     "<b>Qazi's number texted Javier at Newport Beach</b> for the repair orders. Auto-reply only so far"
+    ],
+    [
+     "Nov 4",
+     "s",
+     "<b>Dealer site shows SALE PENDING.</b> Availability not yet confirmed with James"
+    ],
+    [
+     "Nov 4",
+     "s",
+     "<b>$150,000 out the door offered</b> 8:21 AM PT, Qazi pays shipping. James at 8:59 AM: \"We currently have a deal on the car at full asking price.\""
+    ],
+    [
+     "Nov 4",
+     "s",
+     "<b>Back on the market.</b> Mike, 3:29 PM PT: \"James did have a pending deal but the financing didn't go through. They are going to price it at 174k becuase its getting alot of action. But would honor the 169k or very very close to it. Car def is not a lemon. We have no problem with a PPI\""
+    ],
+    [
+     "Nov 4",
+     "m",
+     "<b>Dealer site now asks $174,800</b>, up $5,000, no pending tag on this car. Last written total stays $169,412.63 plus about $2,400 shipping"
+    ]
+   ],
+   "verdict": "<b>Available again at $174,800.</b> The pending buyer's financing failed. Mike, Nov 4: would honor \"the 169k or very very close to it.\" Best-lived car left: one owner, dealer-maintained, 1,785 mi. The 2024 rear diff still has no repair order, so a PPI comes first. Qazi's last number is $150,000 out the door plus shipping.",
+   "url": "https://www.chicagomotorcars.com/2016-mclaren-650s-spider-1700-miles-axle-lifter-advanced-tec-pkg-sport-exhaust-tons-of-carbon-fiber-c-13575/",
+   "pick": true,
+   "vin": "SBM11FAA6GW006265",
+   "listed": "2026-06-01",
+   "msrp": 321475,
+   "carfax": "/carfax/SBM11FAA6GW006265.pdf",
+   "sticker": null,
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Yelp",
+      "2.8 · 90",
+      "https://www.yelp.com/biz/chicago-motor-cars-west-chicago"
+     ],
+     [
+      "BBB",
+      "D- · 3 complaints ignored",
+      "https://www.bbb.org/us/il/west-chicago/profile/used-car-dealers/chicago-motor-cars-0654-88013393"
+     ],
+     [
+      "Cars.com",
+      "3.7 · 745",
+      "https://www.cars.com/dealers/158948/chicago-motor-cars/"
+     ],
+     [
+      "DealerRater",
+      "4.7 · 626",
+      "https://www.dealerrater.com/dealer/Chicago-Motor-Cars-review-31085/"
+     ],
+     [
+      "Google",
+      "4.6 · 517",
+      "https://www.google.com/search?q=Chicago+Motor+Cars+West+Chicago+reviews"
+     ]
+    ],
+    "good": "Hundreds of happy buyers; Jackson Jolicoeur and Sam Salameh get named a lot.",
+    "bad": "BBB D- for ignoring 3 complaints. Buyers report an undisclosed major accident on a Porsche (Feb 2025) and an agreed Ford GT deal they sold out from under the buyer (Oct 2025). Yelp 2.8 from 90 reviews."
+   },
+   "video": "https://share.icloud.com/photos/08dwT7vHIG93bLotC9ReX5Yvg",
+   "msrpEst": true,
+   "msrpSrc": "Estimate: $280,225 base (from Bentley's 2015 sticker) + $41,250 in options on this dealer's listing. No original sticker; the dealer has a printed option list only."
+  },
+  {
+   "r": 2,
+   "mv": "down 1",
    "g": "B",
    "gc": "b",
    "name": "Bentley Jacksonville",
@@ -145,8 +296,8 @@
    }
   },
   {
-   "r": 2,
-   "mv": "up 1",
+   "r": 3,
+   "mv": "down 1",
    "g": "B-",
    "gc": "b",
    "name": "Marino Performance",
@@ -199,6 +350,11 @@
      "Nov 3",
      "m",
      "Jeff follows up, asks to meet in the middle"
+    ],
+    [
+     "Nov 4",
+     "w",
+     "Autotrader link now redirects to an expired-listing page. Sale status not confirmed"
     ]
    ],
    "verdict": "Serviced often, but it had an engine oil-leak repair and two owners left inside 16 months. Dealer will do $138,000 delivered. Stays evidence only.",
@@ -239,8 +395,8 @@
    }
   },
   {
-   "r": 3,
-   "mv": "up 1",
+   "r": 4,
+   "mv": "down 1",
    "g": "C",
    "gc": "c",
    "name": "Exotic Knights",
@@ -332,8 +488,8 @@
    }
   },
   {
-   "r": 4,
-   "mv": "up 1",
+   "r": 5,
+   "mv": "down 1",
    "g": "C",
    "gc": "c",
    "name": "Cascadia Collection",
@@ -441,8 +597,8 @@
    }
   },
   {
-   "r": 5,
-   "mv": "up 1",
+   "r": 6,
+   "mv": "down 1",
    "g": "C-",
    "gc": "c",
    "name": "Tampa Auto Gallery",
@@ -534,8 +690,8 @@
    }
   },
   {
-   "r": 6,
-   "mv": "up 1",
+   "r": 7,
+   "mv": "down 1",
    "g": "C-",
    "gc": "c",
    "name": "McLaren of Charlotte",
@@ -583,6 +739,11 @@
      "Sep 2026",
      "r",
      "<b>Transmission replaced</b> at 18,694 mi"
+    ],
+    [
+     "Nov 4",
+     "w",
+     "Autotrader link now redirects to an expired-listing page. Sale status not confirmed"
     ]
    ],
    "verdict": "The last buyer brought it back and the gearbox got replaced. Pass unless they show the invoice and warranty it.",
@@ -627,8 +788,8 @@
    }
   },
   {
-   "r": 7,
-   "mv": "up 1",
+   "r": 8,
+   "mv": "down 1",
    "g": "D",
    "gc": "c",
    "name": "Arizona dealer",
@@ -728,149 +889,6 @@
     "good": "Big BMW store with lots of reviews; service team and named salespeople get praise.",
     "bad": "Recurring: 4 hours stuck in finance, pressure on cash buyers, promised discounts walked back. CarEdge: about $890 in add-ons when present."
    }
-  },
-  {
-   "r": 8,
-   "mv": "same",
-   "g": "B+",
-   "gc": "b",
-   "name": "Chicago Motor Cars",
-   "car": "2016 · Supernova Silver / Carbon Black, loaded carbon, lift, sport exhaust. Stock 22586",
-   "loc": "Chicago Motor Cars of Kansas City (James Sealey)",
-   "price": 169413,
-   "mi": "1,785",
-   "own": "1",
-   "maj": 1,
-   "oth": 4,
-   "auc": 0,
-   "rep": "Rear differential replaced (May 2024, 1,538 mi). Fuel filler neck and hose (tank out), filler door actuator, evap canister and purge valve. Duplicate title Nov 2025.",
-   "tl": [
-    [
-     "2016",
-     "s",
-     "Delivered new by McLaren Philadelphia: Tech Pack, sport exhaust, front lift, carbon air brake, sills, mirrors, spoiler"
-    ],
-    [
-     "2017",
-     "s",
-     "Owner 1, Newport Beach, CA. Kept 9 years, 207 mi a year"
-    ],
-    [
-     "2017-21",
-     "m",
-     "Dealer-serviced at McLaren Newport Beach 6 times, incl. the 10,000-mile service (Jun 2021)"
-    ],
-    [
-     "Feb 2023",
-     "r",
-     "<b>Fuel filler neck and hose replaced</b>, tank removed and reinstalled (Lamborghini Newport Beach)"
-    ],
-    [
-     "Jul 2023",
-     "r",
-     "Fuel filler door actuator replaced, skid plate added"
-    ],
-    [
-     "May 2024",
-     "r",
-     "<b>Rear differential replaced</b> at 1,538 mi, plus battery and an inside door handle"
-    ],
-    [
-     "Jun 2024",
-     "r",
-     "Evap canister and purge valve replaced, emissions passed"
-    ],
-    [
-     "Nov 2025",
-     "w",
-     "<b>Duplicate title issued</b>, then a pre-delivery inspection"
-    ],
-    [
-     "May 2026",
-     "s",
-     "Sold to Chicago Motor Cars; listed Jun 1, dealer title Jun 23"
-    ],
-    [
-     "Oct 2026",
-     "m",
-     "<b>Price cut $10,000</b>, $179,800 to $169,800 (+$412 fees)"
-    ],
-    [
-     "Nov 2",
-     "s",
-     "<b>Out the door $169,413</b> ($800 off + $378 doc + $35 tag). Enclosed transport about $2,400 not included. No PPF, ceramic coated, no tint. No rear diff RO; no codes; local PPI OK; walkaround video sent"
-    ],
-    [
-     "Options",
-     "m",
-     "Original prices on the listing: Enhanced Tech Pack $9,950, sport exhaust $6,650, Supernova Silver $5,680, Stealth wheels $4,990, carbon air brake $4,420, semi-aniline and Alcantara $3,790, carbon sills $3,720, silver ceramic calipers $1,270, Stone Gray stitch $710, triangles and kit $70. Total $41,250"
-    ],
-    [
-     "Nov 2-3",
-     "w",
-     "Emails to McLaren and Lamborghini Newport Beach service (Javier, Robert, Bill) on the rear diff and fuel work. No reply"
-    ],
-    [
-     "Nov 4",
-     "w",
-     "<b>Qazi's number texted Javier at Newport Beach</b> for the repair orders. Auto-reply only so far"
-    ],
-    [
-     "Nov 4",
-     "s",
-     "<b>Dealer site shows SALE PENDING.</b> Availability not yet confirmed with James"
-    ],
-    [
-     "Nov 4",
-     "s",
-     "<b>Sold to another buyer at full ask.</b> Our $150,000 offer went at 8:21 AM PT. James at 8:59 AM: \"Thanks everyone. We currently have a deal on the car at full asking price.\""
-    ]
-   ],
-   "verdict": "<b>Sold to another buyer at full ask.</b> James, Nov 4, answering our $150,000 offer: \"We currently have a deal on the car at full asking price.\" Was the best-lived car left: one owner, dealer-maintained, 1,785 mi. The 2024 rear diff never got explained.",
-   "url": "https://www.chicagomotorcars.com/2016-mclaren-650s-spider-1700-miles-axle-lifter-advanced-tec-pkg-sport-exhaust-tons-of-carbon-fiber-c-13575/",
-   "pick": false,
-   "vin": "SBM11FAA6GW006265",
-   "listed": "2026-06-01",
-   "msrp": 321475,
-   "carfax": "/carfax/SBM11FAA6GW006265.pdf",
-   "sticker": null,
-   "rev": {
-    "tone": "b",
-    "scores": [
-     [
-      "Yelp",
-      "2.8 · 90",
-      "https://www.yelp.com/biz/chicago-motor-cars-west-chicago"
-     ],
-     [
-      "BBB",
-      "D- · 3 complaints ignored",
-      "https://www.bbb.org/us/il/west-chicago/profile/used-car-dealers/chicago-motor-cars-0654-88013393"
-     ],
-     [
-      "Cars.com",
-      "3.7 · 745",
-      "https://www.cars.com/dealers/158948/chicago-motor-cars/"
-     ],
-     [
-      "DealerRater",
-      "4.7 · 626",
-      "https://www.dealerrater.com/dealer/Chicago-Motor-Cars-review-31085/"
-     ],
-     [
-      "Google",
-      "4.6 · 517",
-      "https://www.google.com/search?q=Chicago+Motor+Cars+West+Chicago+reviews"
-     ]
-    ],
-    "good": "Hundreds of happy buyers; Jackson Jolicoeur and Sam Salameh get named a lot.",
-    "bad": "BBB D- for ignoring 3 complaints. Buyers report an undisclosed major accident on a Porsche (Feb 2025) and an agreed Ford GT deal they sold out from under the buyer (Oct 2025). Yelp 2.8 from 90 reviews."
-   },
-   "video": "https://share.icloud.com/photos/08dwT7vHIG93bLotC9ReX5Yvg",
-   "msrpEst": true,
-   "msrpSrc": "Estimate: $280,225 base (from Bentley's 2015 sticker) + $41,250 in options on this dealer's listing. No original sticker; the dealer has a printed option list only.",
-   "sold": "Nov 4",
-   "soldOn": "2026-11-04"
   },
   {
    "r": 9,
