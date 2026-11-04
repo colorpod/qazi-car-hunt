@@ -8,3 +8,8 @@ workers_dev = true
 type = "Text"
 globs = ["**/*.html"]
 fallthrough = true
+
+[[rules]]
+type = "Data"
+globs = ["**/*.pdf"]
+fallthrough = true

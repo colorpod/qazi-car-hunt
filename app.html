@@ -155,19 +155,19 @@ function report(s){
     const mvc=c.mv.startsWith("up")?"up":c.mv.startsWith("down")?"dn":"";
     const mvt=c.mv==="same"?"Same rank as before":(mvc==="up"?"▲ Up ":"▼ Down ")+c.mv.split(" ")[1];
     return `<article class="card ${c.pick?'pick':''} ${c.sold?'sold':''}">
-     <div class="hd"><div class="rank">${c.sold?'SOLD':c.r}</div><div class="ttl"><h5>${esc(c.name)}</h5><div class="sub">${esc(c.car)} · ${esc(c.loc)}</div>${c.sold?`<div class="soldtag">SOLD ${esc(c.sold)}</div>`:`<div class="move ${mvc}">${mvt}</div>`}</div><div class="grade ${c.gc}">${esc(c.g)}</div></div>
+     <div class="hd"><div class="rank">${c.sold?'SOLD':c.r}</div><div class="ttl"><h5>${esc(c.name)}</h5><div class="sub">${esc(c.car)} · ${esc(c.loc)}</div>${c.sold?`<div class="soldtag">SOLD ${esc(c.sold)}</div>`:c.pending?`<div class="soldtag">SALE PENDING ${esc(c.pending)}</div>`:`<div class="move ${mvc}">${mvt}</div>`}</div><div class="grade ${c.gc}">${esc(c.g)}</div></div>
      <div class="nums">
        <div class="n"><b>${fmt(c.price)}</b><span>ASKING</span></div>
        <div class="n"><b>${esc(c.mi)}</b><span>MILES</span></div>
        <div class="n ${c.maj?'b':(c.maj===0?'g':'')}"><b>${c.maj===null?'?':c.maj+' / '+c.oth}</b><span>MAJOR / OTHER</span></div>
        <div class="n ${c.auc?'b':''}"><b>${esc(c.own)} · ${c.auc===null?'?':c.auc}</b><span>OWNERS · AUCTIONS</span></div>
        ${(d=>`<div class="n ${d===null?'na':d>=90?'w':''}" title="${c.listed?'First listed '+dateLabel(c.listed)+' (CarGurus)':'Not on CarGurus'}"><b>${d===null?'?':d}</b><span>${c.sold?'DAYS TO SELL':'DAYS LISTED'}</span></div>`)(daysListed(c))}
-       <div class="n ${c.msrp?'':'na'}" title="${esc(c.msrpSrc||'No window sticker or MSRP posted')}"><b>${c.msrp?fmt(c.msrp):'Not posted'}</b><span>ORIGINAL MSRP</span></div>
+       <div class="n ${c.msrp?'':'na'}" title="${esc(c.msrpSrc||'No window sticker or MSRP posted')}"><b>${c.msrp?(c.msrpEst?'~':'')+fmt(c.msrp):'Not posted'}</b><span>ORIGINAL MSRP${c.msrpEst?' (EST.)':''}</span></div>
      </div>
      <ol class="tl">${c.tl.map(([w,k,t])=>`<li class="${k}"><span class="when">${esc(w)}</span><span class="dot"></span><span class="what">${t}</span></li>`).join("")}</ol>
      ${c.rev?`<div class="rev ${c.rev.tone}"><div class="label">What buyers say · Yelp first, Google last</div><div class="sc">${c.rev.scores.map(([s,v,u])=>{const k=scoreClass(s,v);return u?`<a class="${k}" href="${esc(u)}" target="_blank" rel="noopener"><b>${esc(s)}</b>${esc(v)}</a>`:`<span class="${k}"><b>${esc(s)}</b>${esc(v)}</span>`}).join("")}</div>${c.rev.good?`<p class="good"><b>Good:</b> ${esc(c.rev.good)}</p>`:""}${c.rev.bad?`<p class="bad"><b>Watch:</b> ${esc(c.rev.bad)}</p>`:""}</div>`:""}
      <div class="verdict"><b>Verdict:</b> ${c.verdict}</div>
-     <div class="btns"><a class="btn" href="${esc(c.url)}" target="_blank" rel="noopener">Open listing</a>${c.carfax?`<a class="btn" href="${esc(c.carfax)}" target="_blank" rel="noopener noreferrer">CARFAX</a>`:`<span class="btn off">CARFAX not posted</span>`}${c.sticker?`<a class="btn" href="${esc(c.sticker)}" target="_blank" rel="noopener noreferrer">Window sticker</a>`:`<span class="btn off">No sticker posted</span>`}</div>
+     <div class="btns"><a class="btn" href="${esc(c.url)}" target="_blank" rel="noopener">Open listing</a>${c.carfax?`<a class="btn" href="${esc(c.carfax)}" target="_blank" rel="noopener noreferrer">CARFAX</a>`:`<span class="btn off">CARFAX not posted</span>`}${c.sticker?`<a class="btn" href="${esc(c.sticker)}" target="_blank" rel="noopener noreferrer">Window sticker</a>`:`<span class="btn off">No sticker posted</span>`}${c.video?`<a class="btn" href="${esc(c.video)}" target="_blank" rel="noopener noreferrer">Walkaround video</a>`:''}</div>
     </article>`;}).join("");
   return `<header><div class="label">${esc(s.make)} ${esc(s.model)} · full CARFAX read · ${dateLabel(s.date)}</div><h4>${esc(s.title)}</h4><p class="lead">${esc(s.lead)}</p></header>
    <div class="facts">${s.facts.map(([t,k])=>`<span class="chip ${k}">${esc(t)}</span>`).join("")}</div>

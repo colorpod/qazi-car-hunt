@@ -1,6 +1,7 @@
 // Qazi Car Hunt: one Worker that serves the car-search page. Public, no login.
 import APP from "./app.html";
 import SEARCHES from "./searches/index.js";
+import CMC_CARFAX from "./carfax/SBM11FAA6GW006265.pdf";
 
 const HEADERS = { "Cache-Control": "no-store" };
 
@@ -14,6 +15,10 @@ export default {
     }
     if (url.pathname === "/searches.json") {
       return new Response(JSON.stringify(SEARCHES), { headers: { ...HEADERS, "Content-Type": "application/json" } });
+    }
+    // CARFAX PDFs dealers emailed us, for cars with no free report link.
+    if (url.pathname === "/carfax/SBM11FAA6GW006265.pdf") {
+      return new Response(CMC_CARFAX, { headers: { ...HEADERS, "Content-Type": "application/pdf" } });
     }
     // Old unlock links keep working: send them to the page.
     if (url.pathname.startsWith("/k/")) return Response.redirect(new URL("/", url), 302);

@@ -15,6 +15,10 @@ Qazi's car searches, each run through its full CARFAX. One Cloudflare Worker ser
 3. Import it in `searches/index.js`.
 4. `wrangler deploy`, then open the page and check the new search on a phone width.
 
+## Keep it current
+
+A card is never finished. The same turn a dealer sends anything (CARFAX, sticker, option list, video, price, shop answer), it goes on the card, then deploy. `python3 status_sweep.py` compares every listing's price and sale status against `status.json` through Walt Chrome and prints CHANGE lines. A dealer's CARFAX PDF goes in `carfax/<VIN>.pdf` with a route in `worker.js`.
+
 ## Grading rule of thumb
 
 Rank by how the car has lived, not by price: repairs beyond routine maintenance (engine, gearbox, electrical count as major), repeat repairs, auctions, duplicate titles, short ownerships, and long gaps with no service.

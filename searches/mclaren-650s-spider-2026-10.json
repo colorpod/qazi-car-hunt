@@ -2,7 +2,7 @@
  "id": "mclaren-650s-spider-2026-10",
  "make": "McLaren",
  "model": "650S Spider",
- "date": "2026-11-02",
+ "date": "2026-11-04",
  "scope": "Under 20k miles · clean title · Autotrader 92618",
  "title": "What Each Car Has Been Through",
  "lead": "Every service line on 9 CARFAX reports, read one by one. Ranked by how the car has lived, not by price.",
@@ -12,12 +12,12 @@
    ""
   ],
   [
-   "McLaren Chicago sold Oct 31",
+   "Chicago Motor Cars: SALE PENDING on its site Nov 4",
    "b"
   ],
   [
-   "Chicago Motor Cars: 1 owner, 17 services",
-   "g"
+   "McLaren Chicago sold Oct 31",
+   "b"
   ],
   [
    "7 cars with an engine, gearbox or electrical repair",
@@ -28,22 +28,22 @@
    "w"
   ]
  ],
- "takeaway": "Chicago Motor Cars is now #1: one owner, dealer-serviced, 1,785 miles. Its rear differential was replaced in 2024; get that repair order before a number.",
+ "takeaway": "Chicago Motor Cars is still the best-lived car, but its own site shows SALE PENDING as of Nov 4. Newport Beach, the shop that kept it, hasn't answered on the 2024 rear diff yet.",
  "shift": [
   [
-   "Chicago Motor Cars to #1",
-   "CARFAX in Nov 2: 1 owner, 17 service records, no accidents"
+   "Chicago Motor Cars: SALE PENDING",
+   "Showing on the dealer site Nov 4, availability not yet confirmed"
   ],
   [
-   "Rear diff replaced",
-   "May 2024 at 1,538 mi: the one major repair"
+   "Rear diff still unexplained",
+   "Chicago has no repair order; Newport Beach texted Nov 4, no answer yet"
   ],
   [
-   "Bentley to #2",
-   "No major repairs, but no service in 11 years"
+   "Exotic Knights down $5,000",
+   "Now $156,389 on Autotrader, Nov 4"
   ]
  ],
- "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars: the CARFAX PDF the dealer sent Nov 2. Days listed from CarGurus (Nov 1). MSRP from the original window sticker or the dealer's listing.",
+ "sources": "Full CARFAX reports pulled from carfax.com and Autotrader dealer links on Oct 31, 2026 (Marino: the PDF the dealer sent Oct 30), Bentley repair order, dealer listings and CarGurus days on market. CARFAX shows only what shops report. Chicago Motor Cars: the CARFAX PDF the dealer sent Nov 2. Days listed from CarGurus (Nov 1). MSRP from the original window sticker or the dealer's listing. Prices and status rechecked on every listing Nov 4. Chicago Motor Cars' options and original prices from its listing; no original sticker exists on iPacket for the 8 cars without one (checked Nov 4).",
  "cars": [
   {
    "r": 1,
@@ -51,8 +51,8 @@
    "g": "B+",
    "gc": "b",
    "name": "Chicago Motor Cars",
-   "car": "2016 · Supernova Silver / Carbon Black, loaded carbon, lift, sport exhaust",
-   "loc": "West Chicago, IL (car at their Kansas City store)",
+   "car": "2016 · Supernova Silver / Carbon Black, loaded carbon, lift, sport exhaust. Stock 22586",
+   "loc": "Chicago Motor Cars of Kansas City (James Sealey)",
    "price": 169413,
    "mi": "1,785",
    "own": "1",
@@ -115,15 +115,35 @@
      "Nov 2",
      "s",
      "<b>Out the door $169,413</b> ($800 off + $378 doc + $35 tag). Enclosed transport about $2,400 not included. No PPF, ceramic coated, no tint. No rear diff RO; no codes; local PPI OK; walkaround video sent"
+    ],
+    [
+     "Options",
+     "m",
+     "Original prices on the listing: Enhanced Tech Pack $9,950, sport exhaust $6,650, Supernova Silver $5,680, Stealth wheels $4,990, carbon air brake $4,420, semi-aniline and Alcantara $3,790, carbon sills $3,720, silver ceramic calipers $1,270, Stone Gray stitch $710, triangles and kit $70. Total $41,250"
+    ],
+    [
+     "Nov 2-3",
+     "w",
+     "Emails to McLaren and Lamborghini Newport Beach service (Javier, Robert, Bill) on the rear diff and fuel work. No reply"
+    ],
+    [
+     "Nov 4",
+     "w",
+     "<b>Qazi's number texted Javier at Newport Beach</b> for the repair orders. Auto-reply only so far"
+    ],
+    [
+     "Nov 4",
+     "s",
+     "<b>Dealer site shows SALE PENDING.</b> Availability not yet confirmed with James"
     ]
    ],
-   "verdict": "Best-lived car left: one owner, dealer-maintained, 1,785 mi. Dealer offers $169,413 out the door plus about $2,400 shipping (about $171,800 delivered). No repair order for the 2024 rear diff, so a local PPI is the next step; 5 months listed still leaves room.",
+   "verdict": "Best-lived car left: one owner, dealer-maintained, 1,785 mi. <b>Site shows SALE PENDING as of Nov 4; confirm it's still available first.</b> $169,413 out the door plus about $2,400 shipping. Chicago has no repair order for the 2024 rear diff; local PPI is OK.",
    "url": "https://www.chicagomotorcars.com/2016-mclaren-650s-spider-1700-miles-axle-lifter-advanced-tec-pkg-sport-exhaust-tons-of-carbon-fiber-c-13575/",
    "pick": true,
    "vin": "SBM11FAA6GW006265",
    "listed": "2026-06-01",
-   "msrp": null,
-   "carfax": null,
+   "msrp": 321475,
+   "carfax": "/carfax/SBM11FAA6GW006265.pdf",
    "sticker": null,
    "rev": {
     "tone": "b",
@@ -156,7 +176,11 @@
     ],
     "good": "Hundreds of happy buyers; Jackson Jolicoeur and Sam Salameh get named a lot.",
     "bad": "BBB D- for ignoring 3 complaints. Buyers report an undisclosed major accident on a Porsche (Feb 2025) and an agreed Ford GT deal they sold out from under the buyer (Oct 2025). Yelp 2.8 from 90 reviews."
-   }
+   },
+   "pending": "Nov 4",
+   "video": "https://share.icloud.com/photos/08dwT7vHIG93bLotC9ReX5Yvg",
+   "msrpEst": true,
+   "msrpSrc": "Estimate: $280,225 base (from Bentley's 2015 sticker) + $41,250 in options on this dealer's listing. No original sticker; the dealer has a printed option list only."
   },
   {
    "r": 2,
@@ -166,7 +190,7 @@
    "name": "Bentley Jacksonville",
    "car": "2015 · Volcano Red / black, red stitching",
    "loc": "Jacksonville, FL",
-   "price": 159094,
+   "price": 160244,
    "mi": "6,768",
    "own": "2",
    "maj": 0,
@@ -203,6 +227,16 @@
      "Oct 2026",
      "r",
      "<b>Evap leak code cleared, not traced.</b> Filler neck passed smoke test; canister, purge valve and leak pump sit on the tank and weren't checked. Light stayed off 4 drive cycles. Filler neck cover and 4 wheels repaired"
+    ],
+    [
+     "Oct 31",
+     "s",
+     "Dealer proposal: $156,850 + $3,750 enclosed transport + $1,078 gov fees + $1,495 doc = $163,173 before tax, $175,735 with Florida tax quote"
+    ],
+    [
+     "Nov 4",
+     "m",
+     "Autotrader now $158,000 + fees = $160,244"
     ]
    ],
    "verdict": "Nothing broke on paper, but nothing was serviced either. Clean or neglected: only a PPI tells you.",
@@ -292,9 +326,19 @@
      "2025-26",
      "s",
      "Owner 4 leases it 9 months, back at Marino"
+    ],
+    [
+     "Oct 31",
+     "s",
+     "<b>Dealer offers $138,000 out the door</b>, transport to Irvine and all fees included. Listing stays $143,695"
+    ],
+    [
+     "Nov 3",
+     "m",
+     "Jeff follows up, asks to meet in the middle"
     ]
    ],
-   "verdict": "Serviced often, but it had an engine oil-leak repair and two owners left inside 16 months. Stays evidence only.",
+   "verdict": "Serviced often, but it had an engine oil-leak repair and two owners left inside 16 months. Dealer will do $138,000 delivered. Stays evidence only.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/786277312",
    "pick": false,
    "vin": "SBM11FAA6FW004286",
@@ -339,7 +383,7 @@
    "name": "Exotic Knights",
    "car": "2016 · Gray / Black-Red",
    "loc": "Orlando, FL",
-   "price": 161389,
+   "price": 156389,
    "mi": "13,988",
    "own": "3",
    "maj": 2,
@@ -381,6 +425,11 @@
      "Oct 2024",
      "r",
      "<b>Engine mounts replaced again</b> 30 mi later, wheel bearings serviced"
+    ],
+    [
+     "Nov 4",
+     "m",
+     "<b>Price cut $5,000</b>: now $154,995 + fees = $156,389"
     ]
    ],
    "verdict": "You called it. Fixes from year one, then the engine mounts done twice in 30 miles. Pass.",
@@ -536,7 +585,7 @@
    "name": "Tampa Auto Gallery",
    "car": "2015 · Orange",
    "loc": "Tampa, FL",
-   "price": 145426,
+   "price": 145081,
    "mi": "13,460",
    "own": "5",
    "maj": 1,
@@ -578,6 +627,11 @@
      "2024-26",
      "w",
      "<b>Two owners, zero service records</b> for 3 years"
+    ],
+    [
+     "Nov 4",
+     "m",
+     "Price trimmed $345 to $145,081"
     ]
    ],
    "verdict": "A turbo at 11k and 3 years with no service. Pass.",
