@@ -1,0 +1,149 @@
+{
+ "id": "audi-r8-v10-plus-2026-11",
+ "make": "Audi",
+ "model": "R8 V10 Plus",
+ "date": "2026-11-05",
+ "scope": "One car · Autotrader link from Qazi, Nov 5",
+ "title": "What This Car Has Been Through",
+ "lead": "Every service line on its CARFAX, read one by one.",
+ "facts": [
+  [
+   "13 service records read",
+   ""
+  ],
+  [
+   "0 repairs reported",
+   "g"
+  ],
+  [
+   "2 owners, both Colorado",
+   "g"
+  ],
+  [
+   "Yelp 2.0 for this dealer",
+   "b"
+  ],
+  [
+   "Listed since Aug 5",
+   "w"
+  ]
+ ],
+ "takeaway": "The history is clean, so the fight is the price. BaT sold 2017 V10 Plus coupes at $172,500 (14k miles, Sep 11) and $151,000 (24k miles, Sep 29). Zach already held firm at $174,995 plus $1,500 shipping on Oct 28.",
+ "shift": [
+  [
+   "Same car as the October trade talk",
+   "Zach, Oct 28: \"We're firm on the price of the R8, plus $1500 shipping\""
+  ],
+  [
+   "Still $174,995",
+   "CARFAX total with fees: $175,372; CARFAX value $183,160"
+  ]
+ ],
+ "sources": "Full CARFAX from the dealer's free link, read Nov 5, 2026. Listing and price from Autotrader. Listed date from the CARFAX Aug 5 for-sale record. BaT Audi R8 results read Nov 5; sale prices exclude the buyer fee. Yelp and BBB read Nov 5; DealerRater from Oct 28. No window sticker found: iPacket refused the VIN, so MSRP is blank.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "same",
+   "g": "A-",
+   "gc": "a",
+   "pick": true,
+   "name": "Motor Cars of Chicago",
+   "car": "2018 · Florett Silver / Black with silver stitching, quattro. Stock 10573",
+   "loc": "Motor Cars of Chicago, Joliet, IL (Zach Hashmi)",
+   "price": 174995,
+   "mi": "12,469",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported: routine service only. No accidents, no title problems, no open recalls. Original warranty expired.",
+   "tl": [
+    [
+     "2018",
+     "s",
+     "Delivered through Audi of Warwick, RI: pre-delivery inspection Sep 2018, 3 mi"
+    ],
+    [
+     "2019",
+     "s",
+     "Owner 1, Colorado, bought Mar 2019. Kept 1 year 10 months, 851 mi a year"
+    ],
+    [
+     "2020",
+     "m",
+     "Audi Flatirons service, 860 mi"
+    ],
+    [
+     "2021",
+     "m",
+     "Audi Flatirons: inspection, oil, pre-purchase inspection before resale, 1,590 mi"
+    ],
+    [
+     "2021",
+     "s",
+     "Owner 2, Boulder, CO, Mar 2021. Kept 5 years 4 months, 1,924 mi a year"
+    ],
+    [
+     "2021-25",
+     "m",
+     "Audi Boulder serviced it 7 times: oil, brake fluid, transmission fluid, inspections"
+    ],
+    [
+     "2023",
+     "m",
+     "Four tires replaced, 6,158 mi"
+    ],
+    [
+     "2024",
+     "m",
+     "Computer reprogrammed at Audi Boulder, 9,688 mi"
+    ],
+    [
+     "2026",
+     "m",
+     "Audi Flatirons, 12,234 mi: spark plugs, brake fluid, oil, four tires, alignment"
+    ],
+    [
+     "Aug 2026",
+     "s",
+     "Offered for sale at Motor Cars of Chicago, 12,469 mi"
+    ],
+    [
+     "Oct 2026",
+     "w",
+     "Zach turned down the Turbo S trade: \"We're firm on the price of the R8, plus $1500 shipping\""
+    ]
+   ],
+   "verdict": "<b>Clean car, full price.</b> Two owners, Audi-serviced every year, no repairs and no accidents reported. The ask sits above both 2017 V10 Plus sales on BaT: $172,500 at 14k miles and $151,000 at 24k. Zach held firm on price Oct 28 and adds $1,500 shipping. A PPI still comes first: CARFAX shows only what shops report.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/787407440",
+   "vin": "WUAKBAFX9J7902123",
+   "listed": "2026-08-05",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/8S2fFrkq20KYt_N__qYvbAehxoGMNvd9VdGyaMaV9M8rBGTQ040Qk3RUe8Gaa8GPWRolq7-O81mxtWOncH8nnlNkWf8dJZeuQ4WUxUbw",
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Yelp",
+      "2.0 · 56",
+      "https://www.yelp.com/biz/motor-cars-of-chicago-joliet"
+     ],
+     [
+      "DealerRater",
+      "4.1 · 115",
+      "https://www.dealerrater.com/search/?q=motor+cars+of+chicago+joliet"
+     ],
+     [
+      "BBB",
+      "B+",
+      "https://www.bbb.org/search?find_text=Motor+Cars+of+Chicago&find_loc=Joliet%2C+IL"
+     ]
+    ],
+    "good": "Reviews praise Zach Hashmi for buying cars and shipping out of state.",
+    "bad": "Yelp 2.0 from 56 reviews; DealerRater reviews are mixed on follow-up and add-ons. Cars.com not read."
+   }
+  }
+ ]
+}
