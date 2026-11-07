@@ -19,6 +19,10 @@ Qazi's car searches, each run through its full CARFAX. One Cloudflare Worker ser
 
 A card is never finished. The same turn a dealer sends anything (CARFAX, sticker, option list, video, price, shop answer), it goes on the card, then deploy. `python3 status_sweep.py` compares every listing's price and sale status against `status.json` through Walt Chrome and prints CHANGE lines. A dealer's CARFAX PDF goes in `carfax/<VIN>.pdf` with a route in `worker.js`.
 
+## Ask for (who to contact)
+
+Every dealer gets an `ask` block on its cards (Qazi, Nov 7): read its Google reviews sorted by Newest (200+ or 12 months), count the staff named, and list the top three salespeople by recent five-star mentions, with role, counts and public contact (direct cell, email, Instagram, LinkedIn, each with its source). A guessed email is marked "pattern, unverified". Shape: `ask: {basis, people: [{name, line, phone, email, emailNote, ig, li}]}`. Research lands in `research/salespeople-<date>/<dealer>.json`.
+
 ## Grading rule of thumb
 
 Rank by how the car has lived, not by price: repairs beyond routine maintenance (engine, gearbox, electrical count as major), repeat repairs, auctions, duplicate titles, short ownerships, and long gaps with no service.

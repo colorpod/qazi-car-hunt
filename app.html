@@ -77,6 +77,12 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(36px,7vw,52px);lin
 .cards{display:flex;flex-direction:column;gap:14px}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;flex-direction:column;gap:12px}
 .sbody .card{background:var(--bg)}
+.ask{background:var(--chip);border-radius:10px;padding:10px 12px;margin:0 0 10px}
+.ask .label{margin-bottom:6px}
+.who{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:7px 0;border-top:1px solid var(--line)}
+.who:first-of-type{border-top:0}
+.wn{display:flex;flex-direction:column;min-width:0}.wn b{font-size:14px}.wn span{font-size:12.5px;color:var(--muted)}
+.wc{display:flex;flex-wrap:wrap;gap:6px}.wc .btn{font-size:12px;padding:5px 10px}
 .opts{font-size:13px;color:var(--muted);margin:0 0 8px}.opts b{color:var(--ink);font-weight:600}
 .cap{display:flex;flex-direction:column;gap:2px;background:var(--chip);border-left:3px solid var(--accent);border-radius:8px;padding:10px 12px;margin:0 0 12px}
 .cap b{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:15px}
@@ -170,6 +176,7 @@ function report(s){
      </div>
      <ol class="tl">${c.tl.map(([w,k,t])=>`<li class="${k}"><span class="when">${esc(w)}</span><span class="dot"></span><span class="what">${t}</span></li>`).join("")}</ol>
      ${c.rev?`<div class="rev ${c.rev.tone}"><div class="label">What buyers say · Yelp first, Google last</div><div class="sc">${c.rev.scores.map(([s,v,u])=>{const k=scoreClass(s,v);return u?`<a class="${k}" href="${esc(u)}" target="_blank" rel="noopener"><b>${esc(s)}</b>${esc(v)}</a>`:`<span class="${k}"><b>${esc(s)}</b>${esc(v)}</span>`}).join("")}</div>${c.rev.good?`<p class="good"><b>Good:</b> ${esc(c.rev.good)}</p>`:""}${c.rev.bad?`<p class="bad"><b>Watch:</b> ${esc(c.rev.bad)}</p>`:""}</div>`:""}
+     ${c.ask&&c.ask.people&&c.ask.people.length?`<div class="ask"><div class="label">Ask for · ${esc(c.ask.basis)}</div>${c.ask.people.map(x=>`<div class="who"><div class="wn"><b>${esc(x.name)}</b><span>${esc(x.line)}</span></div><div class="wc">${x.phone?`<a class="btn" href="tel:${esc(x.phone.replace(/[^+\d]/g,''))}">${esc(x.phone)}</a>`:''}${x.email?`<a class="btn" href="mailto:${esc(x.email)}" title="${esc(x.emailNote||'')}">${esc(x.email)}${/unverified/.test(x.emailNote||'')?' ?':''}</a>`:''}${x.ig?`<a class="btn" href="${esc(x.ig)}" target="_blank" rel="noopener">Instagram</a>`:''}${x.li?`<a class="btn" href="${esc(x.li)}" target="_blank" rel="noopener">LinkedIn</a>`:''}${!x.phone&&!x.email&&!x.ig&&!x.li?`<span class="btn off">Main line only</span>`:''}</div></div>`).join("")}</div>`:""}
      ${c.opts&&c.opts.length?`<p class="opts"><b>Options on the dealer's site:</b> ${c.opts.map(esc).join(" · ")}</p>`:""}
      <div class="verdict"><b>Verdict:</b> ${c.verdict}</div>
      <div class="btns"><a class="btn" href="${esc(c.dealerUrl||c.url)}" target="_blank" rel="noopener">${c.dealerUrl?'Dealer listing':'Open listing'}</a>${c.carfax?`<a class="btn" href="${esc(c.carfax)}" target="_blank" rel="noopener noreferrer">CARFAX</a>`:`<span class="btn off">${esc(c.carfaxNote||'CARFAX not posted')}</span>`}${c.sticker?`<a class="btn" href="${esc(c.sticker)}" target="_blank" rel="noopener noreferrer">${esc(c.stickerLabel||'Window sticker')}</a>`:`<span class="btn off">${esc(c.stickerNote||'No sticker posted')}</span>`}${c.video?`<a class="btn" href="${esc(c.video)}" target="_blank" rel="noopener noreferrer">Walkaround video</a>`:''}</div>

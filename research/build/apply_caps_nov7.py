@@ -77,6 +77,15 @@ MANUAL = {  # read by Walt on mcofchicago.com, Nov 7 (client-rendered pages Code
  'SBM13SAA4LW008254': dict(listing_found=True, still_listed=True, dealer_url='https://mcofchicago.com/vehicle-details/?id=2020-mclaren-600lt-spider-convertible-sbm13saa4lw008254', price_on_dealer_site=234995, notes='Dealer site checked: price and specs; no sticker posted.'),
 }
 
+ASK = {  # Qazi Nov 7: who keeps coming up in the newest Google reviews, with contact info
+ 'Motor Cars of Chicago': dict(basis='218 newest Google reviews, Nov 7', people=[
+   dict(name='Dorry Adkins', line='Sales associate. Named in 27 reviews, 26 five-star, 0 bad.', phone='(815) 733-6111', email='dorry@mcofchicago.com', emailNote='pattern from zach@mcofchicago.com, unverified'),
+   dict(name='Ray Rehan', line='Managing partner. Named in 22 reviews, 21 five-star, newest a week ago.', phone='(815) 733-6111', email='ray@mcofchicago.com', emailNote='pattern, unverified'),
+   dict(name='Imad Khan', line='Sales associate. Named in 15 reviews, all five-star, 3 in the last 90 days.', phone='(815) 733-6111', email='imad@mcofchicago.com', emailNote='pattern, unverified', ig='https://www.instagram.com/imadkhan7/'),
+   dict(name='Zach Hashmi', line='Buys cars for the store. 19 five-star reviews. Already emailed with us (R8).', phone='(815) 733-6111', email='zach@mcofchicago.com', emailNote='verified, our own thread'),
+ ]),
+}
+
 def merge_dig(d):
     p = f'{R}/dealer-dig-20261107/RESULTS.json'
     if not os.path.exists(p): return 0
@@ -127,4 +136,7 @@ for i, cap in CAPS.items():
         c['msrp'] = 345600; c['msrpSrc'] = 'Original window sticker on Ilusso iPacket: $315,000 base + Performance Plus Pack $6,370, By McLaren Performance $5,840, B&W 12-speaker $4,420, electric memory seats $3,510, 360 park assist $3,100, red calipers $1,720'
         c['video'] = c.get('video') or 'https://www.youtube.com/embed/616CPqfMO5Y'
     d['sources'] = re.sub(r'Window stickers?:[^.]*\.( Chicago Motor Cars says[^.]*\.)?|Window stickers from iPacket where the dealer posted one\.', '', d['sources']).strip() + ' Window stickers and option lists: every dealer site checked VIN by VIN Nov 7 (iPacket, documents, description); a card says "Dealer site: no sticker" only after that check.'
+    for c in d['cars']:
+        for dealer, a in ASK.items():
+            if c['name'].startswith(dealer): c['ask'] = a
     save(i, d); print(i, 'cap', cap['max'], 'picks', [c['name'] for c in d['cars'] if c['pick']], 'dig rows', m)

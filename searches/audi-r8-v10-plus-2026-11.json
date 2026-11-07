@@ -147,6 +147,40 @@
     ],
     "good": "Reviews praise Zach Hashmi for buying cars and shipping out of state.",
     "bad": "Yelp 2.0 from 56 reviews; DealerRater reviews are mixed on follow-up and add-ons. Cars.com not read."
+   },
+   "ask": {
+    "basis": "218 newest Google reviews, Nov 7",
+    "people": [
+     {
+      "name": "Dorry Adkins",
+      "line": "Sales associate. Named in 27 reviews, 26 five-star, 0 bad.",
+      "phone": "(815) 733-6111",
+      "email": "dorry@mcofchicago.com",
+      "emailNote": "pattern from zach@mcofchicago.com, unverified"
+     },
+     {
+      "name": "Ray Rehan",
+      "line": "Managing partner. Named in 22 reviews, 21 five-star, newest a week ago.",
+      "phone": "(815) 733-6111",
+      "email": "ray@mcofchicago.com",
+      "emailNote": "pattern, unverified"
+     },
+     {
+      "name": "Imad Khan",
+      "line": "Sales associate. Named in 15 reviews, all five-star, 3 in the last 90 days.",
+      "phone": "(815) 733-6111",
+      "email": "imad@mcofchicago.com",
+      "emailNote": "pattern, unverified",
+      "ig": "https://www.instagram.com/imadkhan7/"
+     },
+     {
+      "name": "Zach Hashmi",
+      "line": "Buys cars for the store. 19 five-star reviews. Already emailed with us (R8).",
+      "phone": "(815) 733-6111",
+      "email": "zach@mcofchicago.com",
+      "emailNote": "verified, our own thread"
+     }
+    ]
    }
   }
  ]
