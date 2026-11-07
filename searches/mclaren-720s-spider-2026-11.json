@@ -457,12 +457,12 @@
    "auc": null,
    "vin": "SBM14FCAXLW004596",
    "listed": null,
-   "msrp": null,
-   "msrpSrc": "Asked Nick for the sticker Nov 7",
+   "msrp": 372400,
+   "msrpSrc": "Window sticker from Nick, Nov 7",
    "carfax": null,
    "carfaxNote": "Not on CARFAX listings",
-   "sticker": null,
-   "stickerNote": "Asked Nick Nov 7",
+   "sticker": "/sticker/SBM14FCAXLW004596.pdf",
+   "stickerNote": "From Nick Nov 7. MSRP $372,400. No electrochromic roof listed.",
    "rep": "No CARFAX listing found for this VIN; history not read yet.",
    "tl": [
     [
@@ -489,9 +489,14 @@
      "Nov 7 2026",
      "w",
      "Asked Nick if the car has the electrochromic roof"
+    ],
+    [
+     "Nov 7 2026",
+     "w",
+     "Nick sent the sticker: MSRP $372,400, Elite Saros, Performance pack, sports exhaust, stealth pack, B&W 12-speaker. No electrochromic roof on it. Full PPF"
     ]
    ],
-   "verdict": "Nick's number Nov 7: $279,900 plus CPO, shipping, CA tax and fees. That is over the $260k to $270k Spider cap. Counter or pass is Qazi's call.",
+   "verdict": "Nick: $279,900 + CPO, shipping, CA tax. Sticker $372,400, full PPF, but no electrochromic roof. Over the $260k to $270k cap.",
    "url": "https://www.autotrader.com/cars-for-sale/vehicle/793669517",
    "pick": false,
    "r": 6,
