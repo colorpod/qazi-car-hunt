@@ -91,8 +91,8 @@ ASK['AutoPark Dallas'] = ASK['Autopark Dallas'] = dict(basis='210 newest Google 
    dict(name='Jake (Jacob)', line='Sales. 12 five-star, 6 in the last 90 days.', phone='(214) 945-2601', email='info@autoparkdallas.com', emailNote='dealer inbox'),
  ])
 ASK['Miller Motorcars'] = dict(basis='210 newest Google reviews, Miller and McLaren Greenwich, Nov 7', people=[
-   dict(name='Nick Leiningen', line='McLaren sales specialist. Most-named on the McLaren Greenwich reviews. Emailed Nov 7.', phone='(475) 253-2707', email='nickleiningen@millermotorcars.com', emailNote='pattern from a contact database, unverified', ig='https://www.instagram.com/mclarensfromnick/'),
-   dict(name='Aleksey Katkov', line='McLaren sales associate, older reviews.', phone='(475) 253-2707'),
+   dict(name='Nick Leiningen', line='McLaren sales specialist. Most-named on the McLaren Greenwich reviews. Emailed Nov 7.', phone='(475) 253-2707', email='mclarenwebsales@millermotorcars.com', emailNote='McLaren web sales inbox, published on mclarenofgreenwich.com; ask for Nick', ig='https://www.instagram.com/mclarensfromnick/'),
+   dict(name='Steven Tapia', line='McLaren sales specialist on Miller\'s staff page. Next name if Nick is silent.', phone='(866) 823-2251', email='mclarenwebsales@millermotorcars.com', emailNote='McLaren web sales inbox'),
    dict(name='Dario Torregiani', line='Aston Martin sales, 3 five-star in the last 90 days.', phone='(475) 244-9278', ig='https://www.instagram.com/dariolations/'),
  ])
 ASK['West State Motorsport'] = dict(basis='200 newest Google reviews, Nov 7', people=[

@@ -483,14 +483,16 @@
       "name": "Nick Leiningen",
       "line": "McLaren sales specialist. Most-named on the McLaren Greenwich reviews. Emailed Nov 7.",
       "phone": "(475) 253-2707",
-      "email": "nickleiningen@millermotorcars.com",
-      "emailNote": "pattern from a contact database, unverified",
+      "email": "mclarenwebsales@millermotorcars.com",
+      "emailNote": "McLaren web sales inbox, published on mclarenofgreenwich.com; ask for Nick",
       "ig": "https://www.instagram.com/mclarensfromnick/"
      },
      {
-      "name": "Aleksey Katkov",
-      "line": "McLaren sales associate, older reviews.",
-      "phone": "(475) 253-2707"
+      "name": "Steven Tapia",
+      "line": "McLaren sales specialist on Miller's staff page. Next name if Nick is silent.",
+      "phone": "(866) 823-2251",
+      "email": "mclarenwebsales@millermotorcars.com",
+      "emailNote": "McLaren web sales inbox"
      },
      {
       "name": "Dario Torregiani",
