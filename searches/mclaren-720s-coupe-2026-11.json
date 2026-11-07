@@ -1,0 +1,559 @@
+{
+ "id": "mclaren-720s-coupe-2026-11",
+ "make": "McLaren",
+ "model": "720S Coupe",
+ "date": "2026-11-07",
+ "scope": "2019 and newer · under 20k miles · clean title · nationwide",
+ "title": "What Each Car Has Been Through",
+ "lead": "25 720S listings under 20k miles on CARFAX; 7 coupes fit. Ranked by how the car has lived, not by price.",
+ "facts": [
+  [
+   "8 coupes, 7 full CARFAX reports read",
+   ""
+  ],
+  [
+   "Best: 1-owner 2022, Chicago Motor Cars",
+   "g"
+  ],
+  [
+   "Value: 2020 Performance, McLaren Chicago $265,300",
+   "g"
+  ],
+  [
+   "Coupe sales $219k to $270k",
+   "w"
+  ],
+  [
+   "Asks run $230k to $301k",
+   ""
+  ]
+ ],
+ "takeaway": "My two cents: the 2022 at Chicago Motor Cars is the one to own (one owner, McLaren service every year). The 2020 Performance at McLaren Chicago is the smart money at $265,300 with a spotless record. Recent coupe sales cluster around $269,500 at low miles, so every ask above $270k should come down.",
+ "shift": [
+  [
+   "Recent sales: 2019 coupe, 3,532 mi, $269,500",
+   "classic.com, Jan 16, 2026"
+  ],
+  [
+   "2022 coupe, 4,350 mi, reported $219,000",
+   "classic.com, Mar 13, 2026. Looks low; may be a bid, not a sale"
+  ],
+  [
+   "Market read",
+   "Coupe asks under 20k mi start at $230k; 720S Spider sales run about $25k above coupes"
+  ],
+  [
+   "Left out",
+   "Ferrari of Central Florida 2019: CARFAX shows 20,556 mi, over the limit. Motor Cars of Chicago 2019 Gray #9935: 7 owners. McLaren North Jersey 2019: Canadian commercial use and a turbo replaced"
+  ]
+ ],
+ "sources": "Listings and full CARFAX reports from carfax.com dealer listings (free reports), read Nov 7, 2026 in the built-in browser; Autotrader for European Exotic Center. Sold results from classic.com and Cars & Bids via Codex, Nov 7. Days listed from CARFAX first-seen dates. Window stickers: iPacket refused these VINs; Chicago Motor Cars says the 2022 comes with its original sticker.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "new",
+   "g": "A",
+   "gc": "a",
+   "pick": true,
+   "name": "Chicago Motor Cars",
+   "car": "2022 · Performance, Black / Black, lift, sport exhaust, B&W audio, red calipers, front PPF",
+   "loc": "Chicago Motor Cars, West Chicago, IL",
+   "price": 300511,
+   "mi": "8,879",
+   "own": "1",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported. Washer fluid reservoir replaced (Dec 2025). No accidents, clean title.",
+   "tl": [
+    [
+     "Nov 2022",
+     "s",
+     "Sold new in Florida, McLaren Tampa Bay (Dimmitt) delivered it at 22 mi"
+    ],
+    [
+     "2023-25",
+     "m",
+     "Serviced every year at McLaren Tampa Bay: Jan 2023, Nov 2023, Dec 2024, Dec 2025"
+    ],
+    [
+     "Apr 2026",
+     "s",
+     "Traded at 8,872 mi, Motor Cars of Chicago listed it, then Chicago Motor Cars took title in July"
+    ],
+    [
+     "Oct 25, 2026",
+     "s",
+     "Listed at Chicago Motor Cars, 8,879 mi. Listing says the original window sticker is included"
+    ]
+   ],
+   "verdict": "<b>The cleanest coupe on the market.</b> One owner, dealer-serviced every year, nothing but routine work. The newest car here, so it is also the priciest at $300,511. Ask for the window sticker PDF and push for $280k: the coupe sales below run $219k to $270k.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCA7NW006975",
+   "vin": "SBM14DCA7NW006975",
+   "listed": "2026-10-25",
+   "msrp": null,
+   "msrpSrc": "Dealer says the original window sticker comes with the car",
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/o5XUt70pYh_3SVHi2E-a10ufE9Uwu3254KXI64Cg6vQ5a5sWPS_I1-OWox0kgF9hqtcvfGiZcJA6DmJNUM2EoaFD0xsc9cl1wSU07C95",
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "CARFAX",
+      "5.0 · 1",
+      "https://www.carfax.com/vehicle/SBM14DCA7NW006975"
+     ],
+     [
+      "BBB",
+      "D+",
+      "https://www.bbb.org/search?find_text=Chicago+Motor+Cars"
+     ]
+    ],
+    "good": "Same store that sold us the silver 650S talks (Mike, James); answers fast.",
+    "bad": "BBB D+ with complaints; Parin held hard at $169,800 on the 650S."
+   }
+  },
+  {
+   "r": 2,
+   "mv": "new",
+   "g": "A-",
+   "gc": "a",
+   "pick": true,
+   "name": "McLaren Chicago",
+   "car": "2020 · Performance, Black / Black. Stock P1263",
+   "loc": "LaSarthe Partners (McLaren Chicago), Hinsdale, IL",
+   "price": 265300,
+   "mi": "8,621",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported. Washer nozzle (2022), drain plug gasket at a 2026 PDI. No accidents, clean title.",
+   "tl": [
+    [
+     "Dec 2020",
+     "s",
+     "New car at Jaguar Aston Martin McLaren Palm Beach, sat unsold 14 months"
+    ],
+    [
+     "Feb 2022",
+     "s",
+     "Owner 1, California, bought at 517 mi. Serviced at Lamborghini Newport Beach 2022-23"
+    ],
+    [
+     "Dec 2024",
+     "s",
+     "Owner 2, Friendswood, Texas. Lamborghini Houston service Jan, Jun, Aug, Nov 2025"
+    ],
+    [
+     "Aug 2026",
+     "m",
+     "Lamborghini Dallas PDI, then McLaren Chicago listed it at 8,591 mi; inspected Oct 27"
+    ]
+   ],
+   "verdict": "<b>Best value with a clean record.</b> Two owners, dealer-serviced the whole way, no repairs, and it was registered new in 2022 so it lived a short life. At $265,300 it sits near the coupe sales median. A franchise McLaren store with 4.8 on CARFAX.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCAXLW005591",
+   "vin": "SBM14DCAXLW005591",
+   "listed": "2026-08-20",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/OQrPrmB_qVDYMmO7xPiypFhAlSTYfX8jxpEDi94_vPm9AcHRyPncXLtXfPOPeX-n7fZVzK_kKjdRQf8umoy8lT4Cj6cm-xkNzM9mOrml",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "CARFAX",
+      "4.8 · 18",
+      "https://www.carfax.com/vehicle/SBM14DCAXLW005591"
+     ]
+    ],
+    "good": "Franchise McLaren dealer; 4.8 from 18 CARFAX reviews.",
+    "bad": "Yelp not read."
+   }
+  },
+  {
+   "r": 3,
+   "mv": "new",
+   "g": "B+",
+   "gc": "b",
+   "pick": false,
+   "name": "Motor Cars of Chicago (Gray)",
+   "car": "2019 · Luxury, Sarthe Grey / Gray. Stock 10635",
+   "loc": "Motor Cars of Chicago, Joliet, IL",
+   "price": 250372,
+   "mi": "5,715",
+   "own": "2",
+   "maj": 0,
+   "oth": 2,
+   "auc": 0,
+   "rep": "Window regulator replaced (2021), door latch replaced and computer reprogrammed (2022), intercooler serviced (2020). No accidents.",
+   "tl": [
+    [
+     "Aug 2018",
+     "s",
+     "Sold new by McLaren Boston"
+    ],
+    [
+     "2019-26",
+     "s",
+     "Owner 2, Pelham, New Hampshire, 7 years, about 750 mi a year"
+    ],
+    [
+     "2020-22",
+     "r",
+     "<b>Window regulator and door latch replaced</b>, computer reprogrammed, all at McLaren Boston"
+    ],
+    [
+     "Aug 2024",
+     "m",
+     "McLaren Orlando service, A/C recharge"
+    ],
+    [
+     "Mar 2026",
+     "m",
+     "McLaren Boston PDI and fluids at 4,676 mi, then sold to Motor Cars of Chicago"
+    ]
+   ],
+   "verdict": "<b>Lowest miles of the clean cars, McLaren-serviced its whole life.</b> The door hardware repairs are common 720S fixes, not red flags. Same Joliet dealer as the R8, Yelp 2.0.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCA1KW002478",
+   "vin": "SBM14DCA1KW002478",
+   "listed": "2026-07-26",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/KNApsZ0e3eBbcPM6OflRFLixNuwk1irCH-UfqGlyOSnNm21Yk4OiXTmDsd2_-SoFfSUuKN-HQlbU0az4Fm3NSKWgVfY9GlwcHtByvfAi",
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Yelp",
+      "2.0 · 56",
+      "https://www.yelp.com/biz/motor-cars-of-chicago-joliet"
+     ],
+     [
+      "DealerRater",
+      "4.4 · 150",
+      "https://www.dealerrater.com/search/?q=motor+cars+of+chicago+joliet"
+     ],
+     [
+      "Cars.com",
+      "4.0 · 275",
+      "https://www.cars.com/dealers/"
+     ],
+     [
+      "BBB",
+      "B+",
+      "https://www.bbb.org/us/il/joliet/profile/auto-services/motor-cars-of-chicago-0654-1000102743"
+     ]
+    ],
+    "good": "Huge exotic inventory; ships nationwide; same dealer as the R8 talks (Zach).",
+    "bad": "Yelp 2.0 from 56 reviews; follow-up and add-on complaints."
+   }
+  },
+  {
+   "r": 4,
+   "mv": "new",
+   "g": "B+",
+   "gc": "b",
+   "pick": false,
+   "name": "Motor Cars of Chicago (Red)",
+   "car": "2019 · Memphis Red / Black, carbon, Opti-Coat. Stock 11153",
+   "loc": "Motor Cars of Chicago, Joliet, IL",
+   "price": 230372,
+   "mi": "15,753",
+   "own": "2",
+   "maj": 0,
+   "oth": 1,
+   "auc": 1,
+   "rep": "Windshield replaced (2020). Bought at a dealer auction Oct 16, 2026. No accidents.",
+   "tl": [
+    [
+     "Jul 2018",
+     "s",
+     "McLaren Denver PDI"
+    ],
+    [
+     "2019-25",
+     "s",
+     "Owner 1, Casper, Wyoming. Aston Martin Denver service every year 2020-25"
+    ],
+    [
+     "Aug 2020",
+     "r",
+     "Windshield replaced"
+    ],
+    [
+     "May 2025",
+     "s",
+     "Owner 2, Loveland, Colorado"
+    ],
+    [
+     "Oct 16, 2026",
+     "w",
+     "<b>Sold at a dealer auction</b>, then listed at Motor Cars of Chicago two days later"
+    ]
+   ],
+   "verdict": "<b>Cheapest clean coupe.</b> Six straight years of dealer service and one windshield, but it came through an auction last month and has the most miles. Good number to anchor a lowball on the others.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCA3KW002482",
+   "vin": "SBM14DCA3KW002482",
+   "listed": "2026-10-18",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/tTRRnxiEEd4gyQQ47u2FtGPo8M87v70CkRnTxzBJjYd6aWn9vP9RqC0iOtL4Dl54S7LEAdjPCzw3HpiYiNmoKQfiXPN-IyEmANcS17gm",
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Yelp",
+      "2.0 · 56",
+      "https://www.yelp.com/biz/motor-cars-of-chicago-joliet"
+     ],
+     [
+      "DealerRater",
+      "4.4 · 150",
+      "https://www.dealerrater.com/search/?q=motor+cars+of+chicago+joliet"
+     ],
+     [
+      "Cars.com",
+      "4.0 · 275",
+      "https://www.cars.com/dealers/"
+     ],
+     [
+      "BBB",
+      "B+",
+      "https://www.bbb.org/us/il/joliet/profile/auto-services/motor-cars-of-chicago-0654-1000102743"
+     ]
+    ],
+    "good": "Huge exotic inventory; ships nationwide; same dealer as the R8 talks (Zach).",
+    "bad": "Yelp 2.0 from 56 reviews; follow-up and add-on complaints."
+   }
+  },
+  {
+   "r": 5,
+   "mv": "new",
+   "g": "B",
+   "gc": "b",
+   "pick": false,
+   "name": "McLaren Scottsdale",
+   "car": "2019 · price on request",
+   "loc": "McLaren Scottsdale, AZ",
+   "price": 0,
+   "mi": "1,899",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported. Two duplicate titles (2019, 2020). True360 inspection 2023: no prior damage.",
+   "tl": [
+    [
+     "2018",
+     "s",
+     "Delivered through BMW Mini of Sterling, Virginia"
+    ],
+    [
+     "2019-23",
+     "s",
+     "Owner 1, West Virginia. <b>Duplicate title issued twice</b>, 2019 and 2020"
+    ],
+    [
+     "Jun 2023",
+     "m",
+     "True360 inspection: no prior repairs or damage found"
+    ],
+    [
+     "2023-26",
+     "s",
+     "Owner 2, Arizona. McLaren Scottsdale service 2024, 2025, Oct 2026"
+    ],
+    [
+     "Nov 5, 2026",
+     "s",
+     "Listed at McLaren Scottsdale, 1,899 mi, price not posted"
+    ]
+   ],
+   "verdict": "<b>Practically a new car</b> at 1,899 mi, McLaren-serviced. Ask why two duplicate titles were issued and get the number; expect it priced near $270k.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCA3KW002501",
+   "vin": "SBM14DCA3KW002501",
+   "listed": "2026-11-05",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/kDsxTErelSo0JB8asN9t3lAsHMVub9mgfNIOiDkO_VEwHlVa4H7_5usI62-nJ9_nTwjuPhY0E-abNR1hegQuaXBGFD1PFHTp_PjX659V",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "CARFAX",
+      "4.7 · 6",
+      "https://www.carfax.com/vehicle/SBM14DCA3KW002501"
+     ]
+    ],
+    "good": "Franchise McLaren dealer.",
+    "bad": "Price not posted."
+   }
+  },
+  {
+   "r": 6,
+   "mv": "new",
+   "g": "B",
+   "gc": "b",
+   "pick": false,
+   "name": "Long Island Sports Cars",
+   "car": "2021 · Performance, Red / Black, carbon ceramics, soft-close doors",
+   "loc": "Long Island Sports Cars, Roslyn, NY",
+   "price": 288063,
+   "mi": "8,795",
+   "own": "1",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported, but no McLaren service on record: only inspections at a Ford store. No accidents.",
+   "tl": [
+    [
+     "Jan 2022",
+     "s",
+     "Offered new at Long Island Sports Cars, 953 mi"
+    ],
+    [
+     "Jul 2022",
+     "s",
+     "Owner 1, New York, personal lease"
+    ],
+    [
+     "2023-24",
+     "w",
+     "Only state inspections at Levittown Ford; no oil service shown"
+    ],
+    [
+     "Aug 2026",
+     "s",
+     "Back at Long Island Sports Cars, 8,795 mi"
+    ]
+   ],
+   "verdict": "<b>One owner, newer car, thin paper.</b> CARFAX shows no McLaren service in four years. Ask for receipts; without them it is worth less than the Chicago cars.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCA8MW006188",
+   "vin": "SBM14DCA8MW006188",
+   "listed": "2026-08-07",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/l9pE9pMFpp7NGSGEXjN-CGo0TIHfs-sjBe1NLI_Z9a35cCv1j3iBxzeHH_YV8P1bHmtOcPylrVEWWhwDhvaEuJFTowZ6b-0NeSrikOUt",
+   "rev": {
+    "tone": "",
+    "scores": [
+     [
+      "CARFAX",
+      "4.6 · 5",
+      "https://www.carfax.com/vehicle/SBM14DCA8MW006188"
+     ]
+    ],
+    "good": "McLaren and Aston Martin dealer.",
+    "bad": "Few reviews read."
+   }
+  },
+  {
+   "r": 7,
+   "mv": "new",
+   "g": "C+",
+   "gc": "c",
+   "pick": false,
+   "name": "Autopark Dallas",
+   "car": "2019 · Luxury, Black / Black, carbon aero, lift, aftermarket valvetronic exhaust",
+   "loc": "Autopark Dallas, Lewisville, TX",
+   "price": 241995,
+   "mi": "10,554",
+   "own": "4",
+   "maj": 1,
+   "oth": 2,
+   "auc": 0,
+   "rep": "Water pump and gasket, windshield and fuel filter replaced (May 2025), intercooler serviced, A/C recharge, PCV valve. Aftermarket exhaust.",
+   "tl": [
+    [
+     "2018-20",
+     "s",
+     "Delivered through Volvo Cars Palo Alto (McLaren SF), sat with 340 mi until 2020"
+    ],
+    [
+     "2020-24",
+     "s",
+     "Owner 1, Tyler, Texas. Owner 2 same city, 8 months"
+    ],
+    [
+     "May 2025",
+     "r",
+     "<b>Water pump and gasket replaced</b>, windshield, fuel filter, coolant at Lamborghini Houston"
+    ],
+    [
+     "2025-26",
+     "s",
+     "Owner 3, Little Rock, Arkansas, 6 months"
+    ],
+    [
+     "Sep 22, 2026",
+     "w",
+     "<b>New owner reported in California</b> while Autopark still lists it. Confirm it is still for sale"
+    ]
+   ],
+   "verdict": "<b>Skip.</b> Four owners, a water pump, an aftermarket exhaust, 228 days on the lot, and CARFAX shows a California sale in September.",
+   "url": "https://www.carfax.com/vehicle/SBM14DCA6KW002489",
+   "vin": "SBM14DCA6KW002489",
+   "listed": "2026-03-24",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/UTisQsCHjrCG449de-OzRtiSSYZZ1VwltT4RNbMYRJtNrxSSG4GdrdQZr4Ji-9e1Sej88XexriM8UZf4cWl_8NllLP0zG6j48Eqkvaa2",
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "CARFAX",
+      "4.0 · 30",
+      "https://www.carfax.com/vehicle/SBM14DCA6KW002489"
+     ]
+    ],
+    "good": "Includes dealer fees in price.",
+    "bad": "Listed since March."
+   }
+  },
+  {
+   "r": 8,
+   "mv": "new",
+   "g": "?",
+   "gc": "b",
+   "pick": false,
+   "name": "European Exotic Center",
+   "car": "2019 · Onyx Black / Black Alcantara, carbon interior, forged wheels, sport exhaust, lift, PPF. Stock S03563",
+   "loc": "European Exotic Center, San Clemente, CA (18 mi)",
+   "price": 259995,
+   "mi": "5,505",
+   "own": "?",
+   "maj": null,
+   "oth": null,
+   "auc": null,
+   "rep": "No free CARFAX: Autotrader offers only a paid AutoCheck. Ask the dealer for the CARFAX.",
+   "tl": [
+    [
+     "Nov 2026",
+     "w",
+     "Listed on Autotrader, 5,505 mi, no dealer fees. History not read yet"
+    ]
+   ],
+   "verdict": "<b>The local one.</b> 18 miles from home, low miles, good spec. Get the CARFAX from the dealer before it can rank.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/786422643",
+   "vin": "SBM14DCA8KW003563",
+   "listed": null,
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": null,
+   "rev": {
+    "tone": "",
+    "scores": [],
+    "good": "Local: drive over and see it.",
+    "bad": "Reviews not read."
+   }
+  }
+ ]
+}

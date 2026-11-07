@@ -1,0 +1,11 @@
+Working report URL: https://www.carfax.com/vehicle/SBM14DCA5PW007030
+McLaren Dallas, 2023 McLaren, VIN SBM14DCA5PW007030
+Summary: owners=Dealer says CARFAX One-Owner; accidents=Dealer says CARFAX One-Owner; accident status not separately stated; records=CPO 90+ point inspection; full free report not rendered; miles=13864
+## Owner blocks
+Owner blocks: Dealer says CARFAX One-Owner. Dates, states, and owner mileage were not exposed because the full report did not load.
+Service and repair lines: Full CARFAX timeline not exposed. Repairs beyond routine maintenance: unknown, not treated as none.
+Damage/accident events: Dealer says CARFAX One-Owner; accident status not separately stated.
+Auction events: Unknown.
+Title events/brands: Dealer page says CARFAX One-Owner and McLaren Qualified CPO; salvage/rebuilt/lemon/flood not reported on page.
+CARFAX access result: DataDome CAPTCHA blocked the permitted routes. CAPTCHA was not interacted with.
+Read: Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.

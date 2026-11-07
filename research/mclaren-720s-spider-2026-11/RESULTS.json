@@ -1,0 +1,388 @@
+{
+  "cars": [
+    {
+      "dealer": "McLaren San Francisco",
+      "loc": "Palo Alto, CA",
+      "year": 2020,
+      "color": "Volcano Yellow / Black-Scoria Gray",
+      "options": [
+        "MSO Black Pack",
+        "carbon ceramic brakes",
+        "10-spoke lightweight forged wheels",
+        "360-degree park assist",
+        "electric heated memory seats",
+        "sports exhaust",
+        "stealth pack",
+        "12-speaker audio",
+        "front-end PPF"
+      ],
+      "mi": 6969,
+      "price": 269991,
+      "vin": "SBM14FCA6LW004109",
+      "stock": "LW004109-MP",
+      "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/SBM14FCA6LW004109/2020-mclaren-720s-4-0-luxury-spider-palo-alto-ca",
+      "listed": "2026-10-29",
+      "dom": 9,
+      "priceHistory": "No change found in accessible listing; $269,991 current",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCA6LW004109",
+        "owners": 1,
+        "accidents": 0,
+        "records": 10,
+        "majorRepairs": [
+          "Interior trim repaired on 2020-02-28"
+        ],
+        "otherRepairs": [
+          "Fresh 2026 sale-prep service, tires, brake fluid, air filter, keyless battery"
+        ],
+        "auctions": [],
+        "titleNotes": "No CARFAX title brands, total loss, structural damage, airbag, rollback, or accident entries reported",
+        "read": "Best documented history in the group: one California personal owner, no reported damage, consistent service."
+      },
+      "msrp": 358490,
+      "msrpSrc": "CARFAX free vehicle-history listing, total suggested retail price",
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": null,
+        "bbb": null,
+        "google": "4.7/5, 151 reviews",
+        "urls": {
+          "google": "https://reviews.birdeye.com/mclaren-san-francisco-165276162687840",
+          "dealer": "https://www.mclarensanfrancisco.com/"
+        }
+      }
+    },
+    {
+      "dealer": "European Exotic Center",
+      "loc": "Tampa, FL",
+      "year": 2020,
+      "color": "Pearl White / Tan",
+      "options": [
+        "Carbon Fiber Exterior Upgrade Pack 1",
+        "Elite Pearl White paint",
+        "Luxury trim",
+        "carbon-fiber primary and secondary interiors",
+        "satin diamond-cut wheels",
+        "10-spoke lightweight forged wheels",
+        "electrochromic roof",
+        "360-degree park assist",
+        "sports exhaust",
+        "12-speaker Bowers & Wilkins",
+        "electric heated memory seats",
+        "soft-close doors",
+        "ceramic brakes",
+        "vehicle lift"
+      ],
+      "mi": 10513,
+      "price": 264995,
+      "vin": "SBM14FCA5LW004487",
+      "stock": "T04487",
+      "url": "https://exoticsgroup.com/cars/2020-mclaren-720s-spider-sbm14fca5lw004487/",
+      "listed": "2026-08-13",
+      "dom": 79,
+      "priceHistory": "$269,995 Aug 13; $264,995 Aug 28; $259,995 Sep 15; $258,995 Oct 10; $264,995 Oct 12/current",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCA5LW004487",
+        "owners": 2,
+        "accidents": 0,
+        "records": 18,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": [],
+        "titleNotes": "Accessible CARFAX summary shows no accident/damage report; detailed title section not loaded in this pass",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": null,
+      "sticker": null,
+      "rev": {
+        "yelp": "4.3/5, 16 reviews",
+        "dealerrater": null,
+        "carscom": "Not rated, 2 reviews",
+        "bbb": null,
+        "google": "4.7/5, 198 reviews",
+        "urls": {
+          "yelp": "https://www.yelp.com/biz/european-exotic-center-tampa",
+          "carscom": "https://www.cars.com/dealers/5371259/european-exotic-center/",
+          "google": "https://reviews.birdeye.com/european-exotic-center-165328387668749",
+          "dealer": "https://www.europeanexoticcenter.com/"
+        }
+      }
+    },
+    {
+      "dealer": "McLaren Chicago",
+      "loc": "Chicago, IL",
+      "year": 2020,
+      "color": "Paris Blue / Black",
+      "options": [
+        "MSO Black Pack",
+        "carbon steering-wheel paddles",
+        "carbon ceramic brakes, polished calipers",
+        "10-spoke lightweight forged wheels",
+        "vehicle lift",
+        "360-degree park assist",
+        "front and rear parking sensors",
+        "rear camera",
+        "carbon exterior pack 1",
+        "carbon primary and secondary interiors",
+        "electric heated memory seats",
+        "electric steering column",
+        "soft-close doors",
+        "stealth pack",
+        "sports exhaust",
+        "electrochromic roof",
+        "12-speaker audio"
+      ],
+      "mi": 18466,
+      "price": 230000,
+      "vin": "SBM14FCAXLW004193",
+      "stock": null,
+      "url": "https://www.exoticcarlist.com/car/701227/",
+      "listed": null,
+      "dom": null,
+      "priceHistory": null,
+      "salesperson": "Sales Department",
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCAXLW004193",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": [],
+        "titleNotes": "Unknown, free report did not load",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": 390850,
+      "msrpSrc": "Dealer seller description",
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": null,
+        "bbb": null,
+        "google": null,
+        "urls": {
+          "dealer": "https://www.mclarenchicago.com/"
+        }
+      }
+    },
+    {
+      "dealer": "Motor Cars of Chicago",
+      "loc": "Joliet, IL",
+      "year": 2020,
+      "color": "Black / Black",
+      "options": [
+        "Performance trim",
+        "rear camera",
+        "navigation",
+        "rear parking aid",
+        "ceramic brakes and performance equipment per listing"
+      ],
+      "mi": 11141,
+      "price": 284995,
+      "vin": "SBM14FCA1LW004244",
+      "stock": "10887",
+      "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/SBM14FCA1LW004244/2020-mclaren-720s-4-0-performance-spider-joliet-il",
+      "listed": "2026-09-23",
+      "dom": 45,
+      "priceHistory": "No change shown; $284,995 current",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCA1LW004244",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": [],
+        "titleNotes": "Unknown, free report did not load",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": null,
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": null,
+        "bbb": "B+, 36 complaints, not accredited",
+        "google": "4.7/5",
+        "urls": {
+          "bbb": "https://www.bbb.org/us/il/joliet/profile/auto-services/motor-cars-of-chicago-0654-1000102743",
+          "google": "https://www.capitalone.com/cars/dealership/Joliet-IL/Motor%2BCars%2Bof%2BChicago/50173",
+          "carscom": "https://www.cars.com/dealers/"
+        }
+      }
+    },
+    {
+      "dealer": "Pagani of Greenwich / Miller Motorcars",
+      "loc": "Greenwich, CT",
+      "year": 2020,
+      "color": "MSO Borealis / Jet Black",
+      "options": [
+        "Performance trim",
+        "stock 3496",
+        "franchise dealer listing; full option list not exposed in accessible page"
+      ],
+      "mi": 10742,
+      "price": 277900,
+      "vin": "SBM14FCA8LW004693",
+      "stock": "3496",
+      "url": "https://www.millermotorcars.com/2020-mclaren-720s-spider-performance-c-9211/",
+      "listed": "2026-11-01",
+      "dom": 3,
+      "priceHistory": "$279,995 historical; $277,900 plus $799 conveyance, $278,699 total/current",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCA8LW004693",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": [],
+        "titleNotes": "Unknown, free report did not load",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": 381000,
+      "msrpSrc": "Dealer listing search description",
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": null,
+        "bbb": null,
+        "google": null,
+        "urls": {
+          "dealer": "https://www.millermotorcars.com/"
+        }
+      }
+    },
+    {
+      "dealer": "McLaren Long Island",
+      "loc": "Roslyn, NY",
+      "year": 2020,
+      "color": "Mauvine Blue / Black",
+      "options": [
+        "Performance trim",
+        "certified pre-owned listing",
+        "7-speed automatic",
+        "RWD"
+      ],
+      "mi": 7050,
+      "price": 292063,
+      "vin": "SBM14FCA9LW004220",
+      "stock": "5282",
+      "url": "https://exoticsgroup.com/cars/2020-mclaren-720s-spider-sbm14fca9lw004220/",
+      "listed": "2026-11-04",
+      "dom": 3,
+      "priceHistory": null,
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCA9LW004220",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": [],
+        "titleNotes": "Unknown, free report did not load; third-party listing says not single owner",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": null,
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": null,
+        "bbb": null,
+        "google": null,
+        "urls": {
+          "dealer": "https://www.mclarenlongisland.com/"
+        }
+      }
+    },
+    {
+      "dealer": "Lapin Motor Co.",
+      "loc": "Scottsdale, AZ",
+      "year": 2020,
+      "color": "Silica White / Black",
+      "options": [
+        "Carbon exterior pack 1",
+        "By McLaren Performance",
+        "front lift",
+        "electric heated memory seats",
+        "soft-close doors",
+        "carbon rear fender and hood intakes",
+        "sports exhaust",
+        "carbon mirrors",
+        "12-speaker audio",
+        "MSO Black Pack",
+        "red calipers",
+        "360-degree park assist"
+      ],
+      "mi": 16732,
+      "price": 263911,
+      "vin": "SBM14FCA3LW004245",
+      "stock": "C-004245",
+      "url": "https://www.capitalone.com/cars/vehicle-details/2020/McLaren/720S/Performance/SBM14FCA3LW004245",
+      "listed": "2026-10-21",
+      "dom": 17,
+      "priceHistory": "$268,991 Mar 2024; $263,911 Oct 21, 2026",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehicle/SBM14FCA3LW004245",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": [],
+        "titleNotes": "Dealer states clean title and clean CARFAX; independent report not loaded",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": null,
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": null,
+        "bbb": null,
+        "google": "4.7/5",
+        "urls": {
+          "google": "https://www.capitalone.com/cars/vehicle-details/2020/McLaren/720S/Performance/SBM14FCA3LW004245",
+          "dealer": "https://lapinmotorco.com/"
+        }
+      }
+    }
+  ],
+  "sold": [
+    {"date":"2026-10-31","year":2019,"body":"Spider","mi":600,"color":"Teal/Turquoise","price":246655,"status":"sold","url":"https://www.classic.com/veh/2019-mclaren-720s-spider-sbm14fcb5kw003623-WvZAQyW/"},
+    {"date":"2026-09-02","year":2020,"body":"Spider","mi":932,"color":"Amethyst Black","price":229500,"status":"sold","url":"https://www.classic.com/veh/2020-mclaren-720s-spider-sbm14fca7lw005754-WYlgOdn/"},
+    {"date":"2026-05-19","year":2022,"body":"Spider","mi":7600,"color":"Helios Orange","price":278000,"status":"sold","url":"https://carsandbids.com/auctions/rxBge2qO/2022-mclaren-720s-spider-performance"},
+    {"date":"2026-04-07","year":2021,"body":"Spider","mi":23000,"color":"Orange","price":227000,"status":"sold, over 20k mi","url":"https://www.classic.com/veh/2021-mclaren-720s-spider-sbm14fca7mw005979-n1y7MLn/"},
+    {"date":"2026-03-16","year":2020,"body":"Spider","mi":16000,"color":"Blue","price":240000,"status":"sold","url":"https://www.classic.com/veh/2020-mclaren-720s-spider-sbm14fca0lw005191-4DG0O8p/"},
+    {"date":"2026-02-27","year":2020,"body":"Spider","mi":3900,"color":"Blue","price":254007,"status":"sold","url":"https://www.classic.com/veh/2020-mclaren-720s-spider-sbm14fcaxlw004811-WvGXjyp/"},
+    {"date":"2025-12-30","year":2022,"body":"Spider","mi":3948,"color":"Orange","price":290000,"status":"sold","url":"https://www.classic.com/veh/2022-mclaren-720s-spider-sbm14fca7nw006955-n2x91Pp/"},
+    {"date":"2026-10-22","year":2019,"body":"Spider","mi":null,"color":null,"price":221000,"status":"bid to, no sale","url":"https://bringatrailer.com/listing/2019-mclaren-720s-spider/"}
+  ],
+  "market": {
+    "median": 246655,
+    "range": "$227,000-$290,000 sold; $221,000 bid-to",
+    "trend": "mixed, with low-mileage cars mostly $229k-$278k and the 2022 Houston sale at $290k",
+    "notes": "Eight exact Spider results were confirmed in the Nov 2025-Nov 2026 window, seven sold and one bid-to/no-sale. Seven sold records are under 20k miles; the 2021 Newport Beach result is 23k miles. The accessible exact-body sample is below the requested 10+ and excludes live listings."
+  }
+}

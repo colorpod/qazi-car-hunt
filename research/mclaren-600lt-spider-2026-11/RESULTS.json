@@ -1,0 +1,327 @@
+{
+  "cars": [
+    {
+      "dealer": "1 of 1 Motorsports",
+      "loc": "Fort Lauderdale, FL",
+      "year": 2020,
+      "color": "White / Red",
+      "options": [
+        "Carbon fiber trim",
+        "Premium sound",
+        "Parking sensors",
+        "Reverse camera"
+      ],
+      "mi": 18132,
+      "price": 244998,
+      "vin": "SBM13SAA5LW007615",
+      "stock": "007615",
+      "url": "https://www.1of1motorsports.com/used-mclaren-600lt/",
+      "listed": null,
+      "dom": null,
+      "priceHistory": "Cars.com showed $15,000 below original listed price.",
+      "salesperson": "Tyler Zankl",
+      "carfax": {
+        "url": "https://www.carfax.com/vehiclehistory/ar20/OOa1PZnaJgtiFJV4VrfdhUzZIUB4QUmwPWmISd4klWKdNrcWk7jBeu9KdfFFF7b8UkztD_B30kUrHT9WmBtbnR2b81v-qgxuXg-xC-ps",
+        "owners": null,
+        "accidents": "Dealer/Cars.com summary says no accidents or damage reported.",
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": null,
+        "titleNotes": "Clean-title status not independently verified. Free CARFAX route presented DataDome CAPTCHA.",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": null,
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": "Dealer profile present; exact rating not exposed in this pass.",
+        "bbb": "A+; no complaints in last 3 years found in search result.",
+        "google": "4.7/5, 118 reviews",
+        "urls": [
+          "https://www.1of1motorsports.com/",
+          "https://www.bbb.org/"
+        ]
+      }
+    },
+    {
+      "dealer": "Chicago Motor Cars",
+      "loc": "West Chicago, IL",
+      "year": 2020,
+      "color": "Cirrus Grey / Carbon Black",
+      "options": [
+        "Luxury Pack $7,000",
+        "Front axle lift $1,610",
+        "MSO Cirrus Grey paint $7,430",
+        "Carbon fiber louvers $12,080",
+        "Carbon ceramic brakes $1,140",
+        "Carbon Fiber Exterior Upgrade 1 $4,050",
+        "Interior carbon components $3,190",
+        "Extended carbon sill $4,370",
+        "10-spoke ultra-lightweight wheels $1,420",
+        "Bowers & Wilkins audio",
+        "Alcantara headliner $750",
+        "Steering wheel $660",
+        "Car cover $570",
+        "Orange seatbelt $360",
+        "Battery charger $230"
+      ],
+      "mi": 15205,
+      "price": 259800,
+      "vin": "SBM13SAA1LW008566",
+      "stock": "23002",
+      "url": "https://www.chicagomotorcars.com/2020-mclaren-600lt-spider-c-14063/",
+      "listed": null,
+      "dom": null,
+      "priceHistory": null,
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/cfm/check_order.cfm?partner=AAN_1&VIN=SBM13SAA1LW008566",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": null,
+        "titleNotes": "No clean-title conclusion made. Free CARFAX route presented DataDome CAPTCHA.",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": "Dealer option list exposed original option prices but not a full original MSRP.",
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": "4.0/5, 1 review shown in Cars.com feed.",
+        "bbb": "D+ rating and complaints surfaced in search results.",
+        "google": null,
+        "urls": [
+          "https://www.chicagomotorcars.com/",
+          "https://www.bbb.org/us/il/joliet/profile/auto-services/motor-cars-of-chicago-0654-1000102743"
+        ]
+      }
+    },
+    {
+      "dealer": "San Diego Luxury Motors",
+      "loc": "San Diego, CA",
+      "year": 2020,
+      "color": "Silica White / Carbon Black",
+      "options": [
+        "Full body PPF",
+        "MSO carbon fiber louvers",
+        "Carbon ceramic brakes with orange calipers",
+        "5-spoke lightweight diamond-cut wheels",
+        "Vehicle lift",
+        "Parking sensors and rear camera",
+        "Carbon fiber switch pack",
+        "Luxury Pack",
+        "Alcantara LT trim",
+        "Soft-close doors",
+        "Track Telemetry app",
+        "Bowers & Wilkins 12-speaker audio"
+      ],
+      "mi": 11166,
+      "price": 289888,
+      "vin": "SBM13SAA3LW008231",
+      "stock": "2524UB",
+      "url": "https://www.sandiegoluxurymotors.com/certified/McLaren/2020-McLaren-600LT-82f2dcd2ac181f3d0fc7ccd9a491bf53.htm",
+      "listed": null,
+      "dom": null,
+      "priceHistory": "Price after fees shown as $290,182.",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehiclehistory/ar20/IlnkIkp8FGh4Fo8R_Y9snatWd_p02QQYZ6bgow4dunw_HXBQazS0eEb8xAhCAfzlOeiBbzUHB600I8MzqXqjxf7V7_eEMOHoM2Q",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": null,
+        "titleNotes": "CPO listing, but clean-title status not independently verified. Free CARFAX route presented DataDome CAPTCHA.",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": "iPacket Original MSRP / Options Info PDF was found but was image-only and unreadable in this pass.",
+      "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/519/2721/2167251425/msrp/2167251425.20260903.110927-msrp-01.pdf",
+      "rev": {
+        "yelp": null,
+        "dealerrater": "Profile found; no calculated average due to insufficient ratings.",
+        "carscom": "Dealer profile present.",
+        "bbb": null,
+        "google": "4.4/5, 433 reviews",
+        "urls": [
+          "https://www.sandiegoluxurymotors.com/",
+          "https://www.dealerrater.com/dealer/San-Diego-Luxury-Motors-review-113618/"
+        ]
+      }
+    },
+    {
+      "dealer": "San Diego Luxury Motors",
+      "loc": "San Diego, CA",
+      "year": 2020,
+      "color": "Onyx Black / Jet Black with Carmine Red accents",
+      "options": [
+        "Bowers & Wilkins",
+        "Extensive carbon fiber exterior and interior",
+        "Power heated memory sports seats",
+        "Luxury Pack",
+        "Vehicle lift",
+        "Soft-close doors",
+        "Carbon ceramic brakes",
+        "Power convertible roof"
+      ],
+      "mi": 8455,
+      "price": 294888,
+      "vin": "SBM13SAA7LW008233",
+      "stock": "2531UB",
+      "url": "https://www.sandiegoluxurymotors.com/certified/McLaren/2020-McLaren-600LT-82f2de7eac185949e7beb42fd382ea1d.htm",
+      "listed": null,
+      "dom": null,
+      "priceHistory": "Price after fees shown as $295,182.",
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehiclehistory/ar20/ZJJOvNDI2sqPJ9L3q_Jo4c65I3nITpKAVPJYVPv7QU5dM7Xa2f1uxo7ekyT5mZ8HYz6OlyOgvH_3u95RR8qbV7hJR2LdCXmz2M0",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": null,
+        "titleNotes": "CPO listing, but clean-title status not independently verified. Free CARFAX route presented DataDome CAPTCHA.",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": "iPacket Original MSRP / Options Info PDF was found but was image-only and unreadable in this pass.",
+      "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/1635/34668/2169593396/msrp/2169593396.20261027.181043-msrp-01.pdf",
+      "rev": {
+        "yelp": null,
+        "dealerrater": "Profile found; no calculated average due to insufficient ratings.",
+        "carscom": "Dealer profile present.",
+        "bbb": null,
+        "google": "4.4/5, 433 reviews",
+        "urls": [
+          "https://www.sandiegoluxurymotors.com/",
+          "https://www.dealerrater.com/dealer/San-Diego-Luxury-Motors-review-113618/"
+        ]
+      }
+    },
+    {
+      "dealer": "One Exotics",
+      "loc": "Tampa, FL",
+      "year": 2020,
+      "color": "Saros / Carbon Black",
+      "options": [
+        "Dealer title highlights tons of MSO carbon, exhaust, loaded specification"
+      ],
+      "mi": 15825,
+      "price": 259813,
+      "vin": "SBM13SAA0LW007683",
+      "stock": "P00763",
+      "url": "https://www.oneexoticstampa.com/used-vehicle-2020-mclaren-600lt-spider-tons-of-mso-carbon-exhaust-loaded-c-205/",
+      "listed": null,
+      "dom": null,
+      "priceHistory": null,
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/vehiclehistory/ar20/bA7IQtJxzviSSARijAey-Om6ZDnx26Lq9aUiJRunZgmNrTe233Kf5PVIx3ycd93HoF70O98EY1Yj7tp_8RjrQoQZ321pQKnpsoI",
+        "owners": null,
+        "accidents": null,
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [],
+        "auctions": null,
+        "titleNotes": "No clean-title conclusion made. Free CARFAX route presented DataDome CAPTCHA.",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": null,
+      "msrpSrc": null,
+      "sticker": null,
+      "rev": {
+        "yelp": null,
+        "dealerrater": null,
+        "carscom": "Dealer profile present.",
+        "bbb": "BBB accredited since 2026-04-22; rating not exposed.",
+        "google": "4.8/5, 89 reviews",
+        "urls": [
+          "https://www.oneexoticstampa.com/",
+          "https://www.bbb.org/"
+        ]
+      }
+    },
+    {
+      "dealer": "Rocky's Ultimate Garage",
+      "loc": "West Palm Beach, FL",
+      "year": 2020,
+      "color": "Chicane Grey / Orange Senna-style carbon fiber seats",
+      "options": [
+        "Factory carbon splitter, diffuser, side skirts and side vents",
+        "Ceramic brakes with Azores calipers",
+        "Front lift",
+        "Senna seats",
+        "Alcantara trim",
+        "Soft-close doors",
+        "Carbon Exterior Upgrades 1 and 2",
+        "Exterior Elite Paint",
+        "Aftermarket SOUL Performance exhaust",
+        "HRE P101 wheels",
+        "Lowered suspension",
+        "ECU tune by Extreme Velocity"
+      ],
+      "mi": 13850,
+      "price": 295000,
+      "vin": "SBM13SAA5LW007839",
+      "stock": "007839",
+      "url": "https://www.cars.com/vehicledetail/38b70041-4549-4e88-aee9-b767aa7b306d/",
+      "listed": null,
+      "dom": null,
+      "priceHistory": null,
+      "salesperson": null,
+      "carfax": {
+        "url": "https://www.carfax.com/cfm/ccc_displayhistoryrpt.cfm?partner=AAN_0&vin=SBM13SAA5LW007839",
+        "owners": null,
+        "accidents": "Current Cars.com seller says clean Carfax.",
+        "records": null,
+        "majorRepairs": [],
+        "otherRepairs": [
+          "Aftermarket exhaust, HRE wheels, lowered suspension, ECU tune are seller-described modifications, not CARFAX repairs."
+        ],
+        "auctions": null,
+        "titleNotes": "Same VIN appeared in a prior Motorcars of Jackson listing with 3,900 miles and 100% CARFAX Certified language. Current clean-title status not independently verified. Free CARFAX route presented DataDome CAPTCHA.",
+        "read": "Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.",
+        "full": false
+      },
+      "msrp": 295120,
+      "msrpSrc": "Prior Motorcars of Jackson listing for the same VIN.",
+      "sticker": null,
+      "rev": {
+        "yelp": "5.0/5, 3 reviews",
+        "dealerrater": null,
+        "carscom": "Dealer profile present.",
+        "bbb": null,
+        "google": "5.0/5, 196+ reviews",
+        "urls": [
+          "https://www.rockysultimategarage.com/",
+          "https://www.motorcarsofjackson.com/2020-mclaren-600lt-spider-c-357.htm"
+        ]
+      }
+    }
+  ],
+  "sold": [
+    {"date":"2025-12-09","year":2020,"body":"Spider","mi":8000,"color":"White / Black","price":201000,"status":"sold","url":"https://www.classic.com/veh/2020-mclaren-600lt-spider-sbm13saa8lw007950-Wb2M0aW/"},
+    {"date":"2026-05-07","year":2020,"body":"Spider","mi":18000,"color":"Gray / Orange","price":195000,"status":"sold by dealer","url":"https://www.classic.com/veh/2020-mclaren-600lt-spider-sbm13saa0lw007988-nKxgZXW/"},
+    {"date":"2026-06-17","year":2020,"body":"Spider","mi":10200,"color":"Pure Black / Black","price":225000,"status":"sold after $225,000","url":"https://carsandbids.com/auctions/KZYx6d0N/2020-mclaren-600lt-spider"}
+  ],
+  "market": {
+    "median": 201000,
+    "range": "$195,000-$225,000",
+    "trend": "mixed; $195k-$201k dealer/auction sales versus $225k Cars & Bids reserve sale",
+    "notes": "Three exact 600LT Spider results were confirmed in the Nov 2025-Nov 2026 window, all under 20k miles. The accessible exact-body sample is below the requested 10+ because BaT, Classic.com and Cars & Bids exposed only these dated results. A 2019 600LT Coupe BaT sale at $221,000 on 2025-11-11 implies a roughly $20k gap versus the $201,000 2020 Spider, but the body/year mix is not a clean controlled comparison."
+  }
+}

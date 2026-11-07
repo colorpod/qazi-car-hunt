@@ -1,0 +1,11 @@
+Working report URL: https://www.carfax.com/cfm/ccc_displayhistoryrpt.cfm?partner=AAN_0&vin=SBM13SAA5LW007839
+Rocky's Ultimate Garage, 2020 McLaren, VIN SBM13SAA5LW007839
+Summary: owners=None; accidents=Current Cars.com seller says clean Carfax.; records=None; miles=13850
+## Owner blocks
+Owner blocks: None. Dates, states, and owner mileage were not exposed because the full report did not load.
+Service and repair lines: Full CARFAX timeline not exposed. Repairs beyond routine maintenance: unknown, not treated as none.
+Damage/accident events: Current Cars.com seller says clean Carfax..
+Auction events: None.
+Title events/brands: Same VIN appeared in a prior Motorcars of Jackson listing with 3,900 miles and 100% CARFAX Certified language. Current clean-title status not independently verified. Free CARFAX route presented DataDome CAPTCHA..
+CARFAX access result: DataDome CAPTCHA blocked the permitted routes. CAPTCHA was not interacted with.
+Read: Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.

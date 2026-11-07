@@ -1,0 +1,490 @@
+{
+ "id": "mclaren-720s-spider-2026-11",
+ "make": "McLaren",
+ "model": "720S Spider",
+ "date": "2026-11-07",
+ "scope": "Any year · under 20k miles · clean title · nationwide",
+ "title": "What Each Car Has Been Through",
+ "lead": "52 Spider listings under 20k miles on CARFAX. 7 ranked, every CARFAX read line by line.",
+ "facts": [
+  [
+   "7 Spiders, 7 full CARFAX reports",
+   ""
+  ],
+  [
+   "Pick: 2021 at Ilusso Costa Mesa, 5,287 mi",
+   "g"
+  ],
+  [
+   "7 sales, median $246,655",
+   "w"
+  ],
+  [
+   "Cheapest one is a branded title",
+   "b"
+  ],
+  [
+   "Asks $266k to $281k",
+   ""
+  ]
+ ],
+ "takeaway": "My two cents: buy the 2021 at Ilusso in Costa Mesa. Low miles, dealer service, no repairs, and you can see it today. Recent sales put 2020-21 Spiders at $229k to $254k and 2022s at $278k to $290k, so every ask here is $15k to $30k rich. Start at $255k. Skip the $230k McLaren Chicago car: CARFAX shows a branded title.",
+ "shift": [
+  [
+   "Sold: 2022, 3,948 mi, Orange, $290,000",
+   "classic.com, Dec 30, 2025"
+  ],
+  [
+   "Sold: 2022, 7,600 mi, Helios Orange, $278,000",
+   "Cars & Bids, May 19, 2026"
+  ],
+  [
+   "Sold: 2020, 3,900 mi, $254,007 · 2020, 16,000 mi, $240,000",
+   "classic.com, Feb and Mar 2026"
+  ],
+  [
+   "Sold: 2019, 600 mi, Teal, $246,655 · 2020, 932 mi, $229,500",
+   "classic.com, Oct 31 and Sep 2, 2026"
+  ],
+  [
+   "Left out",
+   "McLaren Chicago 2020 at $230,300 and Live Car Orlando: branded titles. Autodynamics Houston: damage reported. Lapin Scottsdale: 5 owners and a duplicate title"
+  ]
+ ],
+ "sources": "Listings and full CARFAX reports from carfax.com dealer listings (free reports), read Nov 7, 2026. Sold results from classic.com and Cars & Bids via Codex, Nov 7. Days listed from CARFAX first-seen dates. MSRP from the CARFAX listing where shown; iPacket refused these VINs.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "new",
+   "g": "A-",
+   "gc": "a",
+   "pick": true,
+   "name": "Ilusso Costa Mesa",
+   "car": "2021 · Performance, Silver / Black",
+   "loc": "Ilusso, Costa Mesa, CA (local)",
+   "price": 279900,
+   "mi": "5,287",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported. McLaren Chicago and Volvo/McLaren Palo Alto service, regular detailing. No accidents, clean title.",
+   "tl": [
+    [
+     "Sep 2021",
+     "s",
+     "Sold new at Jaguar Palm Beach; owner 1, Ohio, personal lease"
+    ],
+    [
+     "2022-24",
+     "m",
+     "McLaren Chicago service Nov 2022, Aug 2024, Dec 2024; kept detailed"
+    ],
+    [
+     "Mar 2025",
+     "s",
+     "Owner 2, Oregon. Service at McLaren SF (Palo Alto) and Northwest Autohaus, 2025"
+    ],
+    [
+     "Jul 2026",
+     "s",
+     "Listed at Ilusso Costa Mesa, 5,217 mi"
+    ]
+   ],
+   "verdict": "<b>My pick.</b> A 2021 with 5,287 mi, dealer-serviced, no repairs, and it sits 15 minutes away at Ilusso, where we already have a contact. Ask $279,900; 2022 Spider sales ran $278k to $290k, 2020-21s $229k to $254k, so offer $255k to $260k.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCA9MW006325",
+   "vin": "SBM14FCA9MW006325",
+   "listed": "2026-07-10",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/L6wETJWThnPJcZ2HhNuu27sp48NES5ME1lCtgnpzhPJHUV9Q074wQQVCUIQqRnWGJQJyvQ0kMNMEokFdQny-wzCOiAD9bBJ80HuvGr8W",
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "CARFAX",
+      "3.5 · 6",
+      "https://www.carfax.com/vehicle/SBM14FCA9MW006325"
+     ]
+    ],
+    "good": "Local; you can see it today.",
+    "bad": "iLusso passed on our Turbo S at $202k."
+   }
+  },
+  {
+   "r": 2,
+   "mv": "new",
+   "g": "A-",
+   "gc": "a",
+   "pick": true,
+   "name": "McLaren San Francisco",
+   "car": "2020 · Luxury, Volcano Yellow / Black, MSO Black Pack, carbon ceramics, sport exhaust",
+   "loc": "McLaren San Francisco, Palo Alto, CA",
+   "price": 269991,
+   "mi": "6,969",
+   "own": "1",
+   "maj": 0,
+   "oth": 1,
+   "auc": 0,
+   "rep": "Interior trim repaired (2020). No accidents. Gap with no service from Jul 2021 to Sep 2025.",
+   "tl": [
+    [
+     "Jun 2019",
+     "s",
+     "One owner since new, California"
+    ],
+    [
+     "2019-21",
+     "m",
+     "McLaren SF (Volvo Cars Palo Alto) service, interior trim repaired Feb 2020"
+    ],
+    [
+     "2021-25",
+     "w",
+     "<b>No service for 4 years</b>, 3,190 to 6,049 mi"
+    ],
+    [
+     "Oct 2026",
+     "m",
+     "Full service at McLaren SF: 4 tires, brake fluid, filters"
+    ],
+    [
+     "Oct 28, 2026",
+     "s",
+     "Listed, 6,926 mi. Original MSRP $358,490"
+    ]
+   ],
+   "verdict": "<b>The one-owner car.</b> Fresh tires and fluids from the McLaren dealer. The 4-year service gap is the only knock. $269,991 is near the top of 2020 Spider sales; aim for $250k.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCA6LW004109",
+   "vin": "SBM14FCA6LW004109",
+   "listed": "2026-10-28",
+   "msrp": 358490,
+   "msrpSrc": "CARFAX listing, total suggested retail",
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/Ln79PBpGrslQHo3LITB2v9rzUcaD9z0IFYoghlz4LC3yOqvvOd-V_BpuQ7gu-Xg0oleuCHdef455E6UMrsPbNs63q-uL3xthmFpR_OVL",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "Google",
+      "4.7 · 151",
+      "https://reviews.birdeye.com/mclaren-san-francisco-165276162687840"
+     ]
+    ],
+    "good": "Franchise McLaren dealer.",
+    "bad": "Yelp not read."
+   }
+  },
+  {
+   "r": 3,
+   "mv": "new",
+   "g": "B+",
+   "gc": "b",
+   "pick": false,
+   "name": "European Exotic Center Tampa",
+   "car": "2020 · Pearl White / Tan, carbon pack, carbon interior",
+   "loc": "European Exotic Center, Tampa, FL",
+   "price": 265994,
+   "mi": "10,513",
+   "own": "2",
+   "maj": 0,
+   "oth": 2,
+   "auc": 0,
+   "rep": "Fuel tank drained and cleaned at 91 mi (2019), oil pan drain plug replaced (2022). Pre-purchase inspection Aug 2026. No accidents.",
+   "tl": [
+    [
+     "2019",
+     "s",
+     "Sold new by McLaren Newport Beach; owner 1, California, lease"
+    ],
+    [
+     "Oct 2019",
+     "r",
+     "<b>Fuel tank drained and cleaned</b> at 91 mi"
+    ],
+    [
+     "2022-25",
+     "s",
+     "Owner 2, Texas. Lamborghini Houston and The Garagisti service"
+    ],
+    [
+     "Aug 2026",
+     "m",
+     "Pre-purchase inspection at The Garagisti, then listed"
+    ]
+   ],
+   "verdict": "<b>Solid two-owner car</b> with regular service. The fuel tank job happened at delivery, likely bad fuel. Yelp 4.3. A fair ask, but over 2020 Spider sales.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCA5LW004487",
+   "vin": "SBM14FCA5LW004487",
+   "listed": "2026-08-14",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/Mtca4Xbbu0BCD-PwEe0J43j6moawK5RbZ_wsRXHHQR8cyc45iPRuPgV7fzfXbv-z9MusrthTs7VkMhSjLt4tjGZDU_pgWyV3FoscuDjR",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "Yelp",
+      "4.3 · 16",
+      "https://www.yelp.com/biz/european-exotic-center-tampa"
+     ],
+     [
+      "Google",
+      "4.7 · 198",
+      "https://www.google.com/search?q=european+exotic+center+tampa"
+     ]
+    ],
+    "good": "Good reviews.",
+    "bad": "Florida: shipping about $2,000 to $2,500."
+   }
+  },
+  {
+   "r": 4,
+   "mv": "new",
+   "g": "B+",
+   "gc": "b",
+   "pick": false,
+   "name": "Holman Motorcars",
+   "car": "2020 · White / Black",
+   "loc": "Holman Motorcars, Fort Lauderdale, FL",
+   "price": 281348,
+   "mi": "4,755",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported. No service since Nov 2023. No accidents.",
+   "tl": [
+    [
+     "2019",
+     "s",
+     "Owner 1, Connecticut, personal lease"
+    ],
+    [
+     "Aug 2023",
+     "s",
+     "Owner 2, Florida, bought at Jaguar Palm Beach"
+    ],
+    [
+     "2022-23",
+     "m",
+     "Jaguar Palm Beach (McLaren) service 3 times"
+    ],
+    [
+     "Nov 4, 2026",
+     "s",
+     "Listed at Holman, 4,755 mi"
+    ]
+   ],
+   "verdict": "<b>Low miles, clean, but priced high</b> and three years since its last service. Holman rates 4.9 from 85 reviews.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCA8LW004046",
+   "vin": "SBM14FCA8LW004046",
+   "listed": "2026-11-04",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/WXzi4t094MaVdcnmxPyxzfXz4nZs8Jgc0Z_JPzf9826qWgTx7Nwp3h9R2sBBrqxAO9NdRSNFbKHto-bqUPv_odWAhrahkA4NuXhlEEGF",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "CARFAX",
+      "4.9 · 85",
+      "https://www.carfax.com/vehicle/SBM14FCA8LW004046"
+     ]
+    ],
+    "good": "Large, well-rated dealer group.",
+    "bad": "Just listed, firm ask likely."
+   }
+  },
+  {
+   "r": 5,
+   "mv": "new",
+   "g": "B-",
+   "gc": "b",
+   "pick": false,
+   "name": "Motor Cars of Chicago (2019 Black)",
+   "car": "2019 · Performance, Black / Black",
+   "loc": "Motor Cars of Chicago, Joliet, IL",
+   "price": 270372,
+   "mi": "5,552",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported, but no service at all since March 2021. No accidents.",
+   "tl": [
+    [
+     "2019",
+     "s",
+     "Owner 1, Florida, service contract; McLaren Tampa Bay service 2020"
+    ],
+    [
+     "2021",
+     "s",
+     "Sold through Ferrari Maserati of Long Island"
+    ],
+    [
+     "2021-26",
+     "w",
+     "<b>Owner 2, California lease, no service on record for 5 years</b>"
+    ],
+    [
+     "Sep 2026",
+     "s",
+     "Listed at Motor Cars of Chicago"
+    ]
+   ],
+   "verdict": "<b>Low miles, no paper for 5 years.</b> Needs a full service and a PPI before it is worth $270k.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCA8KW003736",
+   "vin": "SBM14FCA8KW003736",
+   "listed": "2026-08-17",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/rNch_Q43DjdUjbhf8_41qOoGHTauYLsWiVsk7P-kAFisMYCjwtChy8LKl3CW1uY6CDs2qHDj-vXJ7U2qI_-hXOktemg5OUxPSrZV6Yif",
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Yelp",
+      "2.0 · 56",
+      "https://www.yelp.com/biz/motor-cars-of-chicago-joliet"
+     ],
+     [
+      "DealerRater",
+      "4.4 · 150",
+      "https://www.dealerrater.com/search/?q=motor+cars+of+chicago+joliet"
+     ],
+     [
+      "Cars.com",
+      "4.0 · 275",
+      "https://www.cars.com/dealers/"
+     ],
+     [
+      "BBB",
+      "B+",
+      "https://www.bbb.org/us/il/joliet/profile/auto-services/motor-cars-of-chicago-0654-1000102743"
+     ]
+    ],
+    "good": "Huge exotic inventory; ships nationwide; same dealer as the R8 talks (Zach).",
+    "bad": "Yelp 2.0 from 56 reviews; follow-up and add-on complaints."
+   }
+  },
+  {
+   "r": 6,
+   "mv": "new",
+   "g": "B-",
+   "gc": "b",
+   "pick": false,
+   "name": "McLaren Chicago (2022)",
+   "car": "2022 · Performance, Gray / Black",
+   "loc": "LaSarthe Partners (McLaren Chicago), Hinsdale, IL",
+   "price": 280300,
+   "mi": "19,578",
+   "own": "3",
+   "maj": 0,
+   "oth": 3,
+   "auc": 0,
+   "rep": "Headlight replaced (2022), power steering bled (2025), wheel repaired (2026). No accidents.",
+   "tl": [
+    [
+     "2022",
+     "s",
+     "Owner 1, California lease; McLaren SF service every year"
+    ],
+    [
+     "2025",
+     "s",
+     "Owner 2, Utah, 13,383 to 17,760 mi in 4 months"
+    ],
+    [
+     "Dec 2025",
+     "s",
+     "McLaren North Jersey took it in; wheel repaired May 2026"
+    ],
+    [
+     "Sep 2026",
+     "s",
+     "Listed at McLaren Chicago, 19,578 mi"
+    ]
+   ],
+   "verdict": "<b>The newest year at the lowest 2022 price</b>, but it is at 19,578 mi with three owners. Fine as a driver, weak as an investment.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCA0NW006697",
+   "vin": "SBM14FCA0NW006697",
+   "listed": "2026-09-05",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/7GqoraBkFXGHEIycYfjhJ9pa8FG_rFV8CDJS3uGAiZUVlyAYeSZIQOUzpmwADXNZH4O5UHsoBdgc0hbHvHXddiqE4J0UXMT59zLEJsvd",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "CARFAX",
+      "4.8 · 18",
+      "https://www.carfax.com/vehicle/SBM14FCA0NW006697"
+     ]
+    ],
+    "good": "Franchise McLaren dealer.",
+    "bad": "Near the 20k cap."
+   }
+  },
+  {
+   "r": 7,
+   "mv": "new",
+   "g": "C+",
+   "gc": "c",
+   "pick": false,
+   "name": "Autopark Dallas (Yellow)",
+   "car": "2020 · Performance, Yellow / Black",
+   "loc": "Autopark Dallas, Lewisville, TX",
+   "price": 279995,
+   "mi": "11,821",
+   "own": "1",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs, but no McLaren service ever: quick-lube inspections and one oil change. Listed since April 2025.",
+   "tl": [
+    [
+     "2020",
+     "s",
+     "One owner, Texas"
+    ],
+    [
+     "2023-25",
+     "w",
+     "Only Kwik Kar and Valvoline visits, no dealer service"
+    ],
+    [
+     "Apr 2025",
+     "s",
+     "<b>Listed 19 months</b> at Autopark; PPI by Auto Science Jul 2026"
+    ]
+   ],
+   "verdict": "<b>Stale and unserviced.</b> 19 months on the lot says the price is wrong. Only worth a call with a low number.",
+   "url": "https://www.carfax.com/vehicle/SBM14FCAXLW004940",
+   "vin": "SBM14FCAXLW004940",
+   "listed": "2025-04-19",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/9j4aasc37KHDhOup_LofAYD-dJ3M4UfPAYsWJMGAhkPfJrNAWyqcNEOPpsB7ufw3B-sCXpCTg5G1TxxnSKe30OaZ89wRqZZcqew5lZ4A",
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "CARFAX",
+      "4.0 · 30",
+      "https://www.carfax.com/vehicle/SBM14FCAXLW004940"
+     ]
+    ],
+    "good": "",
+    "bad": "Listed since April 2025."
+   }
+  }
+ ]
+}

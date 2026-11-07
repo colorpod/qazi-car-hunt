@@ -1,0 +1,11 @@
+Working report URL: https://www.carfax.com/cfm/check_order.cfm?partner=AAN_1&VIN=SBM13SAA1LW008566
+Chicago Motor Cars, 2020 McLaren, VIN SBM13SAA1LW008566
+Summary: owners=None; accidents=None; records=None; miles=15205
+## Owner blocks
+Owner blocks: None. Dates, states, and owner mileage were not exposed because the full report did not load.
+Service and repair lines: Full CARFAX timeline not exposed. Repairs beyond routine maintenance: unknown, not treated as none.
+Damage/accident events: None.
+Auction events: None.
+Title events/brands: No clean-title conclusion made. Free CARFAX route presented DataDome CAPTCHA..
+CARFAX access result: DataDome CAPTCHA blocked the permitted routes. CAPTCHA was not interacted with.
+Read: Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.

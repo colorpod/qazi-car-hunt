@@ -1,0 +1,11 @@
+Working report URL: https://www.carfax.com/vehicle/SBM14FCA5LW004487
+European Exotic Center, 2020 McLaren, VIN SBM14FCA5LW004487
+Summary: owners=2; accidents=0; records=18; miles=10513
+## Owner blocks
+Owner blocks: 2. Dates, states, and owner mileage were not exposed because the full report did not load.
+Service and repair lines: Full CARFAX timeline not exposed. Repairs beyond routine maintenance: unknown, not treated as none.
+Damage/accident events: 0.
+Auction events: [].
+Title events/brands: Accessible CARFAX summary shows no accident/damage report; detailed title section not loaded in this pass.
+CARFAX access result: DataDome CAPTCHA blocked the permitted routes. CAPTCHA was not interacted with.
+Read: Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.

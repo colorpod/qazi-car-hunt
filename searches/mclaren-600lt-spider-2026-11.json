@@ -1,0 +1,496 @@
+{
+ "id": "mclaren-600lt-spider-2026-11",
+ "make": "McLaren",
+ "model": "600LT Spider",
+ "date": "2026-11-07",
+ "scope": "Any year · under 20k miles · clean title · nationwide",
+ "title": "What Each Car Has Been Through",
+ "lead": "9 600LT Spiders listed under 20k miles. 7 ranked, every CARFAX read line by line.",
+ "facts": [
+  [
+   "7 Spiders, 7 full CARFAX reports",
+   ""
+  ],
+  [
+   "Pick: purple 2020 at HyperCars",
+   "g"
+  ],
+  [
+   "Sales median $201,000",
+   "w"
+  ],
+  [
+   "Asks $235k to $295k",
+   "b"
+  ],
+  [
+   "3 of 7 have 5+ owners",
+   "b"
+  ]
+ ],
+ "takeaway": "My two cents: dealers are asking $40k to $90k over what 600LT Spiders actually sell for ($195k to $225k this year). The purple car at HyperCars has the best life story. The white car in San Diego is the easy one to see. Neither is worth over about $240k today; open at $225k and let them come to you.",
+ "shift": [
+  [
+   "Sold: 2020, 10,200 mi, Pure Black, $225,000",
+   "Cars & Bids, Jun 17, 2026"
+  ],
+  [
+   "Sold: 2020, 18,000 mi, Gray / Orange, $195,000",
+   "Dealer sale via classic.com, May 7, 2026"
+  ],
+  [
+   "Sold: 2020, 8,000 mi, White, $201,000",
+   "classic.com, Dec 9, 2025"
+  ],
+  [
+   "Also listed",
+   "West State Motorsport 2020 Yellow, 14,601 mi, $259,700: 4 owners, 3 service records. Rocky's Ultimate Garage 2020 Chicane Grey, 13,850 mi, $295,000, Senna seats: only a paid CARFAX, not read"
+  ]
+ ],
+ "sources": "Listings and full CARFAX reports from carfax.com dealer listings and dealer CARFAX links, read Nov 7, 2026. Sold results from classic.com and Cars & Bids via Codex, Nov 7. Days listed from CARFAX first-seen dates. Window stickers from iPacket where the dealer posted one.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "new",
+   "g": "A",
+   "gc": "a",
+   "pick": true,
+   "name": "HyperCars",
+   "car": "2020 · Purple / Black",
+   "loc": "HyperCars, New Albany, IN",
+   "price": 270189,
+   "mi": "13,393",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs reported. Four new tires at its Nov 2026 PDI. No accidents.",
+   "tl": [
+    [
+     "2019",
+     "s",
+     "Sold through McLaren Philadelphia; owner 1, Florida lease"
+    ],
+    [
+     "2021",
+     "s",
+     "Owner 2, Florida, at 4,036 mi"
+    ],
+    [
+     "2021-26",
+     "m",
+     "McLaren Tampa Bay (Dimmitt) then McLaren Orlando, every year"
+    ],
+    [
+     "Oct 2026",
+     "s",
+     "McLaren Orlando listed it; HyperCars took it Nov 4 and fitted 4 tires"
+    ]
+   ],
+   "verdict": "<b>The best-kept 600LT Spider.</b> Two owners and McLaren service every year with nothing but maintenance. Indiana dealer, 4.9 rating.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA8LW008113",
+   "vin": "SBM13SAA8LW008113",
+   "listed": "2026-10-10",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/-w2N0NNLx1TWX5nsaLdLt4BUquogiSUSmll_UeZS6Lh4SVsceOUDtsn2Iuo0uE3_svxsEKtmOzyulwLegoX4tVRitCh_wx_E1UQ68kNR",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "CARFAX",
+      "4.9 · 8",
+      "https://www.carfax.com/vehicle/SBM13SAA8LW008113"
+     ]
+    ],
+    "good": "Well rated.",
+    "bad": "Indiana: shipping about $2,000 to $2,500."
+   }
+  },
+  {
+   "r": 2,
+   "mv": "new",
+   "g": "A-",
+   "gc": "a",
+   "pick": true,
+   "name": "San Diego Luxury Motors (White)",
+   "car": "2020 · Silica White / Carbon Black, full PPF, MSO louvers, carbon ceramics, lift",
+   "loc": "San Diego Luxury Motors, San Diego, CA",
+   "price": 289973,
+   "mi": "11,166",
+   "own": "2",
+   "maj": 0,
+   "oth": 1,
+   "auc": 0,
+   "rep": "Glass repaired (Oct 2026). PPF from new. No accidents.",
+   "tl": [
+    [
+     "2020",
+     "s",
+     "Owner 1, Arcadia, California, lease; 3M PPF at delivery"
+    ],
+    [
+     "2022-26",
+     "m",
+     "Owner 2, Boston: McLaren Boston service every year"
+    ],
+    [
+     "Jun 2026",
+     "w",
+     "PPI at Midwest Performance Cars, then two Midwest dealers before San Diego"
+    ],
+    [
+     "Oct 2026",
+     "r",
+     "Glass repaired by Glass America"
+    ]
+   ],
+   "verdict": "<b>Closest clean car</b> and McLaren-serviced. Ask why the June PPI buyer walked. $289,973 is far over 600LT Spider sales; offer $245k.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA3LW008231",
+   "vin": "SBM13SAA3LW008231",
+   "listed": "2026-09-18",
+   "msrp": null,
+   "msrpSrc": "Original window sticker on iPacket",
+   "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/519/2721/2167251425/msrp/2167251425.20260903.110927-msrp-01.pdf",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/IlnkIkp8FGh4Fo8R_Y9snatWd_p02QQYZ6bgow4dunw_HXBQazS0eEb8xAhCAfzlOeiBbzUHB600I8MzqXqjxf7V7_eEMOHoM2Q",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "Google",
+      "4.4 · 433",
+      "https://www.google.com/search?q=san+diego+luxury+motors"
+     ],
+     [
+      "CARFAX",
+      "5.0 · 1",
+      "https://www.carfax.com/vehicle/SBM13SAA3LW008231"
+     ]
+    ],
+    "good": "An hour south; drive down and see both.",
+    "bad": "DealerRater has too few ratings to score."
+   }
+  },
+  {
+   "r": 3,
+   "mv": "new",
+   "g": "B-",
+   "gc": "b",
+   "pick": false,
+   "name": "Chicago Motor Cars",
+   "car": "2020 · MSO Cirrus Grey / Carbon Black, Luxury Pack, carbon louvers, lift",
+   "loc": "Chicago Motor Cars, West Chicago, IL",
+   "price": 260511,
+   "mi": "15,205",
+   "own": "2",
+   "maj": 1,
+   "oth": 2,
+   "auc": 0,
+   "rep": "Engine front cover gasket, front crankshaft seal, water pump and a front strut replaced (Mar 2025). No accidents.",
+   "tl": [
+    [
+     "2019-24",
+     "s",
+     "Owner 1, Minnesota; McLaren Philadelphia alignment 2020"
+    ],
+    [
+     "2024",
+     "s",
+     "Moved to Naples, Florida; PPF applied"
+    ],
+    [
+     "Mar 2025",
+     "r",
+     "<b>Engine front cover gasket, crankshaft seal, water pump, front strut</b> at McLaren Tampa Bay"
+    ],
+    [
+     "2026",
+     "s",
+     "Lamborghini Naples listed it May 28; Chicago Motor Cars Nov 6"
+    ]
+   ],
+   "verdict": "<b>An oil leak fixed by the dealer</b> is better than one still dripping, but it is still an engine-seal car. Listed since May. Option list priced on the listing.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA1LW008566",
+   "vin": "SBM13SAA1LW008566",
+   "listed": "2026-05-28",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/40tiQne3pIZ3T9Yyff9gwOWX6nY4kUM6z8GNnaZaJ7xjqKuWNUWg0k2iH67g701N1caNshxnIRLh7-3kahYBBHoWKKnHoatGpOZbhE08",
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "BBB",
+      "D+",
+      "https://www.bbb.org/search?find_text=Chicago+Motor+Cars"
+     ]
+    ],
+    "good": "Our 650S contacts.",
+    "bad": "BBB D+."
+   }
+  },
+  {
+   "r": 4,
+   "mv": "new",
+   "g": "B-",
+   "gc": "b",
+   "pick": false,
+   "name": "1 of 1 Motorsports",
+   "car": "2020 · White / Red",
+   "loc": "1 of 1 Motorsports, Fort Lauderdale, FL",
+   "price": 246493,
+   "mi": "18,132",
+   "own": "3",
+   "maj": 1,
+   "oth": 1,
+   "auc": 0,
+   "rep": "Front crankshaft oil seal (2022), windshield (2020). Owner 3 kept it 4 months. No accidents.",
+   "tl": [
+    [
+     "2019-21",
+     "s",
+     "Owner 1, Tampa; McLaren Tampa Bay service; windshield replaced 2020"
+    ],
+    [
+     "2021-25",
+     "s",
+     "Owner 2, Louisiana; Lamborghini Houston service"
+    ],
+    [
+     "Jan 2022",
+     "r",
+     "<b>Front crankshaft oil seal replaced</b>"
+    ],
+    [
+     "2026",
+     "s",
+     "Owner 3, Miami, 4 months, then 1 of 1 Motorsports"
+    ]
+   ],
+   "verdict": "<b>Cheapest clean-title Spider with real service</b>, but the most miles and a crank seal. Fine for a driver at $230k.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA5LW007615",
+   "vin": "SBM13SAA5LW007615",
+   "listed": "2026-08-25",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/OOa1PZnaJgtiFJV4VrfdhUzZIUB4QUmwPWmISd4klWKdNrcWk7jBeu9KdfFFF7b8UkztD_B30kUrHT9WmBtbnR2b81v-qgxuXg-xC-ps",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "Google",
+      "4.7 · 118",
+      "https://www.1of1motorsports.com/"
+     ],
+     [
+      "BBB",
+      "A+",
+      "https://www.bbb.org/"
+     ]
+    ],
+    "good": "BBB A+.",
+    "bad": "Highest miles."
+   }
+  },
+  {
+   "r": 5,
+   "mv": "new",
+   "g": "C+",
+   "gc": "c",
+   "pick": false,
+   "name": "San Diego Luxury Motors (Black)",
+   "car": "2020 · Onyx Black / Jet Black with Carmine Red, B&W, Luxury Pack, lift",
+   "loc": "San Diego Luxury Motors, San Diego, CA",
+   "price": 294973,
+   "mi": "8,455",
+   "own": "5",
+   "maj": 0,
+   "oth": 0,
+   "auc": 1,
+   "rep": "No repairs. Went through Manheim dealer auction (Jan 2024). A 1-month owner in 2025. No service 2021 to late 2023.",
+   "tl": [
+    [
+     "2019-21",
+     "s",
+     "Owner 1, New Jersey"
+    ],
+    [
+     "2021-23",
+     "w",
+     "<b>Owner 2, New Jersey: no service on record for 2 years</b>"
+    ],
+    [
+     "Jan 2024",
+     "w",
+     "<b>Manheim, PA dealer auction</b>, Sarchione Auto Gallery"
+    ],
+    [
+     "2024-25",
+     "s",
+     "Owners 3 and 4 in Ohio, the last one 1 month; transmission fluid and filter changed"
+    ],
+    [
+     "2026",
+     "s",
+     "Ilusso listed it in July, San Diego Luxury Motors in September"
+    ]
+   ],
+   "verdict": "<b>Lowest miles, most hands.</b> Five owners and an auction for 8,455 mi. The most expensive and the weakest story.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA7LW008233",
+   "vin": "SBM13SAA7LW008233",
+   "listed": "2026-07-20",
+   "msrp": null,
+   "msrpSrc": "Original window sticker on iPacket",
+   "sticker": "https://s3.amazonaws.com/cdn.autoipacket.com/data/1635/34668/2169593396/msrp/2169593396.20261027.181043-msrp-01.pdf",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/ZJJOvNDI2sqPJ9L3q_Jo4c65I3nITpKAVPJYVPv7QU5dM7Xa2f1uxo7ekyT5mZ8HYz6OlyOgvH_3u95RR8qbV7hJR2LdCXmz2M0",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "Google",
+      "4.4 · 433",
+      "https://www.google.com/search?q=san+diego+luxury+motors"
+     ],
+     [
+      "CARFAX",
+      "5.0 · 1",
+      "https://www.carfax.com/vehicle/SBM13SAA3LW008231"
+     ]
+    ],
+    "good": "An hour south; drive down and see both.",
+    "bad": "DealerRater has too few ratings to score."
+   }
+  },
+  {
+   "r": 6,
+   "mv": "new",
+   "g": "C+",
+   "gc": "c",
+   "pick": false,
+   "name": "One Exotics",
+   "car": "2020 · Saros / Carbon Black, MSO carbon, exhaust",
+   "loc": "One Exotics, Tampa, FL",
+   "price": 259813,
+   "mi": "15,825",
+   "own": "5",
+   "maj": 0,
+   "oth": 1,
+   "auc": 0,
+   "rep": "Wheel repaired (Dec 2025). 5 owners, one kept it 3 months. Only 2 service records. 8,400 mi in 9 months on the last lease.",
+   "tl": [
+    [
+     "2019-23",
+     "s",
+     "Owner 1, New York, 876 mi a year"
+    ],
+    [
+     "2023-25",
+     "s",
+     "Owners 2 and 3, New York; owner 3 kept it 3 months"
+    ],
+    [
+     "Dec 2025",
+     "r",
+     "Porsche Jacksonville: wheel repaired, oil change"
+    ],
+    [
+     "2026",
+     "w",
+     "<b>Owner 5 lease: 7,404 to 15,825 mi in 9 months</b>"
+    ]
+   ],
+   "verdict": "<b>Skip.</b> Hard recent miles and almost no service.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA0LW007683",
+   "vin": "SBM13SAA0LW007683",
+   "listed": "2026-10-06",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/bA7IQtJxzviSSARijAey-Om6ZDnx26Lq9aUiJRunZgmNrTe233Kf5PVIx3ycd93HoF70O98EY1Yj7tp_8RjrQoQZ321pQKnpsoI",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "Google",
+      "4.8 · 89",
+      "https://www.oneexoticstampa.com/"
+     ]
+    ],
+    "good": "",
+    "bad": "Thin history."
+   }
+  },
+  {
+   "r": 7,
+   "mv": "new",
+   "g": "C",
+   "gc": "c",
+   "pick": false,
+   "name": "Motor Cars of Chicago (Blue)",
+   "car": "2020 · Blue / Black",
+   "loc": "Motor Cars of Chicago, Joliet, IL",
+   "price": 235372,
+   "mi": "12,454",
+   "own": "6",
+   "maj": 0,
+   "oth": 2,
+   "auc": 0,
+   "rep": "Fuel line replaced, evap purge valve and fuel tank out (2020). 6 owners and 5 dealer flips. No accidents.",
+   "tl": [
+    [
+     "2020",
+     "r",
+     "<b>Fuel line replaced; evap purge valve, tank removed</b> under 500 mi"
+    ],
+    [
+     "2022-25",
+     "s",
+     "Montana, Colorado, Florida dealers, McLaren Scottsdale: six owners"
+    ],
+    [
+     "Jul 2026",
+     "s",
+     "Listed at Motor Cars of Chicago, cheapest 600LT Spider"
+    ]
+   ],
+   "verdict": "<b>Cheapest for a reason.</b> Six owners and early fuel-system work.",
+   "url": "https://www.carfax.com/vehicle/SBM13SAA4LW008254",
+   "vin": "SBM13SAA4LW008254",
+   "listed": "2026-07-12",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/JcbU5V1-R3hwtlSWhUuWPbPEBwAL-IUn_WSL42d4B5qnES4ASLqZ-JRR1InF1ZR3iR7iNTgEOE5RZXCEWWolRQZno7g0AazIr9jgru1J",
+   "rev": {
+    "tone": "b",
+    "scores": [
+     [
+      "Yelp",
+      "2.0 · 56",
+      "https://www.yelp.com/biz/motor-cars-of-chicago-joliet"
+     ],
+     [
+      "DealerRater",
+      "4.4 · 150",
+      "https://www.dealerrater.com/search/?q=motor+cars+of+chicago+joliet"
+     ],
+     [
+      "Cars.com",
+      "4.0 · 275",
+      "https://www.cars.com/dealers/"
+     ],
+     [
+      "BBB",
+      "B+",
+      "https://www.bbb.org/us/il/joliet/profile/auto-services/motor-cars-of-chicago-0654-1000102743"
+     ]
+    ],
+    "good": "Huge exotic inventory; ships nationwide; same dealer as the R8 talks (Zach).",
+    "bad": "Yelp 2.0 from 56 reviews; follow-up and add-on complaints."
+   }
+  }
+ ]
+}

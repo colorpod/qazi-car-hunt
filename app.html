@@ -157,7 +157,7 @@ function report(s){
     return `<article class="card ${c.pick?'pick':''} ${c.sold?'sold':''}">
      <div class="hd"><div class="rank">${c.sold?'SOLD':c.r}</div><div class="ttl"><h5>${esc(c.name)}</h5><div class="sub">${esc(c.car)} · ${esc(c.loc)}</div>${c.sold?`<div class="soldtag">SOLD ${esc(c.sold)}</div>`:c.pending?`<div class="soldtag">SALE PENDING ${esc(c.pending)}</div>`:`<div class="move ${mvc}">${mvt}</div>`}</div><div class="grade ${c.gc}">${esc(c.g)}</div></div>
      <div class="nums">
-       <div class="n"><b>${fmt(c.price)}</b><span>ASKING</span></div>
+       <div class="n"><b>${c.price>0?fmt(c.price):"Call"}</b><span>ASKING</span></div>
        <div class="n"><b>${esc(c.mi)}</b><span>MILES</span></div>
        <div class="n ${c.maj?'b':(c.maj===0?'g':'')}"><b>${c.maj===null?'?':c.maj+' / '+c.oth}</b><span>MAJOR / OTHER</span></div>
        <div class="n ${c.auc?'b':''}"><b>${esc(c.own)} · ${c.auc===null?'?':c.auc}</b><span>OWNERS · AUCTIONS</span></div>
@@ -202,7 +202,7 @@ Object.keys(byMake).sort().forEach(make=>{
   byMake[make].forEach(s=>{
     const live=s.cars.filter(c=>!c.sold);
     const top=live.find(c=>c.pick)||live[0]||s.cars[0];
-    const prices=live.map(c=>c.price);
+    const prices=live.map(c=>c.price).filter(p=>p>0);
     const box=document.createElement("article");box.className="search";box.id=s.id;
     box.innerHTML=`<button class="shead" aria-expanded="false"><div><h3>${esc(s.model)}</h3><div class="sub">${esc(s.scope)} · ${dateLabel(s.date)}</div>
       <div class="facts"><span class="chip">${live.length} for sale${s.cars.length>live.length?` · ${s.cars.length-live.length} sold`:''}</span><span class="chip">${fmt(Math.min(...prices))} to ${fmt(Math.max(...prices))}</span><span class="chip g">Pick: ${esc(top.name)} ${esc(top.g)}</span></div></div><span class="chev" aria-hidden="true">▾</span></button>

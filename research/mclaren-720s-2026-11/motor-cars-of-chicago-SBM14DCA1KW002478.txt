@@ -1,0 +1,11 @@
+Working report URL: https://www.carfax.com/vehicle/SBM14DCA1KW002478
+Motor Cars of Chicago, 2019 McLaren, VIN SBM14DCA1KW002478
+Summary: owners=2-owner CARFAX summary; CarGurus says 3 previous owners; accidents=No accident or damage reported; records=Service history shown; full free report did not render; miles=5715
+## Owner blocks
+Owner blocks: 2-owner CARFAX summary; CarGurus says 3 previous owners. Dates, states, and owner mileage were not exposed because the full report did not load.
+Service and repair lines: Full CARFAX timeline not exposed. Repairs beyond routine maintenance: unknown, not treated as none.
+Damage/accident events: No accident or damage reported.
+Auction events: Unknown.
+Title events/brands: CARFAX summary and CarGurus both show no reported accident/damage and clean title.
+CARFAX access result: DataDome CAPTCHA blocked the permitted routes. CAPTCHA was not interacted with.
+Read: Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.

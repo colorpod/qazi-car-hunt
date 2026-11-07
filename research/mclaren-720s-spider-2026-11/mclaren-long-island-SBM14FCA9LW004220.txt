@@ -1,0 +1,11 @@
+Working report URL: https://www.carfax.com/vehicle/SBM14FCA9LW004220
+McLaren Long Island, 2020 McLaren, VIN SBM14FCA9LW004220
+Summary: owners=None; accidents=None; records=None; miles=7050
+## Owner blocks
+Owner blocks: None. Dates, states, and owner mileage were not exposed because the full report did not load.
+Service and repair lines: Full CARFAX timeline not exposed. Repairs beyond routine maintenance: unknown, not treated as none.
+Damage/accident events: None.
+Auction events: [].
+Title events/brands: Unknown, free report did not load; third-party listing says not single owner.
+CARFAX access result: DataDome CAPTCHA blocked the permitted routes. CAPTCHA was not interacted with.
+Read: Summary-only. CARFAX full free report was blocked by a visible DataDome CAPTCHA on the permitted dealer/partner and direct free-report routes. No CAPTCHA interaction was attempted.
