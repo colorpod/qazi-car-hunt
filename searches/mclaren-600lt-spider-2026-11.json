@@ -51,7 +51,7 @@
  "cars": [
   {
    "r": 1,
-   "mv": "up 3",
+   "mv": "new",
    "g": "B-",
    "gc": "b",
    "pick": false,
@@ -117,8 +117,99 @@
    "stickerLabel": "Dealer spec sheet"
   },
   {
+   "g": "B-",
+   "gc": "b",
+   "name": "West State Motorsport",
+   "car": "2020 · Elite Sicilian Yellow / Carbon Black, MSO Clubsport Pack, racing seats, front PPF. Stock WSM2491",
+   "loc": "West State Motorsport, Federal Way, WA",
+   "price": 259700,
+   "mi": "14,601",
+   "own": "4",
+   "maj": 0,
+   "oth": 1,
+   "auc": 0,
+   "vin": "SBM13SAA5LW007971",
+   "listed": "2026-10-05",
+   "msrp": 309550,
+   "msrpSrc": "Dealer listing: total original MSRP $309,550 with MSO Clubsport Pack $22,090",
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/eOCbVdZOGV8fEoq5dKGhM8u7-XZNVynLxqrjxzHo74o_E2D9rtHiUBMpJoU31NFMRIVH_QStA9M9qUXKoiOPrQj-ifEdYr_evVyECWHY",
+   "sticker": null,
+   "stickerNote": "Dealer site: option list, no sticker",
+   "rep": "Coolant reservoir replaced (Mar 2024). Tires replaced at a dealer PDI (Feb 2026).",
+   "tl": [
+    [
+     "Aug 2019",
+     "s",
+     "Owner 1, personal lease"
+    ],
+    [
+     "Apr 2022",
+     "s",
+     "Owner 2, lease, 6,800 mi"
+    ],
+    [
+     "Jun 2023",
+     "s",
+     "Owner 3, 8,368 mi"
+    ],
+    [
+     "Mar 2024",
+     "r",
+     "Serviced, coolant reservoir replaced"
+    ],
+    [
+     "2024-26",
+     "w",
+     "No service for almost 2 years"
+    ],
+    [
+     "Mar 2026",
+     "s",
+     "Owner 4, 10,236 mi"
+    ],
+    [
+     "Oct 2026",
+     "s",
+     "Back for sale at 14,525 mi, 4,300 mi in 7 months"
+    ]
+   ],
+   "verdict": "Best spec here: MSO Clubsport Pack and a $309,550 sticker. Four owners. McKay was asked Nov 7 for records and best out-the-door.",
+   "url": "https://www.wsmwa.com/used-cars-MCLAREN-600LT-2020-007971-YJZPOBJY",
+   "pick": false,
    "r": 2,
-   "mv": "up 1",
+   "mv": "new",
+   "ask": {
+    "basis": "200 newest Google reviews, Nov 7",
+    "people": [
+     {
+      "name": "McKay Rands",
+      "line": "Sales. 43 five-star, 9 in the last 90 days, 0 bad. Emailed Nov 7.",
+      "phone": "(425) 200-5976",
+      "email": "contact@wsmwa.com",
+      "emailNote": "dealer inbox, ask for McKay",
+      "ig": "https://www.instagram.com/mckayrands/",
+      "li": "https://www.linkedin.com/in/mckay-rands-970419325"
+     },
+     {
+      "name": "Luke",
+      "line": "Sales. 26 five-star, 0 bad.",
+      "phone": "(425) 200-5976",
+      "email": "contact@wsmwa.com",
+      "emailNote": "dealer inbox"
+     },
+     {
+      "name": "Kameron",
+      "line": "Sales. 11 five-star, 5 in the last 90 days, 1 bad.",
+      "phone": "(425) 200-5976",
+      "email": "contact@wsmwa.com",
+      "emailNote": "dealer inbox"
+     }
+    ]
+   }
+  },
+  {
+   "r": 3,
+   "mv": "new",
    "g": "B-",
    "gc": "b",
    "pick": false,
@@ -197,8 +288,8 @@
    ]
   },
   {
-   "r": 3,
-   "mv": "down 2",
+   "r": 4,
+   "mv": "new",
    "g": "A",
    "gc": "a",
    "pick": false,
@@ -272,8 +363,8 @@
    ]
   },
   {
-   "r": 4,
-   "mv": "up 3",
+   "r": 5,
+   "mv": "new",
    "g": "C",
    "gc": "c",
    "pick": false,
@@ -378,8 +469,8 @@
    }
   },
   {
-   "r": 5,
-   "mv": "up 1",
+   "r": 6,
+   "mv": "new",
    "g": "C+",
    "gc": "c",
    "pick": false,
@@ -443,8 +534,8 @@
    ]
   },
   {
-   "r": 6,
-   "mv": "down 4",
+   "r": 7,
+   "mv": "new",
    "g": "A-",
    "gc": "a",
    "pick": false,
@@ -507,8 +598,8 @@
    }
   },
   {
-   "r": 7,
-   "mv": "down 2",
+   "r": 8,
+   "mv": "new",
    "g": "C+",
    "gc": "c",
    "pick": false,

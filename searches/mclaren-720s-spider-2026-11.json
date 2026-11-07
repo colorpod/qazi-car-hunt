@@ -55,7 +55,7 @@
  "cars": [
   {
    "r": 1,
-   "mv": "up 1",
+   "mv": "new",
    "g": "A-",
    "gc": "a",
    "pick": true,
@@ -126,7 +126,7 @@
   },
   {
    "r": 2,
-   "mv": "up 1",
+   "mv": "new",
    "g": "B+",
    "gc": "b",
    "pick": true,
@@ -193,7 +193,7 @@
   },
   {
    "r": 3,
-   "mv": "up 2",
+   "mv": "new",
    "g": "B-",
    "gc": "b",
    "pick": false,
@@ -303,8 +303,89 @@
    }
   },
   {
+   "g": "B-",
+   "gc": "b",
+   "name": "AutoPark Dallas (Gray)",
+   "car": "2020 · Performance, Gray / Black and red Alcantara, electrochromic roof, carbon. Stock 3402",
+   "loc": "AutoPark Dallas, Lewisville, TX",
+   "price": 269995,
+   "mi": "5,793",
+   "own": "2",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "vin": "SBM14FCA9LW004721",
+   "listed": "2026-04-16",
+   "msrp": null,
+   "msrpSrc": "Dealer listing: no sticker posted",
+   "carfax": "https://www.carfax.com/vehiclehistory/ccl/8OkoBzJRP8uKVfbAAKY92CM0Qno_9xBQ_oPJB8f0D49_tI6hqHM77jTBw66MUWxSWcUgSeSW1f26hP1YGNLFbmSteoOrP3ehqu-Q4_mO",
+   "sticker": null,
+   "stickerNote": "Dealer site: no sticker",
+   "rep": "No repairs reported. Serviced only at independent shops (Kwik Kar, a car wash oil change, Pegasus Exotic).",
+   "tl": [
+    [
+     "Nov 2019",
+     "s",
+     "Owner 1, personal lease, Aubrey TX"
+    ],
+    [
+     "2021-24",
+     "w",
+     "Oil changes at Frisco quick-lube shops, never McLaren"
+    ],
+    [
+     "Apr 2026",
+     "s",
+     "Offered for sale at AutoPark, 5,793 mi"
+    ],
+    [
+     "Jun 2026",
+     "s",
+     "<b>New owner titled</b> in The Colony, TX"
+    ],
+    [
+     "Oct 2026",
+     "w",
+     "<b>9,368 mi</b> at Pegasus Exotic, Garland. Listing still says 5,793"
+    ]
+   ],
+   "verdict": "CARFAX shows a new owner in June and 9,368 mi in October. Johnny was asked Nov 7 if it is still for sale and the real miles.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/777738409",
+   "pick": false,
    "r": 4,
-   "mv": "down 3",
+   "mv": "new",
+   "ask": {
+    "basis": "210 newest Google reviews, Nov 7",
+    "people": [
+     {
+      "name": "Johnny Siamro",
+      "line": "Sales. 62 five-star mentions, newest 3 days ago. Emailed Nov 7.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox, ask for Johnny",
+      "ig": "https://www.instagram.com/lordbaesic/"
+     },
+     {
+      "name": "Jay Laith",
+      "line": "Sales and management. 54 five-star, 14 in the last 90 days, 3 bad.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox",
+      "ig": "https://www.instagram.com/jayscarstx/"
+     },
+     {
+      "name": "Jake (Jacob)",
+      "line": "Sales. 12 five-star, 6 in the last 90 days.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox"
+     }
+    ]
+   }
+  },
+  {
+   "r": 5,
+   "mv": "new",
    "g": "A-",
    "gc": "a",
    "pick": false,
@@ -363,8 +444,66 @@
    "video": "https://www.youtube.com/embed/616CPqfMO5Y"
   },
   {
-   "r": 5,
-   "mv": "down 1",
+   "g": "?",
+   "gc": "",
+   "name": "Miller Motorcars (Saros)",
+   "car": "2020 · Saros / Carbon Black and Jet Black",
+   "loc": "McLaren Greenwich (Miller Motorcars), Greenwich, CT",
+   "price": 280699,
+   "mi": "9,279",
+   "own": "?",
+   "maj": null,
+   "oth": null,
+   "auc": null,
+   "vin": "SBM14FCAXLW004596",
+   "listed": null,
+   "msrp": null,
+   "msrpSrc": "Asked Nick for the sticker Nov 7",
+   "carfax": null,
+   "carfaxNote": "Not on CARFAX listings",
+   "sticker": null,
+   "stickerNote": "Asked Nick Nov 7",
+   "rep": "No CARFAX listing found for this VIN; history not read yet.",
+   "tl": [
+    [
+     "Nov 2026",
+     "w",
+     "Saved by Qazi on Autotrader. CARFAX has no listing for this VIN"
+    ]
+   ],
+   "verdict": "Nick at McLaren Greenwich was asked Nov 7 for the sticker, records and best out-the-door.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/793669517",
+   "pick": false,
+   "r": 6,
+   "mv": "new",
+   "ask": {
+    "basis": "210 newest Google reviews, Miller and McLaren Greenwich, Nov 7",
+    "people": [
+     {
+      "name": "Nick Leiningen",
+      "line": "McLaren sales specialist. Most-named on the McLaren Greenwich reviews. Emailed Nov 7.",
+      "phone": "(475) 253-2707",
+      "email": "nickleiningen@millermotorcars.com",
+      "emailNote": "pattern from a contact database, unverified",
+      "ig": "https://www.instagram.com/mclarensfromnick/"
+     },
+     {
+      "name": "Aleksey Katkov",
+      "line": "McLaren sales associate, older reviews.",
+      "phone": "(475) 253-2707"
+     },
+     {
+      "name": "Dario Torregiani",
+      "line": "Aston Martin sales, 3 five-star in the last 90 days.",
+      "phone": "(475) 244-9278",
+      "ig": "https://www.instagram.com/dariolations/"
+     }
+    ]
+   }
+  },
+  {
+   "r": 7,
+   "mv": "new",
    "g": "B+",
    "gc": "b",
    "pick": false,
@@ -437,8 +576,8 @@
    ]
   },
   {
-   "r": 6,
-   "mv": "up 1",
+   "r": 8,
+   "mv": "new",
    "g": "C+",
    "gc": "c",
    "pick": false,
@@ -502,11 +641,39 @@
     "Sport Exhaust",
     "Carbon Ceramic Brakes",
     "Front PPF"
-   ]
+   ],
+   "ask": {
+    "basis": "210 newest Google reviews, Nov 7",
+    "people": [
+     {
+      "name": "Johnny Siamro",
+      "line": "Sales. 62 five-star mentions, newest 3 days ago. Emailed Nov 7.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox, ask for Johnny",
+      "ig": "https://www.instagram.com/lordbaesic/"
+     },
+     {
+      "name": "Jay Laith",
+      "line": "Sales and management. 54 five-star, 14 in the last 90 days, 3 bad.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox",
+      "ig": "https://www.instagram.com/jayscarstx/"
+     },
+     {
+      "name": "Jake (Jacob)",
+      "line": "Sales. 12 five-star, 6 in the last 90 days.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox"
+     }
+    ]
+   }
   },
   {
-   "r": 7,
-   "mv": "down 1",
+   "r": 9,
+   "mv": "new",
    "g": "B-",
    "gc": "b",
    "pick": false,

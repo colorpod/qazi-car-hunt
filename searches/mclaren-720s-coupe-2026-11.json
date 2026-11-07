@@ -51,7 +51,7 @@
  "cars": [
   {
    "r": 1,
-   "mv": "up 3",
+   "mv": "new",
    "g": "B+",
    "gc": "b",
    "pick": true,
@@ -167,7 +167,7 @@
   },
   {
    "r": 2,
-   "mv": "up 3",
+   "mv": "new",
    "g": "B",
    "gc": "b",
    "pick": false,
@@ -232,7 +232,7 @@
   },
   {
    "r": 3,
-   "mv": "up 5",
+   "mv": "new",
    "g": "?",
    "gc": "b",
    "pick": false,
@@ -272,7 +272,7 @@
   },
   {
    "r": 4,
-   "mv": "up 3",
+   "mv": "new",
    "g": "C+",
    "gc": "c",
    "pick": false,
@@ -346,11 +346,39 @@
     "Carbon Fiber Front Lip",
     "Valvetronic Full Exhaust",
     "Front-End PPF"
-   ]
+   ],
+   "ask": {
+    "basis": "210 newest Google reviews, Nov 7",
+    "people": [
+     {
+      "name": "Johnny Siamro",
+      "line": "Sales. 62 five-star mentions, newest 3 days ago. Emailed Nov 7.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox, ask for Johnny",
+      "ig": "https://www.instagram.com/lordbaesic/"
+     },
+     {
+      "name": "Jay Laith",
+      "line": "Sales and management. 54 five-star, 14 in the last 90 days, 3 bad.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox",
+      "ig": "https://www.instagram.com/jayscarstx/"
+     },
+     {
+      "name": "Jake (Jacob)",
+      "line": "Sales. 12 five-star, 6 in the last 90 days.",
+      "phone": "(214) 945-2601",
+      "email": "info@autoparkdallas.com",
+      "emailNote": "dealer inbox"
+     }
+    ]
+   }
   },
   {
    "r": 5,
-   "mv": "down 2",
+   "mv": "new",
    "g": "B+",
    "gc": "b",
    "pick": false,
@@ -466,7 +494,7 @@
   },
   {
    "r": 6,
-   "mv": "same",
+   "mv": "new",
    "g": "B",
    "gc": "b",
    "pick": false,
@@ -527,7 +555,7 @@
   },
   {
    "r": 7,
-   "mv": "down 6",
+   "mv": "new",
    "g": "A",
    "gc": "a",
    "pick": false,
@@ -606,7 +634,7 @@
   },
   {
    "r": 8,
-   "mv": "down 6",
+   "mv": "new",
    "g": "A-",
    "gc": "a",
    "pick": false,

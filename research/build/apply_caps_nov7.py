@@ -85,6 +85,42 @@ ASK = {  # Qazi Nov 7: who keeps coming up in the newest Google reviews, with co
    dict(name='Zach Hashmi', line='Buys cars for the store. 19 five-star reviews. Already emailed with us (R8).', phone='(815) 733-6111', email='zach@mcofchicago.com', emailNote='verified, our own thread'),
  ]),
 }
+ASK['AutoPark Dallas'] = ASK['Autopark Dallas'] = dict(basis='210 newest Google reviews, Nov 7', people=[
+   dict(name='Johnny Siamro', line='Sales. 62 five-star mentions, newest 3 days ago. Emailed Nov 7.', phone='(214) 945-2601', email='info@autoparkdallas.com', emailNote='dealer inbox, ask for Johnny', ig='https://www.instagram.com/lordbaesic/'),
+   dict(name='Jay Laith', line='Sales and management. 54 five-star, 14 in the last 90 days, 3 bad.', phone='(214) 945-2601', email='info@autoparkdallas.com', emailNote='dealer inbox', ig='https://www.instagram.com/jayscarstx/'),
+   dict(name='Jake (Jacob)', line='Sales. 12 five-star, 6 in the last 90 days.', phone='(214) 945-2601', email='info@autoparkdallas.com', emailNote='dealer inbox'),
+ ])
+ASK['Miller Motorcars'] = dict(basis='210 newest Google reviews, Miller and McLaren Greenwich, Nov 7', people=[
+   dict(name='Nick Leiningen', line='McLaren sales specialist. Most-named on the McLaren Greenwich reviews. Emailed Nov 7.', phone='(475) 253-2707', email='nickleiningen@millermotorcars.com', emailNote='pattern from a contact database, unverified', ig='https://www.instagram.com/mclarensfromnick/'),
+   dict(name='Aleksey Katkov', line='McLaren sales associate, older reviews.', phone='(475) 253-2707'),
+   dict(name='Dario Torregiani', line='Aston Martin sales, 3 five-star in the last 90 days.', phone='(475) 244-9278', ig='https://www.instagram.com/dariolations/'),
+ ])
+ASK['West State Motorsport'] = dict(basis='200 newest Google reviews, Nov 7', people=[
+   dict(name='McKay Rands', line='Sales. 43 five-star, 9 in the last 90 days, 0 bad. Emailed Nov 7.', phone='(425) 200-5976', email='contact@wsmwa.com', emailNote='dealer inbox, ask for McKay', ig='https://www.instagram.com/mckayrands/', li='https://www.linkedin.com/in/mckay-rands-970419325'),
+   dict(name='Luke', line='Sales. 26 five-star, 0 bad.', phone='(425) 200-5976', email='contact@wsmwa.com', emailNote='dealer inbox'),
+   dict(name='Kameron', line='Sales. 11 five-star, 5 in the last 90 days, 1 bad.', phone='(425) 200-5976', email='contact@wsmwa.com', emailNote='dealer inbox'),
+ ])
+
+NEW = {  # cars Qazi saved or sent Nov 7, read by Walt on CARFAX and the dealer pages
+ 'mclaren-720s-spider-2026-11': [
+  dict(g='B-', gc='b', name='AutoPark Dallas (Gray)', car='2020 · Performance, Gray / Black and red Alcantara, electrochromic roof, carbon. Stock 3402', loc='AutoPark Dallas, Lewisville, TX', price=269995, mi='5,793', own='2', maj=0, oth=0, auc=0, vin='SBM14FCA9LW004721', listed='2026-04-16', msrp=None, msrpSrc='Dealer listing: no sticker posted', carfax='https://www.carfax.com/vehiclehistory/ccl/8OkoBzJRP8uKVfbAAKY92CM0Qno_9xBQ_oPJB8f0D49_tI6hqHM77jTBw66MUWxSWcUgSeSW1f26hP1YGNLFbmSteoOrP3ehqu-Q4_mO', sticker=None, stickerNote='Dealer site: no sticker',
+       rep='No repairs reported. Serviced only at independent shops (Kwik Kar, a car wash oil change, Pegasus Exotic).',
+       tl=[['Nov 2019','s','Owner 1, personal lease, Aubrey TX'],['2021-24','w','Oil changes at Frisco quick-lube shops, never McLaren'],['Apr 2026','s','Offered for sale at AutoPark, 5,793 mi'],['Jun 2026','s','<b>New owner titled</b> in The Colony, TX'],['Oct 2026','w','<b>9,368 mi</b> at Pegasus Exotic, Garland. Listing still says 5,793']],
+       verdict='<b>Under the $270k cap, but the listing may be stale.</b> CARFAX shows a new owner in June and 9,368 mi in October. Johnny was asked Nov 7 if it is still for sale and the real miles.',
+       url='https://www.autotrader.com/cars-for-sale/vehicle/777738409'),
+  dict(g='?', gc='', name='Miller Motorcars (Saros)', car='2020 · Saros / Carbon Black and Jet Black', loc='McLaren Greenwich (Miller Motorcars), Greenwich, CT', price=280699, mi='9,279', own='?', maj=None, oth=None, auc=None, vin='SBM14FCAXLW004596', listed=None, msrp=None, msrpSrc='Asked Nick for the sticker Nov 7', carfax=None, carfaxNote='Not on CARFAX listings', sticker=None, stickerNote='Asked Nick Nov 7',
+       rep='No CARFAX listing found for this VIN; history not read yet.', tl=[['Nov 2026','w','Saved by Qazi on Autotrader. CARFAX has no listing for this VIN']],
+       verdict='<b>$10,699 over the $270k cap.</b> Nick at McLaren Greenwich was asked Nov 7 for the sticker, records and best out-the-door.',
+       url='https://www.autotrader.com/cars-for-sale/vehicle/793669517'),
+ ],
+ 'mclaren-600lt-spider-2026-11': [
+  dict(g='B-', gc='b', name='West State Motorsport', car='2020 · Elite Sicilian Yellow / Carbon Black, MSO Clubsport Pack, racing seats, front PPF. Stock WSM2491', loc='West State Motorsport, Federal Way, WA', price=259700, mi='14,601', own='4', maj=0, oth=1, auc=0, vin='SBM13SAA5LW007971', listed='2026-10-05', msrp=309550, msrpSrc='Dealer listing: total original MSRP $309,550 with MSO Clubsport Pack $22,090', carfax='https://www.carfax.com/vehiclehistory/ccl/eOCbVdZOGV8fEoq5dKGhM8u7-XZNVynLxqrjxzHo74o_E2D9rtHiUBMpJoU31NFMRIVH_QStA9M9qUXKoiOPrQj-ifEdYr_evVyECWHY', sticker=None, stickerNote='Dealer site: option list, no sticker',
+       rep='Coolant reservoir replaced (Mar 2024). Tires replaced at a dealer PDI (Feb 2026).',
+       tl=[['Aug 2019','s','Owner 1, personal lease'],['Apr 2022','s','Owner 2, lease, 6,800 mi'],['Jun 2023','s','Owner 3, 8,368 mi'],['Mar 2024','r','Serviced, coolant reservoir replaced'],['2024-26','w','No service for almost 2 years'],['Mar 2026','s','Owner 4, 10,236 mi'],['Oct 2026','s','Back for sale at 14,525 mi, 4,300 mi in 7 months']],
+       verdict='<b>$34,700 over the $225k cap.</b> Best spec here: MSO Clubsport Pack and a $309,550 sticker. Four owners. McKay was asked Nov 7 for records and best out-the-door.',
+       url='https://www.wsmwa.com/used-cars-MCLAREN-600LT-2020-007971-YJZPOBJY'),
+ ],
+}
 
 def merge_dig(d):
     p = f'{R}/dealer-dig-20261107/RESULTS.json'
@@ -116,6 +152,8 @@ def merge_dig(d):
 
 for i, cap in CAPS.items():
     d = load(i); d['cap'] = cap
+    for n in NEW.get(i, []):
+        c = dict(n); c.setdefault('pick', False); c['r'] = len(d['cars']) + 1; c['mv'] = 'new'; d['cars'].append(c)
     m = merge_dig(d)
     for c in d['cars']:
         c['pick'] = c['vin'] in PICKS[i]
@@ -128,7 +166,9 @@ for i, cap in CAPS.items():
     for a, b in FIX: d['sources'] = d['sources'].replace(a, b)
     order = sorted(d['cars'], key=lambda c: (bool(c.get('sold')), not c['pick'], c['vin'] in OUT, max(0, (c['price'] or cap['max'] + 1) - cap['max'])))
     for n, c in enumerate(order, 1):
-        old = int(c['r']); c['mv'] = 'same' if old == n else (f'up {old-n}' if old > n else f'down {n-old}'); c['r'] = n
+        old = int(c['r'])
+        if c.get('mv') == 'new': c['r'] = n; continue
+        c['mv'] = 'same' if old == n else (f'up {old-n}' if old > n else f'down {n-old}'); c['r'] = n
     d['cars'] = order
     if i == 'mclaren-720s-spider-2026-11':
         c = car(d, 'SBM14FCA9MW006325')
