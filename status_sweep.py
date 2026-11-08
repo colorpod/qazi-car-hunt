@@ -33,7 +33,11 @@ def read(tid, url, vin):
     b = ev(tid, 'document.body.innerText') or ''
     if vin not in b:
         return None
-    head = b[:b.find(vin) + 400]
+    i = b.find(vin)
+    # CARFAX pages open with a strip of other results' prices ("Back to your N results ... $205,790 $249,886").
+    # Read only from this car's own title line ("Used 2020 ...") down to its VIN, or those strip prices get read as this car's.
+    start = max(b.rfind('\n' + w, 0, i) for w in ('Used ', 'Certified ', 'New '))
+    head = b[(start if start >= 0 else max(0, i - 300)):i + 400]
     return {'prices': re.findall(r'\$\d{2,3},\d{3}', head)[:2], 'flag': (FLAG.search(head).group(0).upper() if FLAG.search(head) else '')}
 
 
