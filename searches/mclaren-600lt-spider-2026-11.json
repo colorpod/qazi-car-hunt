@@ -5,14 +5,14 @@
  "date": "2026-11-07",
  "scope": "Any year · under 20k miles · clean title · nationwide",
  "title": "What Each Car Has Been Through",
- "lead": "9 600LT Spiders listed under 20k miles. 7 ranked, every CARFAX read line by line.",
+ "lead": "10 600LT Spiders listed under 20k miles. 9 ranked; 8 CARFAX reports read line by line, 1 with no report to read.",
  "facts": [
   [
    "Cap $225k, from sold cars",
    "w"
   ],
   [
-   "0 of 7 under the cap",
+   "0 of 9 under the cap",
    "b"
   ],
   [
@@ -24,11 +24,11 @@
    ""
   ],
   [
-   "3 of 7 have 5+ owners",
+   "4 of 9 have 5+ owners",
    "b"
   ]
  ],
- "takeaway": "My two cents: no 600LT Spider is under the $225k cap today. They sell for $195k to $225k and dealers ask $235k to $295k. Open at $225k on the purple HyperCars car (best history, $316,027 MSRP) and the 1 of 1 car (closest at $244,998), and let them come to you.",
+ "takeaway": "My two cents: no 600LT Spider is under the $225k cap today. They sell for $195k to $225k and dealers ask $235k to $295k. Open at $225k on the purple HyperCars car (best history, $316,027 MSRP) and the 1 of 1 car (closest at $244,998), and let them come to you. Newest: Buy With Berk purple car, $265,449, $40,449 over the cap, no CARFAX and a possible 2023 salvage auction. Ranked last until the full report is in.",
  "shift": [
   [
    "Sold: 2020, 10,200 mi, Pure Black, $225,000",
@@ -47,7 +47,7 @@
    "West State Motorsport 2020 Yellow, 14,601 mi, $259,700: 4 owners, 3 service records. Rocky's Ultimate Garage 2020 Chicane Grey, 13,850 mi, $295,000, Senna seats: only a paid CARFAX, not read"
   ]
  ],
- "sources": "Listings and full CARFAX reports from carfax.com dealer listings and dealer CARFAX links, read Nov 7, 2026. Sold results from classic.com and Cars & Bids via Codex, Nov 7. Days listed from CARFAX first-seen dates. Window stickers and option lists: every dealer site checked VIN by VIN Nov 7 (iPacket, documents, description); a card says \"Dealer site: no sticker\" only after that check.",
+ "sources": "Listings and full CARFAX reports from carfax.com dealer listings and dealer CARFAX links, read Nov 7, 2026. Sold results from classic.com and Cars & Bids via Codex, Nov 7. Days listed from CARFAX first-seen dates. Window stickers and option lists: every dealer site checked VIN by VIN Nov 7 (iPacket, documents, description); a card says \"Dealer site: no sticker\" only after that check. Buy With Berk car: no CARFAX obtainable (404, paid only); options and history from Chicago Motor Cars' 2023 listing of the same VIN and auction-reseller pages, CarGurus listing and days on market.",
  "cars": [
   {
    "r": 1,
@@ -685,6 +685,97 @@
     "good": "An hour south; drive down and see both.",
     "bad": "DealerRater has too few ratings to score."
    }
+  },
+  {
+   "r": 9,
+   "mv": "new",
+   "g": "C-",
+   "gc": "c",
+   "pick": false,
+   "name": "Buy With Berk",
+   "car": "2020 · MSO Defined Lantana Purple / Carbon Black, yellow stitch, Senna-style seats, MSO carbon louvers, lift, front PPF. Stock 008100",
+   "loc": "Buy With Berk, Pompano Beach, FL",
+   "price": 265449,
+   "mi": "13,205",
+   "own": "5",
+   "maj": null,
+   "oth": null,
+   "auc": null,
+   "rep": "No CARFAX found. AutoCheck summary: clean title, 0 accidents, 5 previous owners. A 2023 auction listing calls it salvage (unverified).",
+   "tl": [
+    [
+     "Apr 2023",
+     "s",
+     "Chicago Motor Cars (IL) lists it at 6,760 mi: MSO Lantana Purple, $56,677 of options, CARFAX shows 1 owner"
+    ],
+    [
+     "May 2023",
+     "w",
+     "Auction resellers (carfast.express, plc.ua) list this VIN at 6,760 mi, Rockford; carfast tags it <b>salvage</b>. Not verified: lot page blocked, title shows clean today"
+    ],
+    [
+     "2023-26",
+     "s",
+     "Now 5 previous owners, so 4 more in about 3.5 years"
+    ],
+    [
+     "Nov 3 2026",
+     "s",
+     "Buy With Berk lists it at 13,205 mi, $265,449 with all fees"
+    ],
+    [
+     "Nov 7",
+     "w",
+     "No CARFAX on Berk's site, Autotrader or CarGurus (AutoCheck only, paid). iPacket has no record"
+    ]
+   ],
+   "verdict": "<b>$40,449 over the $225k cap at $265,449 (fees included).</b> Best-optioned purple car here, with over $56k of factory options (MSO paint, louvers, Senna seats, lift). But no CARFAX could be pulled, there are 5 owners (1 in Apr 2023), and an auction reseller tags this VIN <b>salvage</b> in May 2023 at 6,760 mi while AutoCheck says clean title. Cars &amp; Bids and BaT comps top out at $225k. Do not offer until Berk sends the full CARFAX and title history; then $225k at most.",
+   "url": "https://www.autotrader.com/cars-for-sale/vehicle/795334756",
+   "vin": "SBM13SAAXLW008100",
+   "listed": "2026-11-03",
+   "msrp": null,
+   "msrpSrc": null,
+   "sticker": null,
+   "stickerNote": "Berk site: no sticker, CARFAX or iPacket button; iPacket has no record. Option list with prices from Chicago Motor Cars' 2023 listing of this VIN",
+   "carfax": null,
+   "dealerUrl": "https://www.buywithberk.com/inventory/mclaren/600lt/008100/",
+   "rev": {
+    "tone": "g",
+    "scores": [
+     [
+      "CarGurus",
+      "5.0 · 1",
+      "https://www.cargurus.com/Cars/m-BuyWithBerk-sp450381"
+     ],
+     [
+      "BBB",
+      "A+",
+      "https://www.bbb.org/us/fl/pompano-beach/profile/used-car-dealers/buy-with-berk-llc-0633-92063281"
+     ],
+     [
+      "Google",
+      "5.0 · 204",
+      "https://www.google.com/maps/place/Buy+With+Berk/@26.2875005,-80.1515646,17z/data=!3m1!4b1!4m6!3m5!1s0x88d91d1a3add8f15:0x3f0305e476bb2223"
+     ]
+    ],
+    "good": "BBB A+ with no complaints in 3 years. Google 5.0 on 204 reviews; 109 of the 110 newest are five-star and 71 name owner Jason Berk.",
+    "bad": "No Yelp, DealerRater or Cars.com page. BBB accredited only since May 2026. One 1-star (3 months ago): owner took 2 days of calls and texts to answer, and the reviewer claims bad reviews get removed."
+   },
+   "ask": {
+    "basis": "110 newest of 204 Google reviews, Nov 7 (back about 2 years)",
+    "people": [
+     {
+      "name": "Jason Berk",
+      "line": "Owner and GM, the only salesperson named. 71 of 110 reviews name him, all five-star, 10 in the last 3 months. No other staff are named in any review.",
+      "phone": "(954) 805-0305",
+      "email": "buywithberk@gmail.com",
+      "emailNote": "dealer inbox listed on buywithberk.com/contact-us, goes to Jason",
+      "ig": "https://www.instagram.com/buywithberk/",
+      "li": "https://www.linkedin.com/in/jason-berk-076172200"
+     }
+    ]
+   },
+   "carfaxNote": "No CARFAX link on Berk, Autotrader or CarGurus"
   }
  ],
  "cap": {
