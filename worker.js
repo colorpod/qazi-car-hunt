@@ -3,6 +3,7 @@ import APP from "./app.html";
 import SEARCHES from "./searches/index.js";
 import CMC_CARFAX from "./carfax/SBM11FAA6GW006265.pdf";
 import MILLER_STICKER from "./sticker/SBM14FCAXLW004596.pdf";
+import MCC_BLACK_STICKER from "./sticker/SBM14FCA8KW003736.pdf";
 
 const HEADERS = { "Cache-Control": "no-store" };
 
@@ -23,6 +24,9 @@ export default {
     }
     if (url.pathname === "/sticker/SBM14FCAXLW004596.pdf") {
       return new Response(MILLER_STICKER, { headers: { ...HEADERS, "Content-Type": "application/pdf" } });
+    }
+    if (url.pathname === "/sticker/SBM14FCA8KW003736.pdf") {
+      return new Response(MCC_BLACK_STICKER, { headers: { ...HEADERS, "Content-Type": "application/pdf" } });
     }
     // Old unlock links keep working: send them to the page.
     if (url.pathname.startsWith("/k/")) return Response.redirect(new URL("/", url), 302);

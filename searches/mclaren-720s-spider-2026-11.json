@@ -198,7 +198,7 @@
    "gc": "b",
    "pick": false,
    "name": "Motor Cars of Chicago (2019 Black)",
-   "car": "2019 · Performance, Black / Black",
+   "car": "2019 · Performance, Onyx Black (MSO paint) / Black, electrochromic roof",
    "loc": "Motor Cars of Chicago, Joliet, IL",
    "price": 269995,
    "mi": "5,552",
@@ -206,36 +206,61 @@
    "maj": 0,
    "oth": 0,
    "auc": 0,
-   "rep": "No repairs reported, but no service at all since March 2021. No accidents.",
+   "rep": "No repairs or accidents. Last service on record Aug 2021 at 2,597 mi (Ferrari Maserati of Long Island prep: alignment, oil). Nothing since, 5,552 mi now.",
    "tl": [
     [
-     "2019",
-     "s",
-     "Owner 1, Florida, service contract; McLaren Tampa Bay service 2020"
+     "Mar 2019",
+     "m",
+     "New, The Collection McLaren, Coral Gables FL; serviced"
     ],
     [
-     "2021",
+     "May 2019",
      "s",
-     "Sold through Ferrari Maserati of Long Island"
+     "Owner 1, Florida, personal; service contract issued"
+    ],
+    [
+     "Mar 2020",
+     "m",
+     "1,757 mi: inspection, brake fluid, key battery (Dimmitt, Pinellas Park FL)"
+    ],
+    [
+     "Mar 2021",
+     "m",
+     "2,491 mi: Ferrari Maserati of Long Island, alignment, oil and filter, for sale"
+    ],
+    [
+     "Aug 2021",
+     "s",
+     "Sold by Ferrari Maserati of Long Island, serviced, 2,597 mi CA emissions"
+    ],
+    [
+     "Sep 2021",
+     "s",
+     "Owner 2, lease, titled California, registered Greenwich CT"
     ],
     [
      "2021-26",
      "w",
-     "<b>Owner 2, California lease, no service on record for 5 years</b>"
+     "<b>No service on record for 5 years, about 3,000 mi</b>"
+    ],
+    [
+     "Aug 2026",
+     "s",
+     "Offered for sale online"
     ],
     [
      "Sep 2026",
      "s",
-     "Listed at Motor Cars of Chicago"
+     "Listed at Motor Cars of Chicago, 5,552 mi"
     ]
    ],
-   "verdict": "<b>Under the cap at $269,995, but no service paper in 5 years.</b> <b>Low miles, no paper for 5 years.</b> Needs a full service and a PPI before it is worth $270k.",
+   "verdict": "<b>The spec you want: electrochromic roof, $394,520 sticker, 2 owners, 5,552 mi, no accidents.</b> At $269,995 it sits at the top of your $260k-$270k Spider cap. The catch: no service paper since Aug 2021. Needs a full McLaren service and a PPI. Listed since Aug 17, 83 days, so there's room.",
    "url": "https://www.carfax.com/vehicle/SBM14FCA8KW003736",
    "vin": "SBM14FCA8KW003736",
    "listed": "2026-08-17",
-   "msrp": null,
-   "msrpSrc": "Motor Cars of Chicago exact page found with price, VIN, mileage, history report, and availability warning; no sticker, MSRP, priced options, build sheet, or vehicle video.",
-   "sticker": null,
+   "msrp": 394520,
+   "msrpSrc": "Window sticker (Qazi, Nov 8): base $315,000 + $79,520 options = $394,520",
+   "sticker": "/sticker/SBM14FCA8KW003736.pdf",
    "carfax": "https://www.carfax.com/vehiclehistory/ccl/rNch_Q43DjdUjbhf8_41qOoGHTauYLsWiVsk7P-kAFisMYCjwtChy8LKl3CW1uY6CDs2qHDj-vXJ7U2qI_-hXOktemg5OUxPSrZV6Yif",
    "rev": {
     "tone": "b",
@@ -266,7 +291,7 @@
    },
    "dealerUrl": "https://mcofchicago.com/vehicle-details/?id=2019-mclaren-720s-spider-convertible-sbm14fca8kw003736",
    "priceWas": 270372,
-   "stickerNote": "Dealer site: no sticker",
+   "stickerNote": "Sticker: electrochromic roof $9,100, Onyx Black special paint $2,350, Performance $12,130, Carbon Exterior Packs 2 and 3 ($15,830), sports exhaust $5,940, 12-speaker B&W $4,420, Stealth Pack, 360 camera, electric memory seats, satin diamond-cut forged wheels, red calipers. No nose lift or carbon racing seats on the sheet.",
    "ask": {
     "basis": "218 newest Google reviews, Nov 7",
     "people": [
