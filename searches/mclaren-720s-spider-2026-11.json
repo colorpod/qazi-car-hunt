@@ -582,10 +582,17 @@
       "name": "Blaine Decker",
       "line": "Sales, McLaren Charlotte",
       "phone": "(704) 248-0009 (sales line)",
-      "email": "",
-      "emailNote": "No public email found; sales line or dealer contact form",
+      "email": "blaine.decker@charlottemclaren.com",
+      "emailNote": "Delivered Nov 9 2026 (Walt's 20:39Z email, thread 1a1c20990136e728). Do not cc sales@charlottemclaren.com: it bounced 550 5.4.1 Access denied on Nov 9.",
       "ig": "",
       "li": ""
+     }
+    ],
+    "deadEmails": [
+     {
+      "email": "sales@charlottemclaren.com",
+      "bounced": "2026-11-09",
+      "code": "550 5.4.1 Access denied"
      }
     ]
    }
