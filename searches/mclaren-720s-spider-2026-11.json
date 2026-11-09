@@ -486,8 +486,8 @@
    "name": "McLaren Charlotte (Papaya Spark)",
    "car": "2020 · Performance, MSO Papaya Spark / Black, carbon pack 1",
    "loc": "McLaren Charlotte, Charlotte, NC",
-   "price": 279900,
-   "mi": "10,830",
+   "price": 279996,
+   "mi": "10,821",
    "own": "4",
    "maj": 0,
    "oth": 0,
@@ -535,15 +535,15 @@
      "10,830 mi: oil and filter, coolant, brake fluid, fuel filter, four new tires (sale prep, McLaren Charlotte)"
     ]
    ],
-   "verdict": "<b>$9,900 over the cap.</b> The Papaya Spark: MSO paint, carbon pack 1, forged wheels, ceramic brakes, 360 camera, around $55k in dealer-priced options. Clean CARFAX, but 4 owners (one for 6 months) and a car driven 1,250 mi in almost 4 years. Fresh sale-prep service helps; gearbox oil and spark plugs are not on record. CARFAX Value is $276,270 and $283,076 with fees. Qazi says it may qualify for McLaren's warranty: not confirmed, ask the dealer for the CPO or extended-warranty terms in writing. 2020 Spiders sold $229k to $254k, so only at $270k or less.",
-   "url": "https://www.carfax.com/vehicle/SBM14FCA0LW004574",
+   "verdict": "<b>$9,996 over the cap at $279,996.</b> The Papaya Spark: MSO paint, carbon pack 1, forged wheels, ceramic brakes, 360 camera, around $55k in dealer-priced options. Clean CARFAX, but 4 owners (one for 6 months) and a car driven 1,250 mi in almost 4 years. Fresh sale-prep service helps; gearbox oil and spark plugs are not on record. CARFAX Value is $276,270 and $283,076 with fees. Dealer listing says \"extended warranty available\": a paid plan, not McLaren Qualified CPO. Get the price and terms in writing. 2020 Spiders sold $229k to $254k, so only at $270k or less.",
+   "url": "https://www.charlottemclaren.com/2020-mclaren-720s-spider-performance-c-372.htm?stocknum=LW004574",
    "vin": "SBM14FCA0LW004574",
    "listed": "2026-10-07",
    "msrp": 370310,
    "msrpEst": true,
    "msrpSrc": "Estimate, not a sticker: $315,000 base (as on the other 2020-21 Spider stickers) + $55,310 in options priced in the dealer's CARFAX description. No window sticker found.",
    "carfax": "https://www.carfax.com/vehiclehistory/ar20/tKD975KuHa9F48bBaOwNvqI2GGbRIXqFCdSTKt3-e24bqjf70o67Z8wOgseSRPbIcx3LiWjHePBiAlD9doXUxu87mYrS3C2OmVI",
-   "stickerNote": "No sticker: not on McLaren Charlotte's site or iPacket (403)",
+   "stickerNote": "No sticker posted; full priced option list is on the dealer listing (stock LW004574). iPacket returned 403.",
    "opts": [
     "MSO Defined Papaya Spark paint $9,400",
     "Carbon Exterior Pack 1 by McLaren Performance $12,130",
@@ -574,6 +574,20 @@
     ],
     "good": "Franchise McLaren dealer; owned and serviced this car for most of its life.",
     "bad": "Only the CARFAX score checked (Yelp, DealerRater not pulled). Sold this car 4 times since 2019."
+   },
+   "ask": {
+    "basis": "DealerRater (Nov 9): Blaine Decker is the top-reviewed salesperson, 4.5 from 20 reviews, named on most recent positive reviews. One 2025 review alleges an undisclosed prior wreck on a used car. Google reviews not yet counted.",
+    "people": [
+     {
+      "name": "Blaine Decker",
+      "line": "Sales, McLaren Charlotte",
+      "phone": "(704) 248-0009 (sales line)",
+      "email": "",
+      "emailNote": "No public email found; sales line or dealer contact form",
+      "ig": "",
+      "li": ""
+     }
+    ]
    }
   },
   {
