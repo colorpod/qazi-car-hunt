@@ -415,7 +415,9 @@
       "emailNote": "dealer inbox"
      }
     ]
-   }
+   },
+   "sold": "Nov 9",
+   "soldOn": "2026-11-09"
   },
   {
    "r": 5,
@@ -475,7 +477,9 @@
     "good": "Local; you can see it today.",
     "bad": "iLusso passed on our Turbo S at $202k."
    },
-   "video": "https://www.youtube.com/embed/616CPqfMO5Y"
+   "video": "https://www.youtube.com/embed/616CPqfMO5Y",
+   "sold": "Nov 9",
+   "soldOn": "2026-11-09"
   },
   {
    "r": 6,
@@ -861,7 +865,9 @@
       "emailNote": "dealer inbox"
      }
     ]
-   }
+   },
+   "sold": "Nov 9",
+   "soldOn": "2026-11-09"
   },
   {
    "r": 10,
