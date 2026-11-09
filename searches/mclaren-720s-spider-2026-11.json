@@ -582,8 +582,8 @@
       "name": "Blaine Decker",
       "line": "Sales, McLaren Charlotte",
       "phone": "(704) 248-0009 (sales line)",
-      "email": "blaine.decker@charlottemclaren.com",
-      "emailNote": "Pattern, unverified: catch-all server accepted Walt's Nov 9 20:39Z email (thread 1a1c20990136e728) with no bounce. Do not cc sales@charlottemclaren.com: it bounced 550 5.4.1 Access denied on Nov 9.",
+      "email": "",
+      "emailNote": "No working email: blaine.decker@ and sales@charlottemclaren.com both bounced Nov 9. Text the sales line (704) 248-0009; the web form has a reCAPTCHA.",
       "ig": "",
       "li": ""
      }
@@ -593,7 +593,8 @@
       "email": "sales@charlottemclaren.com",
       "bounced": "2026-11-09",
       "code": "550 5.4.1 Access denied"
-     }
+     },
+     "blaine.decker@charlottemclaren.com, bounced 2026-11-09, 550 (mail relays to ztdealers.com)"
     ]
    }
   },
