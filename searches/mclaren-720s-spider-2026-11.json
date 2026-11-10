@@ -580,14 +580,23 @@
     "bad": "Only the CARFAX score checked (Yelp, DealerRater not pulled). Sold this car 4 times since 2019."
    },
    "ask": {
-    "basis": "DealerRater (Nov 9): Blaine Decker is the top-reviewed salesperson, 4.5 from 20 reviews, named on most recent positive reviews. One 2025 review alleges an undisclosed prior wreck on a used car. Google reviews not yet counted.",
+    "basis": "DealerRater (Nov 9): Blaine Decker is the top-reviewed salesperson, 4.5 from 20 reviews. Kyle Slawter named in a Sept 2025 review. Store now owned by ZT Automotive (Badar), July 2026; mail runs on ztdealers.com. Sales hours 10am-7pm ET Mon-Sat. Instagram @mclarenclt.",
     "people": [
      {
       "name": "Blaine Decker",
-      "line": "Sales, McLaren Charlotte",
+      "line": "Sales (title unconfirmed: GSM / GM), McLaren Charlotte",
+      "phone": "(704) 248-0009 (sales landline, no texts)",
+      "email": "bdecker@ztdealers.com",
+      "emailNote": "Pitch delivered Nov 9 to bdecker@ and blaine.decker@ztdealers.com (no bounce). charlottemclaren.com personal addresses bounce.",
+      "ig": "",
+      "li": ""
+     },
+     {
+      "name": "Kyle Slawter",
+      "line": "Sales, McLaren Charlotte (named in Sept 2025 DealerRater review)",
       "phone": "(704) 248-0009 (sales line)",
-      "email": "",
-      "emailNote": "No working email: blaine.decker@ and sales@charlottemclaren.com both bounced Nov 9. Text the sales line (704) 248-0009; the web form has a reCAPTCHA.",
+      "email": "kyle.slawter@ztdealers.com",
+      "emailNote": "Pattern guess; pitch sent Nov 10 to kyle.slawter@ and kslawter@ztdealers.com.",
       "ig": "",
       "li": ""
      }
