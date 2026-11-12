@@ -12,7 +12,7 @@
    "g"
   ],
   [
-   "3 under it: SF $269,991, Tampa $264,995, Chicago $269,995",
+   "3 under it: SF $269,991, Tampa $258,994, Chicago $269,995",
    "g"
   ],
   [
@@ -137,7 +137,7 @@
    "name": "European Exotic Center Tampa",
    "car": "2020 · Pearl White / Tan, carbon pack, carbon interior",
    "loc": "European Exotic Center, Tampa, FL",
-   "price": 264995,
+   "price": 258994,
    "mi": "10,513",
    "own": "2",
    "maj": 0,
@@ -164,9 +164,14 @@
      "Aug 2026",
      "m",
      "Pre-purchase inspection at The Garagisti, then listed"
+    ],
+    [
+     "Nov 12",
+     "m",
+     "<b>Price cut $7,000</b> to $258,994 on CARFAX (was $265,994)"
     ]
    ],
-   "verdict": "<b>Under the $270k cap at $264,995.</b> Offer $250k. <b>Solid two-owner car</b> with regular service. The fuel tank job happened at delivery, likely bad fuel. Yelp 4.3. A fair ask, but over 2020 Spider sales.",
+   "verdict": "<b>Under the $270k cap at $258,994</b> after a $7,000 cut Nov 12. Offer $250k. <b>Solid two-owner car</b> with regular service. The fuel tank job happened at delivery, likely bad fuel. Yelp 4.3. Now the cheapest pick, still over 2020 Spider sales.",
    "url": "https://www.carfax.com/vehicle/SBM14FCA5LW004487",
    "vin": "SBM14FCA5LW004487",
    "listed": "2026-08-14",
