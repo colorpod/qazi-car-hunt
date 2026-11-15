@@ -1,0 +1,378 @@
+{
+ "id": "ferrari-296-gtb-2026-11",
+ "make": "Ferrari",
+ "model": "296 GTB",
+ "date": "2026-11-15",
+ "scope": "The two cars Qazi asked about · Nashville, TN",
+ "title": "What These Two Cars Have Been Through",
+ "lead": "Two 2022 296 GTBs in Rosso Corsa at Prancing Horse of Nashville. Both CARFAX reports and window stickers read line by line; priced against 9 BaT sales and 12 live dealer asks.",
+ "facts": [
+  [
+   "Asks $329,995 and $325,995",
+   "w"
+  ],
+  [
+   "Cap $295k to $305k",
+   "w"
+  ],
+  [
+   "No accidents · clean titles",
+   "g"
+  ],
+  [
+   "2,862 and 5,296 mi",
+   ""
+  ],
+  [
+   "MSRP $412,547 / $411,873",
+   ""
+  ],
+  [
+   "Both sold here before",
+   "w"
+  ]
+ ],
+ "takeaway": "My two cents: the 2,862-mile car is the one. Both ask about $330k; BaT has been selling 2022 to 2023 GTBs for $267k to $288k all year. Open the 2.9k car at $318k, land $300k, walk above $305k. Ferrari of Tampa Bay asks $309,985 for a 3k-mile 2023; use it. Neither car shows a service since 2023 or 2024, so the service printout comes first.",
+ "shift": [
+  [
+   "Sold: 2022, 6k mi, Rosso Corsa / Nero, $275,000",
+   "BaT, Jun 23, 2026 (+5% buyer fee, capped $7,500). Closest match to the 5.3k car"
+  ],
+  [
+   "Sold: 2022, 1,500 mi, $267,777",
+   "BaT, Mar 4, 2026; lift, forged wheels"
+  ],
+  [
+   "Sold: 2023, 963 mi, ~$85k options, $288,000",
+   "BaT, Feb 24, 2026"
+  ],
+  [
+   "Sold: 2023, 1,900 mi, $273,000",
+   "BaT, Jul 20, 2026; newest 2022 to 2023 GTB sale"
+  ],
+  [
+   "9 BaT sales of 2022 to 2023 GTBs this year",
+   "$267,777 to $327,000, median $275,000 (about $282,500 with the fee). Only the $161k-option matte car and an Assetto Fiorano cleared $300k"
+  ],
+  [
+   "Live asks at 2k to 6k miles",
+   "Ferrari of Tampa Bay 3k $309,985; Sport Cars Lux 2k $319,990; Ferrari of SF 6k $327,864; Greensboro 6k $329,950; Napleton 5k $330,412; Fort Lauderdale 2k $345,000 (classic.com, Nov 15)"
+  ],
+  [
+   "What the CARFAX adds",
+   "Both cars were delivered new by this store, listed here Sep 27, 2024, sold in 2025 and came back. Neither shows an annual service since 2023 (2.9k) or Apr 2024 (5.3k). The 5.3k car had brakes done at 3,100 mi"
+  ]
+ ],
+ "sources": "Dealer listings, window stickers (dealer Window Sticker button) and free CARFAX reports (ar20 links) read in full in Walt Chrome, Nov 15, 2026. Ferrari Approved page for the 2.9k car. Days listed from the dealer's own in-stock dates (Oct 12 and Nov 7). Sold prices from Bring a Trailer; live asks and market average from classic.com, Nov 15. Reviews: Google (610 of 734, newest first), Yelp, DealerRater, Cars.com, BBB, CarEdge. Staff from phofnash.com/about-us/staff. Nobody contacted.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "new",
+   "g": "B+",
+   "gc": "b",
+   "pick": false,
+   "name": "Prancing Horse of Nashville (2.9k mi)",
+   "car": "2022 · Rosso Corsa / Nero, carbon Corsa seats, Grigio Corsa forged wheels, front and rear lift, Ferrari Approved",
+   "loc": "Prancing Horse of Nashville, Nashville, TN",
+   "price": 329995,
+   "mi": "2,862",
+   "own": "1+",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs, no accidents, clean title. No service on record since Jun 2023 at 1,433 mi.",
+   "tl": [
+    [
+     "Mar 2023",
+     "m",
+     "Delivered new by Prancing Horse of Nashville (sticker). Serviced at Ferrari of Rancho Mirage, CA, 302 mi"
+    ],
+    [
+     "Jun 2023",
+     "m",
+     "Maintenance inspection at Wide World of Cars, Spring Valley, NY, 1,433 mi"
+    ],
+    [
+     "Jun 2023 to Nov 2026",
+     "w",
+     "<b>No service on record for about 29 months</b>, 1,433 to 2,862 mi. The 2024, 2025 and 2026 annual services under the 7-year plan are not on the report"
+    ],
+    [
+     "Sep 2024",
+     "s",
+     "Listed here at 2,337 mi. No title record before this: the 2023 to 2024 history is service visits only"
+    ],
+    [
+     "Feb to Mar 2025",
+     "s",
+     "Sold at 2,500 mi after about 5 months. Owner registered in Kalispell, Montana"
+    ],
+    [
+     "May 2025",
+     "m",
+     "Paint protection film applied, Prestige Films, Lafayette, LA"
+    ],
+    [
+     "Oct 12, 2026",
+     "s",
+     "Back here at <b>$329,995</b>, 2,862 mi. Ferrari Approved with a 2-year warranty extension; maintenance to Mar 2030. Original MSRP $412,547"
+    ]
+   ],
+   "verdict": "<b>$24,995 over the $305k cap at $329,995.</b> Open $318k, target $300k, walk above $305k. <b>The better of the two:</b> lowest miles, carbon Corsa seats, ceramic tips, PPF, $412,547 sticker, and 34 days on the lot. The knock: no service reported since Jun 2023. Before money, ask for the Ferrari service printout and the Ferrari Approved inspection, and why it came back.",
+   "url": "https://www.carfax.com/vehicle/ZFF99SLA7N0288069",
+   "vin": "ZFF99SLA7N0288069",
+   "listed": "2026-10-12",
+   "msrp": 412547,
+   "msrpSrc": "Window sticker on the dealer site (Window Sticker button): base $312,986 + $94,561 options + $5,000 delivery = $412,547",
+   "sticker": "https://www.phofnash.com/dealer-inspire-inventory/window-stickers/ferrari?vin=ZFF99SLA7N0288069",
+   "stickerLabel": "Window sticker (dealer)",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/cGLl2z7hjAE4UyI8pZHf2dJxoVWL43qIKqPUIVEjiiXNLiIoYi6Dixi_bX05vF-aqnOiE5fiitMEwFPXSsKFnevYxtWaEvkE_-E",
+   "dealerUrl": "https://www.phofnash.com/inventory/certified-used-2022-ferrari-296-gtb-base-rear-wheel-drive-2d-coupe-zff99sla7n0288069/",
+   "opts": [
+    "Carbon Corsa racing seats",
+    "Grigio Corsa Opaco forged wheels",
+    "Titanium wheel studs",
+    "Front and rear lift $5,737",
+    "Carbon instrument cluster $7,593",
+    "Carbon diffuser $5,400",
+    "Carbon wheel with LEDs $5,062",
+    "Carbon dash inserts $5,062",
+    "Carbon upper tunnel $4,050",
+    "AFS headlights $3,375",
+    "Back radar $2,767",
+    "Carbon sills $2,025",
+    "Black ceramic exhaust tips $1,687",
+    "Black calipers $1,519",
+    "Horse on headrest $1,266",
+    "Coloured inner details $1,181",
+    "Carbon key $844",
+    "Scuderia shields",
+    "Leather headliner",
+    "Surround View",
+    "Premium Hi-Fi"
+   ],
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Yelp",
+      "No reviews · unclaimed",
+      "https://www.yelp.com/biz/prancing-horse-nashville"
+     ],
+     [
+      "DealerRater",
+      "No profile",
+      "https://www.dealerrater.com/directory/Nashville-TN/Ferrari/"
+     ],
+     [
+      "Cars.com",
+      "Not rated · 0",
+      "https://www.cars.com/dealers/6058266/prancing-horse-of-nashville/"
+     ],
+     [
+      "BBB",
+      "A+ · 0 complaints",
+      "https://www.bbb.org/us/tn/nashville/profile/car-dealers/prancing-horse-of-nashville-0573-37373486"
+     ],
+     [
+      "Google",
+      "5.0 · 734",
+      "https://www.google.com/maps/place/Official+Ferrari+Dealer+-+Prancing+Horse+of+Nashville/@36.1426922,-86.6888873,17z/data=!3m1!4b1!4m6!3m5!1s0x886469e8bac99a03:0x53541d048ef43a54!8m2!3d36.1426922!4d-86.6888873!16s%2Fg%2F11s63hpy5m"
+     ]
+    ],
+    "good": "Sales is near perfect: 602 of 610 Google reviews read are five-star, and Peter Chiappone is named in about 100 of them, the newest 5 days ago.",
+    "bad": "Service and fees: a Google 1-star 3 days ago on repair quality and a 2-star last month. CarEdge puts this store's median dealer fees at $1,195, $366 over the Tennessee median."
+   },
+   "ask": {
+    "basis": "610 of 734 Google reviews newest first, staff page, Nov 15",
+    "people": [
+     {
+      "name": "Peter Chiappone",
+      "line": "Sales Executive. About 102 Google mentions, 101 five-star, 32 in the last 90 days (newest 5 days ago). Direct line from the staff page.",
+      "phone": "917-439-7967",
+      "email": "pchiappone@phofnash.com",
+      "emailNote": "published on phofnash.com/about-us/staff, verified",
+      "li": "https://www.linkedin.com/in/peterchiappone"
+     },
+     {
+      "name": "Kostas Tsioutsias",
+      "line": "Pre-Owned Manager: owns used pricing. 18 Google five-stars, newest about a month ago.",
+      "phone": "615-234-0100",
+      "email": "ktsioutsias@phofnash.com",
+      "emailNote": "published on phofnash.com/about-us/staff, verified"
+     },
+     {
+      "name": "Brian Pardo",
+      "line": "Sales Executive. 19 Google five-stars, newest about 10 months ago.",
+      "phone": "615-234-0100",
+      "email": "bpardo@phofnash.com",
+      "emailNote": "published on phofnash.com/about-us/staff, verified",
+      "li": "https://www.linkedin.com/in/brian-pardo"
+     }
+    ]
+   }
+  },
+  {
+   "r": 2,
+   "mv": "new",
+   "g": "B",
+   "gc": "b",
+   "pick": false,
+   "name": "Prancing Horse of Nashville (5.3k mi)",
+   "car": "2022 · Rosso Corsa / Nero, Daytona seats, 20\" forged wheels, front lift, Ferrari Approved",
+   "loc": "Prancing Horse of Nashville, Nashville, TN",
+   "price": 325995,
+   "mi": "5,296",
+   "own": "1+",
+   "maj": 0,
+   "oth": 2,
+   "auc": 0,
+   "rep": "Front and rear brake pads and front rotors replaced at about 3,100 mi (Apr 2024); radio speaker replaced. No accidents, clean title.",
+   "tl": [
+    [
+     "Mar 2023",
+     "m",
+     "Delivered new by Prancing Horse of Nashville (sticker). In service about Mar 10, 2023"
+    ],
+    [
+     "Jun 2023",
+     "m",
+     "Ferrari of Central New Jersey, 1,213 mi: maintenance inspection, A/C leak checked"
+    ],
+    [
+     "Oct 2023",
+     "m",
+     "Ferrari of Fort Lauderdale, 2,081 mi: serviced"
+    ],
+    [
+     "Apr 2024",
+     "r",
+     "Ferrari of Central NJ, 3,072 mi: pre-delivery inspection, <b>radio speaker replaced</b>, alignment, brake fluid"
+    ],
+    [
+     "Apr 26, 2024",
+     "r",
+     "Ferrari of Central NJ: annual service, <b>front and rear brake pads and front rotors replaced</b> at about 3,100 mi"
+    ],
+    [
+     "Aug 2024",
+     "m",
+     "Maintenance inspection at Wide World of Cars, Spring Valley, NY, 3,073 mi"
+    ],
+    [
+     "Sep 2024 to Jul 2025",
+     "s",
+     "Listed here at 3,145 mi; sat about 9.5 months. Sold at 3,544 mi to an owner in Georgetown, TN, with a loan"
+    ],
+    [
+     "Apr 2024 to Nov 2026",
+     "w",
+     "<b>No service on record since Apr 2024</b>; 2025 and 2026 annual services not on the report"
+    ],
+    [
+     "Nov 7, 2026",
+     "s",
+     "Back here at <b>$325,995</b>, 5,296 mi. Ferrari Approved, warranty extension and maintenance to Mar 2030. Original MSRP $411,873"
+    ]
+   ],
+   "verdict": "<b>$20,995 over the $305k cap at $325,995.</b> Open $314k, target $295k, walk above $300k. BaT sold a 6k-mile Rosso Corsa / Nero 2022 for $275,000 in June. <b>Brakes at 3,100 miles is the question:</b> the 296's rotors are carbon ceramic, so that means track days or a warranty fix. Get the April 2024 repair order before anything else. Only 8 days listed, so less bend than the 2.9k car.",
+   "url": "https://www.carfax.com/vehicle/ZFF99SLA0N0282310",
+   "vin": "ZFF99SLA0N0282310",
+   "listed": "2026-11-07",
+   "msrp": 411873,
+   "msrpSrc": "Window sticker on the dealer site (Window Sticker button): base $312,986 + $93,887 options + $5,000 delivery = $411,873",
+   "sticker": "https://www.phofnash.com/dealer-inspire-inventory/window-stickers/ferrari?vin=ZFF99SLA0N0282310",
+   "stickerLabel": "Window sticker (dealer)",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/5FUJ-7vDtF0OhO94rQFx7SuNENZWTl-4DOqLU3EI1zaj0JDRu51rQSsJxEqE7uc4uZQYdXGaNeSySSfnb4D4CaCegBdF4It5MLk",
+   "dealerUrl": "https://www.phofnash.com/inventory/certified-used-2022-ferrari-296-gtb-base-rear-wheel-drive-2d-coupe-zff99sla0n0282310/",
+   "opts": [
+    "Daytona style seats $4,050",
+    "Front lift $5,737",
+    "Carbon instrument cluster $7,593",
+    "Leather/Alcantara carpets $5,906",
+    "Carbon diffuser $5,400",
+    "Carbon dash inserts $5,062",
+    "Carbon upper tunnel $4,050",
+    "AFS headlights $3,375",
+    "Back radar $2,767",
+    "Carbon sills $2,025",
+    "Alcantara seat centers $1,856",
+    "Black calipers $1,519",
+    "Horse on headrest $1,266",
+    "Carbon key $844",
+    "20\" forged wheels",
+    "Carbon wheel with LEDs",
+    "Sports tips",
+    "Scuderia shields",
+    "Leather headliner",
+    "Surround View",
+    "Premium Hi-Fi"
+   ],
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Yelp",
+      "No reviews · unclaimed",
+      "https://www.yelp.com/biz/prancing-horse-nashville"
+     ],
+     [
+      "DealerRater",
+      "No profile",
+      "https://www.dealerrater.com/directory/Nashville-TN/Ferrari/"
+     ],
+     [
+      "Cars.com",
+      "Not rated · 0",
+      "https://www.cars.com/dealers/6058266/prancing-horse-of-nashville/"
+     ],
+     [
+      "BBB",
+      "A+ · 0 complaints",
+      "https://www.bbb.org/us/tn/nashville/profile/car-dealers/prancing-horse-of-nashville-0573-37373486"
+     ],
+     [
+      "Google",
+      "5.0 · 734",
+      "https://www.google.com/maps/place/Official+Ferrari+Dealer+-+Prancing+Horse+of+Nashville/@36.1426922,-86.6888873,17z/data=!3m1!4b1!4m6!3m5!1s0x886469e8bac99a03:0x53541d048ef43a54!8m2!3d36.1426922!4d-86.6888873!16s%2Fg%2F11s63hpy5m"
+     ]
+    ],
+    "good": "Sales is near perfect: 602 of 610 Google reviews read are five-star, and Peter Chiappone is named in about 100 of them, the newest 5 days ago.",
+    "bad": "Service and fees: a Google 1-star 3 days ago on repair quality and a 2-star last month. CarEdge puts this store's median dealer fees at $1,195, $366 over the Tennessee median."
+   },
+   "ask": {
+    "basis": "610 of 734 Google reviews newest first, staff page, Nov 15",
+    "people": [
+     {
+      "name": "Peter Chiappone",
+      "line": "Sales Executive. About 102 Google mentions, 101 five-star, 32 in the last 90 days (newest 5 days ago). Direct line from the staff page.",
+      "phone": "917-439-7967",
+      "email": "pchiappone@phofnash.com",
+      "emailNote": "published on phofnash.com/about-us/staff, verified",
+      "li": "https://www.linkedin.com/in/peterchiappone"
+     },
+     {
+      "name": "Kostas Tsioutsias",
+      "line": "Pre-Owned Manager: owns used pricing. 18 Google five-stars, newest about a month ago.",
+      "phone": "615-234-0100",
+      "email": "ktsioutsias@phofnash.com",
+      "emailNote": "published on phofnash.com/about-us/staff, verified"
+     },
+     {
+      "name": "Brian Pardo",
+      "line": "Sales Executive. 19 Google five-stars, newest about 10 months ago.",
+      "phone": "615-234-0100",
+      "email": "bpardo@phofnash.com",
+      "emailNote": "published on phofnash.com/about-us/staff, verified",
+      "li": "https://www.linkedin.com/in/brian-pardo"
+     }
+    ]
+   }
+  }
+ ],
+ "cap": {
+  "low": 295000,
+  "max": 305000,
+  "why": "Walt's cap from sold cars: 2022 to 2023 296 GTBs sold on BaT for $267k to $288k this year (median $275k, about $282k with the fee). A Ferrari Approved car with warranty earns a premium on that, and Ferrari of Tampa Bay already asks $309,985 for a 3k-mile 2023."
+ }
+}

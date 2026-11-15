@@ -1,0 +1,52 @@
+{
+ "scores": [
+  [
+   "Yelp",
+   "no rating · 0 reviews (unclaimed listing 'Prancing Horse', no reviews)",
+   "https://www.yelp.com/biz/prancing-horse-nashville"
+  ],
+  [
+   "DealerRater",
+   "no profile found (Ferrari Nashville directory returns 0 dealers; site search returns nothing)",
+   "https://www.dealerrater.com/directory/Nashville-TN/Ferrari/"
+  ],
+  [
+   "Cars.com",
+   "no rating · 0 reviews (dealer page exists, id 6058266)",
+   "https://www.cars.com/dealers/6058266/prancing-horse-of-nashville/"
+  ],
+  [
+   "BBB",
+   "A+ · 0 reviews, 0 complaints in 3 yrs (Accredited since Feb 10 2025)",
+   "https://www.bbb.org/us/tn/nashville/profile/car-dealers/prancing-horse-of-nashville-0573-37373486"
+  ],
+  [
+   "Google",
+   "5.0 · 734",
+   "https://www.google.com/maps/place/Official+Ferrari+Dealer+-+Prancing+Horse+of+Nashville/@36.1426922,-86.6888873,17z/data=!3m1!4b1!4m6!3m5!1s0x886469e8bac99a03:0x53541d048ef43a54!8m2!3d36.1426922!4d-86.6888873!16s%2Fg%2F11s63hpy5m"
+  ]
+ ],
+ "tone": "g",
+ "good": "Showroom and sales get near-perfect praise: Google 5.0 on 734, 602 of 610 reviews read are five-star, and sales exec Peter Chiappone is named in about 100 of them (latest 5 days ago).",
+ "bad": "Service and fees: four reviews (a 1-star 3 days ago on repair quality control, a 2-star 5 months ago on a timing-belt job, a 2-star last month, a 1-star a year ago) and CarEdge puts median dealer fees at $1,195, $366 above the TN median.",
+ "notes": {
+  "yelp_search": "https://www.yelp.com/search?find_desc=Prancing+Horse+of+Nashville&find_loc=Nashville%2C+TN returned unrelated pet groomers; only the unclaimed 'Prancing Horse' biz page exists.",
+  "dealerrater_search": [
+   "https://www.dealerrater.com/search/?searchTerm=Prancing+Horse+of+Nashville",
+   "https://www.dealerrater.com/directory/Nashville-TN/Ferrari/",
+   "Bing/DuckDuckGo site: searches also found nothing"
+  ],
+  "cars_com": "Cars.com page lists address as 2300 Knights of Columbus Blvd; 'See all 0 reviews'.",
+  "autotrader": "Bing snippet: 5/5 (456) on Autotrader (not opened).",
+  "caredge": "https://caredge.com/dealer/prancing-horse-of-nashville--tn-nashville : page today shows grade B 82/100 (updated Nov 11 2026), median dealer fees $1,195 ($366 above TN median), zero quoted add-ons, 5 quotes; an Oct 28 search snippet showed grade D 60/100. Average confirmed fees $1,325 across 5 quotes, not itemized. Part of Dream Motor Group.",
+  "google_negatives_of_610": [
+   "1 star, 3 days ago, Tristan Brown: cars keep coming back from service in worse shape",
+   "2 stars, a month ago, Ryan: felt dismissed asking for an F430 F1 repair quote",
+   "4 stars, edited 2 months ago, Gleb Podkolzin: sales praised, text cut off",
+   "2 stars, 5 months ago, Brian G.: bought a serviced 360, arrived with timing/engine code after timing belt service",
+   "1 star, a year ago, Magnolia State Enterprises: defective parts never returned, poor communication",
+   "1 star, 3 years ago, Becky Wells: tour limited to 4 cars"
+  ],
+  "owner_site_testimonials": "phofnash.com/about-us/customer-testimonials/ (dealer-curated, not independent)"
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "dealer": "Prancing Horse of Nashville (Ferrari), 2320 Knights of Columbus Blvd, Nashville TN 37214",
+ "reviews_read": 610,
+ "oldest_read": "3 years ago",
+ "sort": "Newest",
+ "note": "Google place shows 5.0 (734). Read 610 of 734 (loaded until Maps stopped serving more; raw: prancing-horse-of-nashville-google-reviews.json): 602 five-star, 3 four-star, 2 two-star, 3 one-star; 64 in the last 90 days, 163 under 12 months old. Counts are name-text matches in review text (not reviewer names), 'last_90d' = posted within 3 months. Staff titles, emails and phones from phofnash.com/about-us/staff/ (Nov 15 2026). Most Google reviews are showroom-tour praise, not purchases; Peter dominates (about one in six reviews). Sales Manager is Thomas Cohen; GM is Thomas (Tom) Roach; Pre-Owned Manager Kostas Tsioutsias. Service staff named in praise: Asif Iqbal (After Sales GM), Lee Rankin (service advisor), William (service manager, not on staff page).",
+ "people": [
+  {
+   "name": "Peter Chiappone",
+   "role": "Sales Executive (staff page)",
+   "mentions": 102,
+   "five_star": 101,
+   "last_90d": 32,
+   "negative": 0,
+   "latest_mention_date": "Google, 5 days ago (about Nov 10 2026); 61 mentions under 12 months old",
+   "quotes": [
+    "Peter Chiappone was my Sales Executive and super helpful",
+    "Peter is the man!",
+    "Took his time sharing both his knowledge of the cars and the industry"
+   ],
+   "other_sites": "phofnash.com testimonials page: 4 of the top 14 featured Google reviews name Peter (Sep-Oct 2026). Autotrader shows 5/5 (456) for the dealer. Only one non-5 review names him: a 4-star (2 months ago) that still calls the sales team 'top notch'.",
+   "phone": "917-439-7967",
+   "phone_src": "https://www.phofnash.com/about-us/staff/ (direct line listed; store line is 615-234-0100)",
+   "email": "pchiappone@phofnash.com",
+   "email_src": "verified, published on https://www.phofnash.com/about-us/staff/",
+   "ig": "not found (dealer: instagram.com/phofnash); Facebook facebook.com/peter.chiappone",
+   "li": "https://www.linkedin.com/in/peterchiappone (Ferrari Sales Executive at Prancing Horse of Nashville, 500+ connections)"
+  },
+  {
+   "name": "Kostas Tsioutsias",
+   "role": "Pre-Owned Manager (staff page)",
+   "mentions": 18,
+   "five_star": 18,
+   "last_90d": 1,
+   "negative": 0,
+   "latest_mention_date": "Google, about a month ago (Oct 2026) plus 4 months ago; 2 mentions under 12 months old; spelled Kostas, Kostos, Kosstas, Costa",
+   "quotes": [
+    "Kostas Tsioutsias has such great wisdom and passion for the brand",
+    "Thank you Kostos for the phenomenal sales experience!",
+    "Kostas was incredible to work with and extremely knowledgeable"
+   ],
+   "other_sites": "phofnash.com testimonials: 'Thank you, Kostos, for the phenomenal sales experience!' (June 2026). DealerRater has a 'Konstantinos Tsioutsias' reviewer/staff page in Bing results (dealerrater.com/sales, page 8), not opened.",
+   "phone": "615-234-0100",
+   "phone_src": "https://www.phofnash.com/about-us/staff/ (store line, no direct cell found)",
+   "email": "ktsioutsias@phofnash.com",
+   "email_src": "verified, published on https://www.phofnash.com/about-us/staff/",
+   "ig": "instagram.com/k.tsiou (name match, 113 followers, unconfirmed it is him)",
+   "li": "not found (Bing shows only generic 'Konstantinos Tsioutsias' directory)"
+  },
+  {
+   "name": "Brian Pardo",
+   "role": "Sales Executive (staff page)",
+   "mentions": 19,
+   "five_star": 19,
+   "last_90d": 0,
+   "negative": 0,
+   "latest_mention_date": "Google, about 10 months ago (a group thank-you); 1 mention under 12 months old, the rest a year or more ago",
+   "quotes": [
+    "Brian Pardo was the best. He was the best salesman",
+    "Brian Pardo's hospitality is top notch! Best customer service around"
+   ],
+   "other_sites": "LinkedIn headline: Sales at Prancing Horse of Nashville, University of Central Florida, Spanish native.",
+   "phone": "615-234-0100",
+   "phone_src": "https://www.phofnash.com/about-us/staff/ (store line, no direct cell found)",
+   "email": "bpardo@phofnash.com",
+   "email_src": "verified, published on https://www.phofnash.com/about-us/staff/",
+   "ig": "not found",
+   "li": "https://www.linkedin.com/in/brian-pardo (Sales at Prancing Horse of Nashville, 243 connections)"
+  },
+  {
+   "name": "Thomas Cohen",
+   "role": "Sales Manager (staff page)",
+   "mentions": 3,
+   "five_star": 2,
+   "last_90d": 1,
+   "negative": 0,
+   "latest_mention_date": "Google 4-star, edited about 2 months ago (named as 'Thomas'/'Tommy', attribution not certain)",
+   "quotes": [
+    "Special thanks to Tommy who was friendly and informative!"
+   ],
+   "phone": "615-234-0100",
+   "phone_src": "https://www.phofnash.com/about-us/staff/",
+   "email": "tcohen@phofnash.com",
+   "email_src": "verified, published on https://www.phofnash.com/about-us/staff/"
+  },
+  {
+   "name": "Thomas (Tom) Roach",
+   "role": "General Manager (staff page)",
+   "mentions": 11,
+   "five_star": 11,
+   "last_90d": 0,
+   "negative": 0,
+   "latest_mention_date": "Google, about 10 months ago",
+   "quotes": [
+    "Tom, the GM, personally came out to say hello and meet",
+    "Thomas Roach was a great tour guide!!"
+   ],
+   "notes": "Reviewers call him a tour guide and GM, not a salesperson. Bing shows a podcast interview 'From Tractors to Ferraris: Tom Roach's Road to Running Prancing Horse'.",
+   "phone": "615-234-0100",
+   "phone_src": "https://www.phofnash.com/about-us/staff/",
+   "email": "troach@phofnash.com",
+   "email_src": "verified, published on https://www.phofnash.com/about-us/staff/"
+  },
+  {
+   "name": "Chris Miele",
+   "role": "Vice President (LinkedIn); not on the staff page",
+   "mentions": 35,
+   "five_star": 35,
+   "last_90d": 1,
+   "negative": 0,
+   "latest_mention_date": "Google, about a month ago",
+   "quotes": [
+    "Chris the VP was amazing and very nice showed us around"
+   ],
+   "notes": "Bing and Exotic Car Marketplace profile him as the driving force and founder-level exec behind the dealership. Reviewers name him for showroom tours, not sales deals. Counts are 'Chris'/'Miele' text matches and may include other Chrises.",
+   "li": "LinkedIn 'Christopher Miele - Vice President at Prancing Horse of Nashville' (Bing result, URL not opened)"
+  },
+  {
+   "name": "Kiara Petrone",
+   "role": "Experience Manager (staff page)",
+   "mentions": 4,
+   "five_star": 4,
+   "last_90d": 0,
+   "negative": 0,
+   "latest_mention_date": "Google, about 6 months ago",
+   "phone": "615-234-0100",
+   "phone_src": "https://www.phofnash.com/about-us/staff/",
+   "email": "kpetrone@phofnash.com",
+   "email_src": "verified, published on https://www.phofnash.com/about-us/staff/"
+  }
+ ],
+ "top3": [
+  "Peter Chiappone",
+  "Kostas Tsioutsias",
+  "Brian Pardo"
+ ],
+ "service_contact": "Asif Iqbal, After Sales General Manager / Service Manager, aiqbal@phofnash.com, 615-234-0100 (verified on staff page); Lee Rankin, service advisor, lrankin@phofnash.com",
+ "method": "Walt Chrome (CDP) read only: Google Maps place Official Ferrari Dealer - Prancing Horse of Nashville, Reviews sorted Newest, scrolled until it stopped loading (610), expanded all, counted staff names by regex; read phofnash.com staff and testimonials pages; Bing searches for LinkedIn/Instagram. No forms, no contact, no sign-ins."
+}
