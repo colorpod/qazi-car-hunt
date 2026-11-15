@@ -1,0 +1,203 @@
+{
+ "id": "mclaren-750s-spider-2026-11",
+ "make": "McLaren",
+ "model": "750S Spider",
+ "date": "2026-11-15",
+ "scope": "The one car Qazi asked about · Irvine, CA",
+ "title": "What This Car Has Been Through",
+ "lead": "One 2024 750S Spider at McLaren Newport Beach. Full CARFAX and the window sticker read line by line; priced against 4 BaT sales and 5 live dealer asks.",
+ "facts": [
+  [
+   "Ask $354,966",
+   "w"
+  ],
+  [
+   "Cap $340k to $345k",
+   "w"
+  ],
+  [
+   "1 owner · lease · no accidents",
+   "g"
+  ],
+  [
+   "6,914 mi",
+   ""
+  ],
+  [
+   "MSRP $398,240",
+   ""
+  ],
+  [
+   "No service since 701 mi",
+   "w"
+  ]
+ ],
+ "takeaway": "My two cents: clean, local, one-owner car at a full price. Fair is $338k to $342k. Open at $335k, land $340k, walk above $345k. Philadelphia's 6k-mile Spider asks $354,309 and has sat since Sep 18; use it. This one saves about $2,000 in transport. Make the missed annual service theirs before delivery.",
+ "shift": [
+  [
+   "Sold: 2024, 1.2k mi, MSO Sarthe Gray, $375,000",
+   "BaT, Jul 15, 2026 (+5% buyer fee, capped $7,500)"
+  ],
+  [
+   "Sold: 2024, 2.5k mi, Mantis Green, $353,666",
+   "BaT, May 20, 2026; $100k+ of options"
+  ],
+  [
+   "Sold: 2024, 3k mi, MSO Tokyo Cyan, $335,000",
+   "BaT, May 27, 2026"
+  ],
+  [
+   "Sold: 2024, 2k mi, Anthracite, $326,000",
+   "BaT, Sep 12, 2026; newest sale"
+  ],
+  [
+   "Live asks at similar miles",
+   "Lamborghini Philadelphia 6k $354,309 (listed Sep 18) and 10k $364,310; Brooklyn Auto 6k $359,999; Ferrari of Charlotte 12k $359,995; Velocity Nashville 8k $364,995 (classic.com, Nov 15)"
+  ],
+  [
+   "What the CARFAX adds",
+   "No service record since 701 mi in Jan 2025, about 21 months. Warranty about 14 months left. Extend it before it lapses: the lapsed 720S needed a $1,480 inspection plus $10,530 for a year"
+  ]
+ ],
+ "sources": "Dealer listing and its free CARFAX (ar20 link) read in full in Walt Chrome, Nov 15, 2026. Window sticker from the dealer's iPacket Original MSRP module (PDF dated Oct 14, 2026). Days listed from the CARFAX 'offered for sale' date, Nov 5. Sold prices from Bring a Trailer; live asks from classic.com, Nov 15. Reviews: Google (all 102, newest first), Yelp, DealerRater, Cars.com, BBB. Staff titles from mclarennb.com About Us. Nobody contacted.",
+ "cars": [
+  {
+   "r": 1,
+   "mv": "new",
+   "g": "A-",
+   "gc": "a",
+   "pick": false,
+   "name": "McLaren Newport Beach",
+   "car": "2024 · Elite Cosmos / Carbon Black with Flux Green, 750S Performance Interior, Black Pack, B&W",
+   "loc": "McLaren Newport Beach, Irvine, CA",
+   "price": 354966,
+   "mi": "6,914",
+   "own": "1",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No repairs, no accidents, clean title. No service on record since 701 mi (Jan 2025): the first annual service is missing.",
+   "tl": [
+    [
+     "Oct 2024",
+     "m",
+     "Sold new here. Pre-delivery inspection at 13 mi (Lamborghini Newport Beach, same store)"
+    ],
+    [
+     "Dec 2024",
+     "s",
+     "Owner 1, personal lease, San Clemente, CA. Titled with a lien"
+    ],
+    [
+     "Dec 2024 to Jan 2025",
+     "m",
+     "Two dealer visits: alignment and tire checks at 340 and 701 mi"
+    ],
+    [
+     "Jan 2025 to Nov 2026",
+     "w",
+     "<b>No service for about 21 months</b>, 701 to 6,914 mi. First annual service (due late 2025) not on the report"
+    ],
+    [
+     "Sep 29, 2026",
+     "m",
+     "Passed California smog, 6,910 mi"
+    ],
+    [
+     "Nov 5, 2026",
+     "s",
+     "Lease turned in; listed at <b>$354,966</b>, 6,914 mi. Original MSRP $398,240. Factory warranty about 14 months left (to about Jan 2028)"
+    ]
+   ],
+   "verdict": "<b>$9,966 over the $345k cap at $354,966.</b> Open $335k, target $340k, walk above $345k. <b>The cleanest kind of 750S:</b> one owner, no accidents, local Irvine car, $53k of options, 14 months of factory warranty. The one knock: no service on record since 701 mi. Before money, ask for their repair orders, and make the missed annual service part of the deal, done and documented before delivery.",
+   "url": "https://www.carfax.com/vehicle/SBM14BCA0RW008271",
+   "vin": "SBM14BCA0RW008271",
+   "listed": "2026-11-05",
+   "msrp": 398240,
+   "msrpSrc": "Window sticker on the dealer's iPacket (Original MSRP module, PDF dated Oct 14, 2026): base $345,000 + $46,740 options + $5,500 destination + $1,000 gas guzzler = $398,240",
+   "sticker": "https://mqv.autoipacket.com/SBM14BCA0RW008271?MQV=true&module_id=7&enhanced_webicon_id=a4bddg1f1hba",
+   "stickerLabel": "Window sticker (iPacket)",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/sxnA2NDoR_0DT4HfiwtHa5R3zGSwMAmVCu-C2Yglpm1b5qM2mwtcAiNcGoEXAakONEYC_mKg6S8cAygkxFfM9omoKDhSgYZCN8W6Ktnf",
+   "dealerUrl": "https://www.mclarennb.com/auto/preowned-2024-mclaren-750s-spider/126702684/?store=mclaren-nb",
+   "opts": [
+    "750S Performance Interior $9,400",
+    "Elite Cosmos paint $5,900",
+    "B&W audio $5,400",
+    "360 park assist $4,000",
+    "Black Pack $3,950",
+    "Power heated memory seats $3,900",
+    "Strike 10-spoke super-lightweight wheels $3,400",
+    "Satin carbon sills $3,300",
+    "America's Accessories Pack $2,240",
+    "Flux Green calipers $2,200",
+    "Gloss black wheel finish $2,000",
+    "Alcantara wheel $650",
+    "Homelink $400",
+    "Vehicle lift (included)"
+   ],
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Yelp",
+      "4.4 · 50",
+      "https://www.yelp.com/biz/mclaren-newport-beach-irvine"
+     ],
+     [
+      "DealerRater",
+      "Not rated · 163, shared with Lamborghini NB, newest Jan 2025",
+      "https://www.dealerrater.com/dealer/Lamborghini-Newport-Beach-dealer-reviews-42770/"
+     ],
+     [
+      "Cars.com",
+      "Not rated · 166",
+      "https://www.cars.com/dealers/2248898/lamborghini-newport-beach/reviews/"
+     ],
+     [
+      "BBB",
+      "No profile",
+      "https://www.bbb.org/search?find_country=USA&find_text=McLaren%20Newport%20Beach"
+     ],
+     [
+      "Google",
+      "4.6 · 102",
+      "https://www.google.com/maps/place/McLaren+Newport+Beach/@33.633276,-117.7221492,17z"
+     ]
+    ],
+    "good": "Sales gets named five-star for years (Randy, Matthew, Joey); out-of-state buyers bought sight unseen and were happy.",
+    "bad": "Service is the sore spot: Google 1-stars a week, 3 and 4 months ago on callbacks and service-manager turnover."
+   },
+   "ask": {
+    "basis": "all 102 Google reviews newest first, plus Yelp and DealerRater, Nov 15",
+    "people": [
+     {
+      "name": "Randy McCall",
+      "line": "Sales manager. 5 Google five-stars (newest 3 months ago, a Texas buyer sight unseen), DealerRater's most-named, Yelp five-star Feb 2026.",
+      "phone": "888-905-5474",
+      "email": "randy.mccall@mclarennb.com",
+      "emailNote": "pattern from javier.cesena@mclarennb.com (verified Nov 13), unverified"
+     },
+     {
+      "name": "Matthew Parsons",
+      "line": "Sales manager. 4 Google five-stars plus Yelp's most-named; one May 3-star knocked his attitude.",
+      "phone": "888-905-5474",
+      "email": "matthew.parsons@mclarennb.com",
+      "emailNote": "pattern, unverified"
+     },
+     {
+      "name": "Jordan Hauk",
+      "line": "Sales manager. Newest five-star on Google (Sep 22, 2026). At the store since 2015, sales since 2019 (DealerRater).",
+      "phone": "888-905-5474",
+      "email": "jordan.hauk@mclarennb.com",
+      "emailNote": "pattern, unverified"
+     }
+    ]
+   }
+  }
+ ],
+ "cap": {
+  "low": 340000,
+  "max": 345000,
+  "why": "Walt's cap from sold cars: 2024 750S Spiders sold on BaT for $326k to $375k this year (median $344k, about $352k with the buyer fee). Dealer asks at 6k to 12k miles run $354k to $365k."
+ }
+}

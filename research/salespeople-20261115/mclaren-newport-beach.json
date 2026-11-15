@@ -1,0 +1,30 @@
+{
+ "dealer": "McLaren Newport Beach, 44 Auto Center Dr, Irvine CA 92618",
+ "reviews_read": 102,
+ "oldest_read": "11 years ago",
+ "sort": "Newest",
+ "note": "Google place has only 102 reviews in total; all read (raw: mclaren-newport-beach-google-reviews.json). Cross-checked Yelp (4.4, 50, sorted newest) and DealerRater (163, shared with Lamborghini Newport Beach, newest Jan 2025). Staff titles from mclarennb.com/about-us 'Meet Our Sales Staff', Nov 15 2026.",
+ "people": [
+  {"name": "Randy McCall", "role": "Sales Manager (staff page)", "mentions": 5, "five_star": 5, "last_90d": 0, "negative": 0, "latest_mention_date": "Google, about Aug 2026 (3 months ago)",
+   "quotes": ["Since I'm located in Texas and couldn't view the car in person, trust was everything", "Randy McCall is TOP NOTCH!"],
+   "other_sites": "DealerRater: most-named salesperson, 5.0 reviews Oct 5 and Nov 17 2024 (dealerrater.com/sales/Randy-McCall-review-775551). Yelp Feb 11 2026 five-star.",
+   "phone": "888-905-5474", "phone_src": "mclarennb.com sales line (no direct cell found)",
+   "email": "randy.mccall@mclarennb.com", "email_src": "pattern, unverified (javier.cesena@mclarennb.com verified in our Nov 13 thread)"},
+  {"name": "Matthew Parsons", "role": "Sales Manager (staff page)", "mentions": 5, "five_star": 4, "last_90d": 0, "negative": 0, "latest_mention_date": "Google five-star about Feb 2026; Google 3-star about May 2026",
+   "quotes": ["took his time to explain all of the cars history, differences, warranty"],
+   "other_sites": "Yelp: 'Matthew' named in 6 reviews; five-star Aug 2025 (with Joey), Jan 2025, Jul 2024. One Google 3-star (6 months ago) praised Joey and knocked Matthew's attitude as sales manager.",
+   "phone": "888-905-5474", "phone_src": "mclarennb.com sales line",
+   "email": "matthew.parsons@mclarennb.com", "email_src": "pattern, unverified"},
+  {"name": "Jordan Hauk", "role": "Sales Manager (staff page)", "mentions": 1, "five_star": 1, "last_90d": 1, "negative": 0, "latest_mention_date": "Google Sep 22, 2026 (newest sales review)",
+   "quotes": ["made the whole purchasing and delivering experience a memorable one"],
+   "other_sites": "DealerRater profile: with the store since 2015, sales since 2019, McLaren Master Certified (dealerrater.com/sales/Jordan-Hauk-review-775549).",
+   "phone": "888-905-5474", "phone_src": "mclarennb.com sales line",
+   "email": "jordan.hauk@mclarennb.com", "email_src": "pattern, unverified"},
+  {"name": "Joey Moccia", "role": "Sales Manager (staff page)", "mentions": 3, "five_star": 2, "last_90d": 0, "negative": 0, "latest_mention_date": "Yelp May 5, 2026",
+   "quotes": ["definitely the best sales person I have ever worked with"], "notes": "Runner-up: Yelp five-stars May 2026 and Aug 2025; praised inside a Google 3-star."},
+  {"name": "Richard Zierhut", "role": "Sales Manager (staff page)", "mentions": 1, "five_star": 1, "latest_mention_date": "Google, about Dec 2025 (600LT sale)"}
+ ],
+ "top3": ["Randy McCall", "Matthew Parsons", "Jordan Hauk"],
+ "service_contact": "Javier Cesena, McLaren service advisor, javier.cesena@mclarennb.com, 714-881-4575 x1905 (verified, our Nov 13 thread)",
+ "method": "Walt Chrome, Google Maps place McLaren Newport Beach, Reviews sorted Newest, scrolled to the end (102), expanded every review, counted staff names. Read only."
+}
