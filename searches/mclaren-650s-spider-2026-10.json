@@ -531,7 +531,7 @@
       "name": "Cascadia Collection",
       "car": "2015 · Pearl White / Arabica Brown",
       "loc": "Enumclaw, WA",
-      "price": 130050,
+      "price": 125050,
       "mi": "14,267",
       "own": "4",
       "maj": 1,
@@ -588,9 +588,14 @@
           "Oct 2026",
           "s",
           "Owner 4 dumps it at <b>auction</b> (2nd) after 5½ months"
+        ],
+        [
+          "Nov 2026",
+          "s",
+          "<b>Price cut $5,000</b> to $125,050 (Nov 18)"
         ]
       ],
-      "verdict": "Cheapest for a reason. Price evidence only, unless the Fields invoices and a McLaren PPI clear the electrical trail.",
+      "verdict": "Cheapest for a reason. Price evidence only, unless the Fields invoices and a McLaren PPI clear the electrical trail. Cut $5,000 to $125,050 Nov 18.",
       "url": "https://www.cascadiacollection.com/inventory/mclaren/650s/89/",
       "pick": false,
       "vin": "SBM11FAA2FW004401",
