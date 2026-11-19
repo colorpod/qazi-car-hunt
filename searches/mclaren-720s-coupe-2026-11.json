@@ -172,9 +172,9 @@
    "gc": "b",
    "pick": false,
    "name": "McLaren Scottsdale",
-   "car": "2019 · price on request",
+   "car": "2019 · Silver",
    "loc": "McLaren Scottsdale, AZ",
-   "price": 0,
+   "price": 269886,
    "mi": "1,899",
    "own": "2",
    "maj": 0,
@@ -206,9 +206,14 @@
      "Nov 5, 2026",
      "s",
      "Listed at McLaren Scottsdale, 1,899 mi, price not posted"
+    ],
+    [
+     "Nov 19, 2026",
+     "m",
+     "Price posted on CARFAX: <b>$269,886</b> with fees, about $30k over the $240k coupe cap"
     ]
    ],
-   "verdict": "<b>Price on request.</b> Worth one call only if they land at $240k. <b>Practically a new car</b> at 1,899 mi, McLaren-serviced. Ask why two duplicate titles were issued and get the number; expect it priced near $270k.",
+   "verdict": "<b>$269,886, about $30k over the $240k coupe cap.</b> Skip unless they come down to $240k. <b>Practically a new car</b> at 1,899 mi, McLaren-serviced. Two duplicate titles (2019, 2020) still unexplained.",
    "url": "https://www.carfax.com/vehicle/SBM14DCA3KW002501",
    "vin": "SBM14DCA3KW002501",
    "listed": "2026-11-05",
@@ -226,7 +231,7 @@
      ]
     ],
     "good": "Franchise McLaren dealer.",
-    "bad": "Price not posted."
+    "bad": "Priced about $30k over the coupe cap."
    },
    "stickerNote": "No live dealer listing"
   },
