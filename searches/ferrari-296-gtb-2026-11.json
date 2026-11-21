@@ -4,7 +4,7 @@
  "model": "296 GTB",
  "date": "2026-11-15",
  "scope": "The two cars Qazi asked about · Nashville, TN",
- "title": "What These Two Cars Have Been Through",
+ "title": "What These 296s Have Been Through",
  "lead": "Two 2022 296 GTBs in Rosso Corsa at Prancing Horse of Nashville. Both CARFAX reports and window stickers read line by line; priced against 9 BaT sales and 12 live dealer asks.",
  "facts": [
   [
@@ -32,7 +32,7 @@
    "w"
   ]
  ],
- "takeaway": "My two cents: the 2,862-mile car is the one. Both ask about $330k; BaT has been selling 2022 to 2023 GTBs for $267k to $288k all year. Open the 2.9k car at $318k, land $300k, walk above $305k. Ferrari of Tampa Bay's $309,985 2023 is no lever: its CARFAX shows an Aug 2026 rear-end accident, 4 owners incl. corporate fleet, and it is not CPO. Neither car shows a service since 2023 or 2024, so the service printout comes first.",
+ "takeaway": "Newest (Nov 20): McLaren Newport Beach's 3.1k-mile 2022 at $318,966 failed California smog Oct 16 and has an unexplained 850-mile repair list, so it's a pass unless the smog cert and repair order check out; fair is $285k to $295k. My two cents: the 2,862-mile car is the one. Both ask about $330k; BaT has been selling 2022 to 2023 GTBs for $267k to $288k all year. Open the 2.9k car at $318k, land $300k, walk above $305k. Ferrari of Tampa Bay's $309,985 2023 is no lever: its CARFAX shows an Aug 2026 rear-end accident, 4 owners incl. corporate fleet, and it is not CPO. Neither car shows a service since 2023 or 2024, so the service printout comes first.",
  "shift": [
   [
    "Sold: 2022, 6k mi, Rosso Corsa / Nero, $275,000",
@@ -452,6 +452,172 @@
     "Black tailpipes",
     "HomeLink"
    ]
+  },
+  {
+   "r": 4,
+   "mv": "new",
+   "g": "C+",
+   "gc": "c",
+   "pick": false,
+   "name": "McLaren Newport Beach (3.1k mi)",
+   "car": "2022 · Rosso Corsa / Nero with Rosso inserts, carbon racing seats, matte diamond-polished forged wheels, front lift, front PPF",
+   "loc": "McLaren Newport Beach, Irvine, CA",
+   "price": 318966,
+   "mi": "3,096",
+   "own": "Not given",
+   "maj": 0,
+   "oth": 0,
+   "auc": 0,
+   "rep": "No accidents, clean title. But it failed California smog Oct 16, had A/C, intake and all four calipers replaced at 850 mi, and needed tires twice in 1,500 mi.",
+   "tl": [
+    [
+     "Oct 2022",
+     "m",
+     "First visit, Ferrari of Fort Lauderdale, 195 mi. Factory warranty starts about here"
+    ],
+    [
+     "Mar 2023",
+     "m",
+     "Ferrari of Rancho Mirage, CA, 367 mi"
+    ],
+    [
+     "Jun 2023",
+     "m",
+     "Ferrari of Central New Jersey inspection, 643 mi"
+    ],
+    [
+     "Jan 2024",
+     "r",
+     "<b>Big repair list at 850 mi</b> at Wide World of Cars, Spring Valley, NY (independent): A/C compressor, intake manifold, all four brake calipers and pads. No accident reported and no reason given"
+    ],
+    [
+     "Mar 2024 to Jun 2025",
+     "s",
+     "Listed at Ferrari of Central New Jersey at 851 mi. Sold Jun 2025 at 915 mi, about 15 months later"
+    ],
+    [
+     "Jul 2025",
+     "s",
+     "Montana title, new owner, loan on it. <b>First title record on the report</b>: no title from 2022 to 2025 and no owner count"
+    ],
+    [
+     "Jul 2025",
+     "w",
+     "Tires replaced at 1,325 mi, Bluegrass Precision, Lexington, KY (independent)"
+    ],
+    [
+     "Feb 2026",
+     "m",
+     "Ferrari of Central New Jersey, 2,276 mi: exhaust pipe replaced, back-up camera replaced, software update"
+    ],
+    [
+     "Aug 2026",
+     "w",
+     "Prancing Horse of Nashville, 2,824 mi: annual service and <b>tires replaced again</b>, 1,500 mi after the last set"
+    ],
+    [
+     "Sep 2026",
+     "s",
+     "Offered for sale at Lamborghini Nashville"
+    ],
+    [
+     "Oct 16, 2026",
+     "r",
+     "<b>Failed California emissions inspection</b>, 2,994 mi"
+    ],
+    [
+     "Nov 19, 2026",
+     "s",
+     "Listed here at <b>$318,966</b> + $85 doc + $37 EVR, 3,096 mi, stock 5678A (trade-in)"
+    ]
+   ],
+   "verdict": "<b>Pass unless they clear three things.</b> <b>$13,966 over the $305k cap at $318,966</b>, with no warranty (ended about Oct 2025) and no Ferrari Approved, since a McLaren store can't certify a Ferrari. <b>1. Failed California smog Oct 16:</b> a CA dealer must hand over a passing smog certificate, so get it before any money. <b>2. The 850-mile repair list</b> (A/C compressor, intake manifold, all four calipers) at an independent shop: get that repair order and the reason. <b>3. Tires twice in 1,500 miles</b> reads like track or hard use. Its paper is worse than the 1-owner Miami car at $309,990. Fair: open $285k, land $292k, walk above $295k.",
+   "url": "https://www.carfax.com/vehicle/ZFF99SLA2N0278419",
+   "vin": "ZFF99SLA2N0278419",
+   "listed": "2026-11-19",
+   "msrp": null,
+   "msrpSrc": "No window sticker on the dealer site (its iPacket has only the CARFAX and brochures). Its options match the 2.9k Nashville car, whose sticker was $412,547",
+   "carfax": "https://www.carfax.com/vehiclehistory/ar20/eLCKnA0QB6K3rpb1MywemlZDzCZ5inO8FuxfcKgJ9C7X-R2bpHO2AVYwiGDGyAYzjVzcs9G2mnoJc7mWet_b7oKlqgU1SWYkBGT2SeK2",
+   "dealerUrl": "https://www.mclarennb.com/auto/preowned-2022-ferrari-296-gtb-base/127326259/",
+   "opts": [
+    "Carbon racing seats",
+    "Matte diamond-polished forged wheels",
+    "Titanium wheel studs",
+    "Suspension lifter",
+    "Carbon instrument cluster",
+    "Carbon diffuser",
+    "Carbon wheel with LEDs",
+    "Carbon dash inserts",
+    "Carbon upper tunnel",
+    "AFS headlights",
+    "Back radar",
+    "Carbon sills",
+    "Black ceramic exhaust tips",
+    "Black calipers",
+    "Horse on headrest",
+    "Coloured inner details",
+    "Rosso leather inserts and stitching",
+    "Leather headliner",
+    "Front-end PPF"
+   ],
+   "rev": {
+    "tone": "w",
+    "scores": [
+     [
+      "Yelp",
+      "4.4 · 50",
+      "https://www.yelp.com/biz/mclaren-newport-beach-irvine"
+     ],
+     [
+      "DealerRater",
+      "Not rated · 163, shared with Lamborghini NB, newest Jan 2025",
+      "https://www.dealerrater.com/dealer/Lamborghini-Newport-Beach-dealer-reviews-42770/"
+     ],
+     [
+      "Cars.com",
+      "Not rated · 166",
+      "https://www.cars.com/dealers/2248898/lamborghini-newport-beach/reviews/"
+     ],
+     [
+      "BBB",
+      "No profile",
+      "https://www.bbb.org/search?find_country=USA&find_text=McLaren%20Newport%20Beach"
+     ],
+     [
+      "Google",
+      "4.6 · 102",
+      "https://www.google.com/maps/place/McLaren+Newport+Beach/@33.633276,-117.7221492,17z"
+     ]
+    ],
+    "good": "Sales gets named five-star for years (Randy, Matthew, Joey); out-of-state buyers bought sight unseen and were happy.",
+    "bad": "Service is the sore spot: Google 1-stars a week, 3 and 4 months ago on callbacks and service-manager turnover."
+   },
+   "ask": {
+    "basis": "all 102 Google reviews newest first, plus Yelp and DealerRater, Nov 15",
+    "people": [
+     {
+      "name": "Randy McCall",
+      "line": "Sales manager. 5 Google five-stars (newest 3 months ago, a Texas buyer sight unseen), DealerRater's most-named, Yelp five-star Feb 2026.",
+      "phone": "888-905-5474",
+      "email": "randy.mccall@mclarennb.com",
+      "emailNote": "pattern from javier.cesena@mclarennb.com (verified Nov 13), unverified"
+     },
+     {
+      "name": "Matthew Parsons",
+      "line": "Sales manager. 4 Google five-stars plus Yelp's most-named; one May 3-star knocked his attitude.",
+      "phone": "888-905-5474",
+      "email": "matthew.parsons@mclarennb.com",
+      "emailNote": "pattern, unverified"
+     },
+     {
+      "name": "Jordan Hauk",
+      "line": "Sales manager. Newest five-star on Google (Sep 22, 2026). At the store since 2015, sales since 2019 (DealerRater).",
+      "phone": "888-905-5474",
+      "email": "jordan.hauk@mclarennb.com",
+      "emailNote": "pattern, unverified"
+     }
+    ]
+   }
   }
  ],
  "cap": {
