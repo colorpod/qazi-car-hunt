@@ -851,7 +851,7 @@
       "name": "Arizona dealer",
       "car": "2016 · White / Carbon Black",
       "loc": "Chapman BMW, Phoenix",
-      "price": 168899,
+      "price": 165529,
       "mi": "13,591",
       "own": "5",
       "maj": 3,
@@ -913,6 +913,11 @@
           "Nov 13",
           "m",
           "Autotrader price cut: $172,329 to $168,899 with fees"
+        ],
+        [
+          "Nov 21",
+          "m",
+          "Autotrader price cut: $168,899 to $165,529 with fees"
         ]
       ],
       "verdict": "13 repairs and two auctions. Closest thing to a lemon on the board. Pass.",
